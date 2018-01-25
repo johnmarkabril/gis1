@@ -17,25 +17,26 @@
             <label>Crime</label>
             <select class="form-control" id="select-crime">
                 <option value="All">All</option>
-                <option value="ANTI-CARNAPPING ACT (R.A. 6539) MC">Carnapping</option>
-                <option value="Drug Related Incident (RA 9165)">Drug Related Incident</option>
+                <option value="ANTI-CARNAPPING ACT (R.A. 6539)">Carnapping</option>
+                <option value="DRUG RELATED INCIDENT (RA 9165)">Drug Related Incident</option>
                 <option value="HOMICIDE">Homicide</option>
                 <option value="MURDER">Murder</option>
                 <option value="PHYSICAL INJURIES">Physical Injuries</option>
                 <option value="RAPE (Art. 266-A RC & R.A.8353)">Rape</option>
                 <option value="ROBBERY">Robbery</option>
                 <option value="THEFT">Theft</option>
-                <option value="Vehicular Traffic Accident">Vehicular Traffic</option>
+                <option value="VEHICULAR TRAFFIC ACCIDENT">Vehicular Traffic</option>
             </select>
 
-            <div class="padding-top-normal">
+            <div class="padding-top-small">
                 <label>Time range: </label> <span class="slider-time">12:00 AM</span> - <span class="slider-time2">11:59 PM</span>
                 <div class="sliders_step1 padding-top-small">
                     <div id="slider-range"></div>
                 </div>
             </div>
 
-            <div class="padding-top-large">
+            <div class="padding-top-normal">
+			<label>Month</label>			
                 <select class="form-control" id="select-month">
                     <option value="All">All months</option>
                     <option value="Jan">January</option>
@@ -49,11 +50,12 @@
                     <option value="Sep">September</option>
                     <option value="Oct">October</option>
                     <option value="Nov">November</option>
-                    <option value="Dec">Dec</option>
+                    <option value="Dec">December</option>
                 </select>
             </div>
 
-            <div class="padding-top-normal">
+            <div class="padding-top-small">
+			<label>Year</label>
                 <select class="form-control" id="select-year">
                     <option value="All">All years</option>
                     <option value="2017">2017</option>
@@ -61,15 +63,17 @@
                 </select>
             </div>
 
-            <div class="padding-top-normal">
+            <div class="padding-top-small">
                 <input type="button" id="btn-filter" class="btn btn-default" value="Search" />
             </div>
-
-            <a id="modal_heatmap_link">Show Heatmap</a>
+			
+			<div class="padding-top-small">
+				<a id="modal_heatmap_link">Show Heatmap</a>
+			</div>
 
             <div class="result w-100">
                 <!-- <div class="recommendation-box"> -->
-                    <div class="result-title">Recommendation</div>
+                <!---<div class="result-title">Recommendation</div> -->
 
                     <div id="result-body" class="text-center"></div>
                 <!-- </div> -->

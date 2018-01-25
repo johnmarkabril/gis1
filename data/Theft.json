@@ -8,14 +8,7 @@
         "customtime": "2:30:PM",
         "crime": "THEFT",
         "location": "Barangay 139, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Bukas -Kotse",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc17",
-        "date_com": "2016-12-29",
-        "datechar": "12/29/2016"
+        "modus": "Bukas -Kotse"
     },
     {
         "lng": "120.968",
@@ -26,14 +19,7 @@
         "customtime": "9:30:AM",
         "crime": "THEFT",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Plain Theft",
-        "crimetype": "10",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc28",
-        "date_com": "2016-12-30",
-        "datechar": "12/30/2016"
+        "modus": "Plain Theft"
     },
     {
         "lng": "121.774",
@@ -44,14 +30,7 @@
         "customtime": "8:00:PM",
         "crime": "THEFT",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc12",
-        "date_com": "2017-01-01",
-        "datechar": "1/1/2017"
+        "modus": "Salisi"
     },
     {
         "lng": "120.952",
@@ -62,14 +41,7 @@
         "customtime": "1:30:AM",
         "crime": "THEFT",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc12",
-        "date_com": "2017-01-02",
-        "datechar": "1/2/2017"
+        "modus": "Salisi"
     },
     {
         "lng": "120.968",
@@ -80,14 +52,7 @@
         "customtime": "10:00:AM",
         "crime": "THEFT",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc66",
-        "date_com": "2017-01-02",
-        "datechar": "1/2/2017"
+        "modus": "Qualified Theft"
     },
     {
         "lng": "120.996",
@@ -98,14 +63,7 @@
         "customtime": "7:00:AM",
         "crime": "THEFT",
         "location": "Barangay 136, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc66",
-        "date_com": "2017-01-02",
-        "datechar": "1/2/2017"
+        "modus": "Qualified Theft"
     },
     {
         "lng": "120.996",
@@ -116,14 +74,7 @@
         "customtime": "8:30:PM",
         "crime": "THEFT",
         "location": "Barangay 94, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Basag Salamin",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc18",
-        "date_com": "2017-01-03",
-        "datechar": "1/3/2017"
+        "modus": "Basag Salamin"
     },
     {
         "lng": "120.994",
@@ -134,14 +85,7 @@
         "customtime": "3:43:PM",
         "crime": "THEFT",
         "location": "Barangay 101, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc66",
-        "date_com": "2017-01-03",
-        "datechar": "1/3/2017"
+        "modus": "Qualified Theft"
     },
     {
         "lng": "120.955",
@@ -152,14 +96,7 @@
         "customtime": "5:00:PM",
         "crime": "THEFT",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc12",
-        "date_com": "2017-01-04",
-        "datechar": "1/4/2017"
+        "modus": "Salisi"
     },
     {
         "lng": "120.958",
@@ -170,14 +107,7 @@
         "customtime": "3:00:AM",
         "crime": "THEFT",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc66",
-        "date_com": "2017-01-06",
-        "datechar": "1/6/2017"
+        "modus": "Qualified Theft"
     },
     {
         "lng": "121.043",
@@ -188,14 +118,7 @@
         "customtime": "6:27:PM",
         "crime": "THEFT",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shoplifting",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc72",
-        "date_com": "2017-01-06",
-        "datechar": "1/6/2017"
+        "modus": "Shoplifting"
     },
     {
         "lng": "120.984",
@@ -206,14 +129,7 @@
         "customtime": "1:05:PM",
         "crime": "THEFT",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shoplifting",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc72",
-        "date_com": "2017-01-06",
-        "datechar": "1/6/2017"
+        "modus": "Shoplifting"
     },
     {
         "lng": "120.999",
@@ -224,14 +140,7 @@
         "customtime": "10:08:PM",
         "crime": "THEFT",
         "location": "Barangay 139, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Plain Theft",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc28",
-        "date_com": "2017-01-06",
-        "datechar": "1/6/2017"
+        "modus": "Plain Theft"
     },
     {
         "lng": "121.077",
@@ -242,14 +151,7 @@
         "customtime": "2:30:AM",
         "crime": "THEFT",
         "location": "Barangay 185, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-07",
-        "datechar": "1/7/2017"
+        "modus": "Salisi"
     },
     {
         "lng": "120.984",
@@ -260,14 +162,7 @@
         "customtime": "3:14:PM",
         "crime": "THEFT",
         "location": "Barangay 108, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Basag Salamin",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc18",
-        "date_com": "2017-01-07",
-        "datechar": "1/7/2017"
+        "modus": "Basag Salamin"
     },
     {
         "lng": "120.978",
@@ -278,14 +173,7 @@
         "customtime": "2:00:PM",
         "crime": "THEFT",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc66",
-        "date_com": "2017-01-07",
-        "datechar": "1/7/2017"
+        "modus": "Qualified Theft"
     },
     {
         "lng": "120.984",
@@ -296,14 +184,7 @@
         "customtime": "11:30:PM",
         "crime": "THEFT",
         "location": "Barangay 61, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Basag Salamin",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc18",
-        "date_com": "2017-01-07",
-        "datechar": "1/7/2017"
+        "modus": "Basag Salamin"
     },
     {
         "lng": "120.967",
@@ -314,14 +195,7 @@
         "customtime": "9:30:AM",
         "crime": "THEFT",
         "location": "Acacia, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Plain Theft",
-        "crimetype": "10",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc28",
-        "date_com": "2017-01-08",
-        "datechar": "1/8/2017"
+        "modus": "Plain Theft"
     }, 
     {
         "lng": "120.957",
@@ -332,14 +206,7 @@
         "customtime": "10:55:PM",
         "crime": "THEFT",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc66",
-        "date_com": "2017-01-09",
-        "datechar": "1/9/2017"
+        "modus": "Qualified Theft"
     },
     {
         "lng": "120.989",
@@ -349,15 +216,8 @@
         "time": "15:00:00",
         "customtime": "3:00:PM",
         "crime": "THEFT",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-09",
-        "datechar": "1/9/2017"
+        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR     
+        "modus": "Salisi"
     },
     {
         "lng": "120.984",
@@ -368,14 +228,7 @@
         "customtime": "4:00:PM",
         "crime": "THEFT",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Plain Theft",
-        "crimetype": "10",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc28",
-        "date_com": "2017-01-09",
-        "datechar": "1/9/2017"
+        "modus": "Plain Theft"    
     },
     {
         "lng": "120.966",
@@ -386,14 +239,7 @@
         "customtime": "3:30:PM",
         "crime": "THEFT",
         "location": "Baritan, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-10",
-        "datechar": "1/10/2017"
+        "modus": "Salisi"    
     },
     {
         "lng": "120.983",
@@ -403,15 +249,8 @@
         "time": "14:31:00",
         "customtime": "2:31:PM",
         "crime": "THEFT",
-        "location": "Barangay 76, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Plain Theft",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc28",
-        "date_com": "2017-01-10",
-        "datechar": "1/10/2017"
+        "location": "Barangay 76, Kalookan City, Ncr District 3 (Northern), NCR",       
+        "modus": "Plain Theft"       
     },
     {
         "lng": "120.984",
@@ -421,15 +260,8 @@
         "time": "18:15:00",
         "customtime": "6:15:PM",
         "crime": "THEFT",
-        "location": "Barangay 78, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc66",
-        "date_com": "2017-01-10",
-        "datechar": "1/10/2017"
+        "location": "Barangay 78, Kalookan City, Ncr District 3 (Northern), NCR",        
+        "modus": "Qualified Theft"       
     },  
     {
         "lng": "120.995",
@@ -440,14 +272,7 @@
         "customtime": "2:00:PM",
         "crime": "THEFT",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-11",
-        "datechar": "1/11/2017"
+        "modus": "Salisi"        
     },
     {
         "lng": "120.961",
@@ -457,15 +282,8 @@
         "time": "01:35:00",
         "customtime": "1:35:AM",
         "crime": "THEFT",
-        "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-12",
-        "datechar": "1/12/2017"
+        "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",        
+        "modus": "Salisi"       
     },
     {
         "lng": "120.952",
@@ -475,15 +293,8 @@
         "time": "23:40:00",
         "customtime": "11:40:PM",
         "crime": "THEFT",
-        "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi (Establishment)",
-        "crimetype": "10",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc68",
-        "date_com": "2017-01-12",
-        "datechar": "1/12/2017"
+        "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",        
+        "modus": "Salisi (Establishment)"      
     },
     {
         "lng": "120.964",
@@ -493,15 +304,8 @@
         "time": "13:30:00",
         "customtime": "1:30:PM",
         "crime": "THEFT",
-        "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-12",
-        "datechar": "1/12/2017"
+        "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",       
+        "modus": "Salisi"
     },
     {
         "lng": "121.02",
@@ -511,15 +315,8 @@
         "time": "20:00:00",
         "customtime": "8:00:PM",
         "crime": "THEFT",
-        "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi (Akyat Bahay)",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc67",
-        "date_com": "2017-01-12",
-        "datechar": "1/12/2017"
+        "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",        
+        "modus": "Salisi (Akyat Bahay)"        
     },
     {
         "lng": "120.956",
@@ -530,14 +327,7 @@
         "customtime": "4:45:PM",
         "crime": "THEFT",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc12",
-        "date_com": "2017-01-13",
-        "datechar": "1/13/2017"
+        "modus": "Salisi"        
     },
     {
         "lng": "120.976",
@@ -548,14 +338,7 @@
         "customtime": "8:00:PM",
         "crime": "THEFT",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-13",
-        "datechar": "1/13/2017"
+        "modus": "Salisi"       
     },
     {
         "lng": "120.954",
@@ -566,14 +349,7 @@
         "customtime": "11:30:PM",
         "crime": "THEFT",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi (Akyat Bahay)",
-        "crimetype": "10",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc67",
-        "date_com": "2017-01-13",
-        "datechar": "1/13/2017"
+        "modus": "Salisi (Akyat Bahay)"      
     },
     {
         "lng": "121.001",
@@ -584,14 +360,7 @@
         "customtime": "4:00:PM",
         "crime": "THEFT",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc66",
-        "date_com": "2017-01-14",
-        "datechar": "1/14/2017"
+        "modus": "Qualified Theft"        
     },  
     {
         "lng": "120.968",
@@ -602,14 +371,7 @@
         "customtime": "2:30:AM",
         "crime": "THEFT",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-14",
-        "datechar": "1/14/2017"
+        "modus": "Salisi"     
     },
     {
         "lng": "121.072",
@@ -620,14 +382,7 @@
         "customtime": "9:00:PM",
         "crime": "THEFT",
         "location": "Barangay 179, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi (Others)",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc69",
-        "date_com": "2017-01-14",
-        "datechar": "1/14/2017"
+        "modus": "Salisi (Others)"
     },
     {
         "lng": "120.972",
@@ -637,15 +392,8 @@
         "time": "22:45:00",
         "customtime": "10:45:PM",
         "crime": "THEFT",
-        "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Basag Salamin",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc18",
-        "date_com": "2017-01-15",
-        "datechar": "1/15/2017"
+        "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",        
+        "modus": "Basag Salamin",        
     },
     {
         "lng": "120.98",
@@ -656,14 +404,7 @@
         "customtime": "9:30:AM",
         "crime": "THEFT",
         "location": "Viente Reales, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc12",
-        "date_com": "2017-01-16",
-        "datechar": "1/16/2017"
+        "modus": "Salisi"
     },
     {
         "lng": "120.994",
@@ -674,14 +415,7 @@
         "customtime": "9:30:AM",
         "crime": "THEFT",
         "location": "Barangay 140, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Plain Theft",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc28",
-        "date_com": "2017-01-16",
-        "datechar": "1/16/2017"
+        "modus": "Plain Theft"               
     },   
     {
         "lng": "120.977",
@@ -692,14 +426,7 @@
         "customtime": "4:00:AM",
         "crime": "THEFT",
         "location": "Barangay 32, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi (Akyat Bahay)",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc67",
-        "date_com": "2017-01-16",
-        "datechar": "1/16/2017"
+        "modus": "Salisi (Akyat Bahay)"
     },
     {
         "lng": "120.985",
@@ -710,14 +437,7 @@
         "customtime": "1:00:PM",
         "crime": "THEFT",
         "location": "Barangay 87, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
         "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc66",
-        "date_com": "2017-01-16",
-        "datechar": "1/16/2017"
     },
     {
         "lng": "120.948",
@@ -728,14 +448,7 @@
         "customtime": "6:00:PM",
         "crime": "THEFT",
         "location": "Sipac-Almacen, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "10",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc66",
-        "date_com": "2017-01-17",
-        "datechar": "1/17/2017"
+        "modus": "Qualified Theft"        
     },
     {
         "lng": "121.052",
@@ -818,14 +531,7 @@
         "customtime": "4:00:AM",
         "crime": "THEFT",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Basag Salamin",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc18",
-        "date_com": "2017-01-18",
-        "datechar": "1/18/2017"
+        "modus": "Basag Salamin"
     },
     {
         "lng": "120.983",
@@ -836,9 +542,8 @@
         "customtime": "2:00:PM",
         "crime": "THEFT",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi",
+        
+        "modus": "Salisi"
         "crimetype": "10",
         "station": "Police Station 04 Valenzuela City",
         "moduscode": "mc12",
@@ -944,14 +649,9 @@
         "customtime": "6:30:PM",
         "crime": "THEFT",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Basag Salamin",
-        "crimetype": "10",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc18",
-        "date_com": "2017-01-22",
-        "datechar": "1/22/2017"
+       
+        "modus": "Basag Salamin"
+        
     },
     {
         "lng": "120.982",
