@@ -20,7 +20,17 @@ h1,h2,h3,h4,h5,h6 {
     margin: 0px;
 }
 
-.gm-style-iw + div {display: none;}
+#btn-back-map {
+    position: absolute;
+    top: 31px;
+    z-index: 1;
+    left: 4px;
+    background: #FFFFFF;
+    padding: 5px 17px;
+    display: none;
+}
+
+/*.gm-style-iw + div {display: none;}*/
 .gm-style-iw {text-align:center;}
 
 .map {

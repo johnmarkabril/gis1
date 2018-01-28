@@ -1,5 +1,6 @@
 <div class="row h-100 no-gutters">
     <div class="col-md-9 order-12">
+        <a id="btn-back-map">Back</a>
         <div class="map" id="map"></div>
     </div>
     <div class="col order-1">
@@ -17,7 +18,7 @@
             <label>Crime</label>
             <select class="form-control" id="select-crime">
                 <option value="All">All</option>
-                <option value="ANTI-CARNAPPING ACT (R.A. 6539)">Carnapping</option>
+                <option value="CARNAPPING">Carnapping</option>
                 <option value="DRUG RELATED INCIDENT (RA 9165)">Drug Related Incident</option>
                 <option value="HOMICIDE">Homicide</option>
                 <option value="MURDER">Murder</option>
@@ -25,7 +26,7 @@
                 <option value="RAPE (Art. 266-A RC & R.A.8353)">Rape</option>
                 <option value="ROBBERY">Robbery</option>
                 <option value="THEFT">Theft</option>
-                <option value="VEHICULAR TRAFFIC ACCIDENT">Vehicular Traffic</option>
+                <option value="Vehicular Traffic Accident">Vehicular Traffic</option>
             </select>
 
             <div class="padding-top-small">
@@ -70,6 +71,15 @@
 			<div class="padding-top-small">
 				<a id="modal_heatmap_link">Show Heatmap</a>
 			</div>
+
+            <div class="padding-top-small">
+                <form action="<?php echo base_url(); ?>template/upload_json_file" method="post" enctype="multipart/form-data">
+                    Select image to upload:
+                    <input type="file" class="form-control" name="fileToUpload" id="fileToUpload">
+                    <input type="submit" value="Upload Image" name="submit">
+                </form>
+
+            </div>
 
             <div class="result w-100">
                 <!-- <div class="recommendation-box"> -->

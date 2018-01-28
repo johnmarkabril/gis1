@@ -44,4 +44,11 @@ class Template extends CI_Controller {
 
         print_r(json_encode($array));
     }
+
+    public function upload_json_file()
+    {
+        $target_file = $_SERVER['DOCUMENT_ROOT'] . base_url() . 'data/' .$_FILES["fileToUpload"]["name"] ;
+        move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file);
+        redirect('/');
+    }
 }
