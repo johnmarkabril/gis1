@@ -430,23 +430,23 @@
         var imagepath_url   =   "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m";
 
         if ( select_crime == "CARNAPPING" ) { 
-            imagepath_url   =   "";
+            // imagepath_url   =   "";
         } else if ( select_crime == "DRUG RELATED INCIDENT (RA 9165)" ) {
-            imagepath_url   =   "";
+            // imagepath_url   =   "";
         } else if ( select_crime == "HOMICIDE" ) {
-            imagepath_url   =   "";
+            // imagepath_url   =   "";
         } else if ( select_crime == "MURDER" ) {
-            imagepath_url   =   "";
+            // imagepath_url   =   "";
         } else if ( select_crime == "PHYSICAL INJURIES" ) {
-            imagepath_url   =   "";
+            // imagepath_url   =   "";
         } else if ( select_crime == "RAPE (Art. 266-A RC & R.A.8353)" ) {
-            imagepath_url   =   "";
+            // imagepath_url   =   "";
         } else if ( select_crime == "ROBBERY" ) {
-            imagepath_url   =   "";
+            // imagepath_url   =   "";
         } else if ( select_crime == "THEFT" ) {
             imagepath_url   =   "<?php echo base_url(); ?>public/img/theft";
         } else if ( select_crime == "Vehicular Traffic Accident" ) {
-            imagepath_url   =   "";
+            // imagepath_url   =   "";
         }
 
 
