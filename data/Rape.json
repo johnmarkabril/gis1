@@ -8,14 +8,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc47",
-        "date_com": "2016-12-29",
-        "datechar": "12/29/2016"
+        "modus": "Statutory Rape"
     },
     {
         "lng": "121.021",
@@ -26,13 +19,7 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2016-12-30"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.007",
@@ -43,14 +30,8 @@
         "customtime": "6:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-01-01"
-    },  
+        "modus": "Lewd and Lusty Desire"
+    },
     {
         "lng": "120.979",
         "lat": "14.6584",
@@ -60,13 +41,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 73, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-01-03"
+        "modus": "Incest"
     },  
     {
         "lng": "121.031",
@@ -77,13 +52,7 @@
         "customtime": "10:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc47",
-        "date_com": "2017-01-06"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.954",
@@ -94,13 +63,7 @@
         "customtime": "3:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": "2017-01-07"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.047",
@@ -111,13 +74,7 @@
         "customtime": "4:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-01-07"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.054",
@@ -128,13 +85,7 @@
         "customtime": "10:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-01-08"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.936",
@@ -145,14 +96,7 @@
         "customtime": "2:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": "2017-01-10",
-        "datechar": "1/10/2017"
+        "modus": "Lewd and Lusty Desire"
     },
     {
         "lng": "120.958",
@@ -163,13 +107,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc45",
-        "date_com": "2017-01-14"
+        "modus": "Incest"
     },  
     {
         "lng": "120.972",
@@ -180,13 +118,7 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 35, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Abduction With Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc43",
-        "date_com": "2017-01-14"
+        "modus": "Abduction With Rape"
     },  
     {
         "lng": "121.038",
@@ -197,13 +129,7 @@
         "customtime": "9:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc47",
-        "date_com": "2017-01-15"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "121.041",
@@ -214,13 +140,7 @@
         "customtime": "10:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-01-16"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.993",
@@ -231,31 +151,8 @@
         "customtime": "12:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 95, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-01-17"
-    },  
-    {
-        "lng": "120.969",
-        "lat": "14.6318",
-        "date": "2017-01-18",
-        "customdate": "Wed - Jan 18, 2017",
-        "time": "20:00:00",
-        "customtime": "8:00:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-01-18"
-    },  
+        "modus": "Incest"
+    },   
     {
         "lng": "121.039",
         "lat": "14.7811",
@@ -265,13 +162,7 @@
         "customtime": "7:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-01-21"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.006",
@@ -282,13 +173,7 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-01-22"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.973",
@@ -299,13 +184,7 @@
         "customtime": "6:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 5, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Gang Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc44",
-        "date_com": "2017-01-25"
+        "modus": "Gang Rape"
     },  
     {
         "lng": "121.045",
@@ -316,13 +195,7 @@
         "customtime": "4:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-01-27"
+        "modus": "Incest"
     },  
     {
         "lng": "120.983",
@@ -333,13 +206,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Robbery With Rape",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc46",
-        "date_com": "2017-01-29"
+        "modus": "Robbery With Rape"
     },  
     {
         "lng": "120.985",
@@ -350,13 +217,7 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-01-29"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.955",
@@ -367,13 +228,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Gang Rape",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc44",
-        "date_com": "2017-02-02"
+        "modus": "Gang Rape"
     },  
     {
         "lng": "120.998",
@@ -384,13 +239,7 @@
         "customtime": "12:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-02-02"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.954",
@@ -401,13 +250,7 @@
         "customtime": "11:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc45",
-        "date_com": "2017-02-02"
+        "modus": "Incest"
     },  
     {
         "lng": "120.987",
@@ -418,13 +261,7 @@
         "customtime": "2:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 82, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-04"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.965",
@@ -435,13 +272,7 @@
         "customtime": "4:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-08"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.935",
@@ -452,14 +283,7 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": "2017-02-10",
-        "datechar": "2/10/2017"
+        "modus": "Lewd and Lusty Desire"
     },
     {
         "lng": "120.957",
@@ -470,13 +294,7 @@
         "customtime": "12:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-02-11"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "121.021",
@@ -487,13 +305,7 @@
         "customtime": "11:45:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 169, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-16"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.975",
@@ -504,13 +316,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-02-17"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.992",
@@ -521,13 +327,7 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Paso De Blas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-17"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.04",
@@ -538,13 +338,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-19"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.995",
@@ -555,13 +349,7 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-19"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.975",
@@ -572,13 +360,7 @@
         "customtime": "3:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-22"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.99",
@@ -589,13 +371,7 @@
         "customtime": "12:20:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Paso De Blas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-22"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.953",
@@ -606,13 +382,7 @@
         "customtime": "10:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc45",
-        "date_com": "2017-02-22"
+        "modus": "Incest"
     },  
     {
         "lng": "120.949",
@@ -623,13 +393,7 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Concepcion, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": "2017-02-23"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.936",
@@ -640,14 +404,7 @@
         "customtime": "10:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": "2017-02-26",
-        "datechar": "2/26/2017"
+        "modus": "Lewd and Lusty Desire"
     },
     {
         "lng": "120.97",
@@ -658,13 +415,7 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Viente Reales, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-02-27"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.932",
@@ -675,14 +426,7 @@
         "customtime": "3:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Gang Rape",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc44",
-        "date_com": "2017-03-01",
-        "datechar": "3/1/2017"
+        "modus": "Gang Rape"
     },
     {
         "lng": "120.982",
@@ -693,13 +437,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 63, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-03-03"
+        "modus": "Incest"
     },  
     {
         "lng": "121.037",
@@ -710,13 +448,7 @@
         "customtime": "5:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-04"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.975",
@@ -727,13 +459,7 @@
         "customtime": "7:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 33, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-03-06"
+        "modus": "Incest"
     },  
     {
         "lng": "120.969",
@@ -744,13 +470,7 @@
         "customtime": "10:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Viente Reales, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-07"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.053",
@@ -761,13 +481,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-07"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.954",
@@ -778,13 +492,7 @@
         "customtime": "10:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-07"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.927",
@@ -795,13 +503,7 @@
         "customtime": "10:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Wawang Pulo, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-03-09"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.955",
@@ -812,13 +514,7 @@
         "customtime": "7:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": "2017-03-12"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.957",
@@ -829,13 +525,7 @@
         "customtime": "10:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Arkong Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-16"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.945",
@@ -846,13 +536,7 @@
         "customtime": "5:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "San Jose (Pob.), Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc47",
-        "date_com": "2017-03-17"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "121.012",
@@ -863,13 +547,7 @@
         "customtime": "11:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-19"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.992",
@@ -880,13 +558,7 @@
         "customtime": "3:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-22"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.962",
@@ -897,30 +569,7 @@
         "customtime": "3:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tinajeros, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Gang Rape",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc44",
-        "date_com": "2017-03-22"
-    },  
-    {
-        "lng": "120.969",
-        "lat": "14.624",
-        "date": "2017-03-24",
-        "customdate": "Fri - Mar 24, 2017",
-        "time": "14:00:00",
-        "customtime": "2:00:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 142, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-03-24"
+        "modus": "Gang Rape"
     },  
     {
         "lng": "120.991",
@@ -931,13 +580,7 @@
         "customtime": "5:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 132, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-25"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.985",
@@ -948,13 +591,7 @@
         "customtime": "11:50:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-25"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.987",
@@ -965,13 +602,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 118, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-26"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.957",
@@ -982,13 +613,7 @@
         "customtime": "7:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": "2017-03-28"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.97",
@@ -999,13 +624,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 133, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-03-28"
+        "modus": "Incest"
     },  
     {
         "lng": "120.97",
@@ -1016,13 +635,7 @@
         "customtime": "5:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 3, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-03-29"
+        "modus": "Incest"
     },  
     {
         "lng": "121.039",
@@ -1033,13 +646,7 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-30"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.982",
@@ -1050,13 +657,7 @@
         "customtime": "2:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 65, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-03-31"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.03",
@@ -1067,14 +668,8 @@
         "customtime": "6:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.995",
         "lat": "14.6991",
@@ -1084,14 +679,8 @@
         "customtime": "7:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.973",
         "lat": "14.6454",
@@ -1101,14 +690,8 @@
         "customtime": "1:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 20, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
+        "modus": "Incest"
+    },  
     {
         "lng": "120.938",
         "lat": "14.6711",
@@ -1118,31 +701,8 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "San Roque, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
-    {
-        "lng": "120.972",
-        "lat": "14.6297",
-        "date": "2017-04-04",
-        "customdate": "Tue - Apr 4, 2017",
-        "time": "12:30:00",
-        "customtime": "12:30:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
+        "modus": "Incest"
+    },  
     {
         "lng": "120.998",
         "lat": "14.7179",
@@ -1152,14 +712,8 @@
         "customtime": "10:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.965",
         "lat": "14.6707",
@@ -1169,14 +723,8 @@
         "customtime": "4:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tinajeros, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc47",
-        "date_com": null
-   },  
+        "modus": "Statutory Rape"
+    },  
     {
         "lng": "121",
         "lat": "14.6868",
@@ -1186,14 +734,8 @@
         "customtime": "2:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": null
-   },  
+        "modus": "Statutory Rape"
+    },  
     {
         "lng": "120.938",
         "lat": "14.6821",
@@ -1203,14 +745,8 @@
         "customtime": "11:45:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Santolan, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.931",
         "lat": "14.7275",
@@ -1220,14 +756,8 @@
         "customtime": "11:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Poblacion, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "121.036",
         "lat": "14.7831",
@@ -1237,14 +767,8 @@
         "customtime": "7:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.978",
         "lat": "14.658",
@@ -1254,14 +778,8 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 73, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
+        "modus": "Incest"
+    },  
     {
         "lng": "121.016",
         "lat": "14.7425",
@@ -1271,14 +789,8 @@
         "customtime": "11:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.96",
         "lat": "14.6706",
@@ -1288,14 +800,8 @@
         "customtime": "3:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Catmon, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.978",
         "lat": "14.6553",
@@ -1305,14 +811,8 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 74, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.973",
         "lat": "14.649",
@@ -1322,14 +822,8 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 151, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
+        "modus": "Incest"
+    },  
     {
         "lng": "120.942",
         "lat": "14.676",
@@ -1339,14 +833,8 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hulong Duhat, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc47",
-        "date_com": null
-   },  
+        "modus": "Statutory Rape"
+    },  
     {
         "lng": "120.979",
         "lat": "14.6655",
@@ -1356,14 +844,8 @@
         "customtime": "4:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.983",
         "lat": "14.6761",
@@ -1373,14 +855,8 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.994",
         "lat": "14.6591",
@@ -1390,14 +866,8 @@
         "customtime": "2:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 136, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.993",
         "lat": "14.6886",
@@ -1407,14 +877,8 @@
         "customtime": "3:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
+        "modus": "Incest"
+    },  
     {
         "lng": "120.968",
         "lat": "14.6497",
@@ -1424,14 +888,8 @@
         "customtime": "7:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 22, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
+        "modus": "Incest"
+    },  
     {
         "lng": "121.03",
         "lat": "14.7793",
@@ -1441,14 +899,8 @@
         "customtime": "8:15:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.938",
         "lat": "14.6787",
@@ -1458,14 +910,7 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tanza, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": null,
-        "datechar": null
+        "modus": "Lewd and Lusty Desire"
     },
     {
         "lng": "120.954",
@@ -1476,14 +921,8 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
+        "modus": "Incest"
+    },  
     {
         "lng": "120.955",
         "lat": "14.6428",
@@ -1493,14 +932,8 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.967",
         "lat": "14.65",
@@ -1510,14 +943,8 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": null
-   },  
+        "modus": "Incest"
+    },  
     {
         "lng": "120.984",
         "lat": "14.7013",
@@ -1527,14 +954,8 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": null
-   },  
+        "modus": "Lewd and Lusty Desire"
+    },  
     {
         "lng": "120.95",
         "lat": "14.6525",
@@ -1544,13 +965,7 @@
         "customtime": "6:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc47",
-        "date_com": "2017-05-06"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "121.016",
@@ -1561,30 +976,7 @@
         "customtime": "3:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-05-08"
-    },  
-    {
-        "lng": "120.975",
-        "lat": "14.6247",
-        "date": "2017-05-11",
-        "customdate": "Thu - May 11, 2017",
-        "time": "02:00:00",
-        "customtime": "2:00:AM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 163, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-05-11"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.947",
@@ -1595,13 +987,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Baritan, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc47",
-        "date_com": "2017-05-14"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.975",
@@ -1612,13 +998,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 18, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-05-14"
+        "modus": "Incest"
     },  
     {
         "lng": "121.075",
@@ -1629,13 +1009,7 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-05-15"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.042",
@@ -1646,13 +1020,7 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-05-17"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.028",
@@ -1663,13 +1031,7 @@
         "customtime": "9:49:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-05-18"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.99",
@@ -1680,13 +1042,7 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-05-20"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.05",
@@ -1697,13 +1053,7 @@
         "customtime": "12:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Gang Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc44",
-        "date_com": "2017-05-26"
+        "modus": "Gang Rape"
     },  
     {
         "lng": "121.001",
@@ -1714,13 +1064,7 @@
         "customtime": "5:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-05-29"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "121.001",
@@ -1731,13 +1075,7 @@
         "customtime": "5:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-05-29"
+        "modus": "Mauling"
     },  
     {
         "lng": "120.958",
@@ -1748,13 +1086,7 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": "2017-06-01"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.014",
@@ -1765,30 +1097,7 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 165, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc47",
-        "date_com": "2017-06-01"
-    },  
-    {
-        "lng": "120.975",
-        "lat": "14.6217",
-        "date": "2017-06-02",
-        "customdate": "Fri - Jun 2, 2017",
-        "time": "13:00:00",
-        "customtime": "1:00:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 161, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-06-02"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.98",
@@ -1799,13 +1108,7 @@
         "customtime": "10:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-06-03"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.98",
@@ -1816,13 +1119,7 @@
         "customtime": "11:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-06-06"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "121.041",
@@ -1833,13 +1130,7 @@
         "customtime": "10:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-06-10"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.999",
@@ -1850,13 +1141,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 156, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-06-10"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.992",
@@ -1867,13 +1152,7 @@
         "customtime": "11:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-06-10"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.96",
@@ -1884,13 +1163,7 @@
         "customtime": "1:15:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Santolan, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Abduction With Rape",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc43",
-        "date_com": "2017-06-11"
+        "modus": "Abduction With Rape"
     },  
     {
         "lng": "121.01",
@@ -1901,13 +1174,7 @@
         "customtime": "11:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-06-12"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.976",
@@ -1918,13 +1185,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-06-14"
+        "modus": "Incest"
     },  
     {
         "lng": "120.975",
@@ -1935,13 +1196,7 @@
         "customtime": "1:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 33, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-06-14"
+        "modus": "Incest"
     },  
     {
         "lng": "120.95",
@@ -1952,13 +1207,7 @@
         "customtime": "1:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ibaba, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc45",
-        "date_com": "2017-06-16"
+        "modus": "Incest"
     },  
     {
         "lng": "120.977",
@@ -1969,13 +1218,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Lingunan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-06-17"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.965",
@@ -1986,13 +1229,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": "2017-06-20"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.964",
@@ -2003,13 +1240,7 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Maysilo, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": "2017-06-25"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.016",
@@ -2020,13 +1251,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc45",
-        "date_com": "2017-06-26"
+        "modus": "Incest"
     },  
     {
         "lng": "121.016",
@@ -2037,13 +1262,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-06-26"
+        "modus": "Mauling"
     },  
     {
         "lng": "120.974",
@@ -2054,13 +1273,7 @@
         "customtime": "2:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 1, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-06-29"
+        "modus": "Incest"
     },  
     {
         "lng": "120.959",
@@ -2071,13 +1284,7 @@
         "customtime": "12:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Santolan, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc47",
-        "date_com": "2017-06-30"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "121.01",
@@ -2088,13 +1295,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-07-01"
+        "modus": "Incest"
     },  
     {
         "lng": "120.983",
@@ -2105,13 +1306,7 @@
         "customtime": "7:15:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 59, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-07-03"
+        "modus": "Incest"
     },  
     {
         "lng": "120.971",
@@ -2122,13 +1317,7 @@
         "customtime": "8:25:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-04"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.002",
@@ -2139,13 +1328,7 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-05"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.955",
@@ -2156,13 +1339,7 @@
         "customtime": "9:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc47",
-        "date_com": "2017-07-06"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.958",
@@ -2173,13 +1350,7 @@
         "customtime": "11:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Akyat Bahay",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc49",
-        "date_com": "2017-07-07"
+        "modus": "Akyat Bahay"
     },  
     {
         "lng": "120.958",
@@ -2190,13 +1361,7 @@
         "customtime": "11:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-07"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.995",
@@ -2207,13 +1372,7 @@
         "customtime": "7:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-07"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.962",
@@ -2224,13 +1383,7 @@
         "customtime": "10:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-09"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.96",
@@ -2241,13 +1394,7 @@
         "customtime": "9:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc47",
-        "date_com": "2017-07-11"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "121.082",
@@ -2258,13 +1405,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 181, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-11"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.942",
@@ -2275,13 +1416,7 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "San Jose (Pob.), Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": "2017-07-14"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.946",
@@ -2292,13 +1427,7 @@
         "customtime": "11:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Pariancillo Villa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-14"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121",
@@ -2309,13 +1438,7 @@
         "customtime": "10:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-17"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.977",
@@ -2326,13 +1449,7 @@
         "customtime": "4:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-17"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.975",
@@ -2343,13 +1460,7 @@
         "customtime": "1:45:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 18, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-07-19"
+        "modus": "Incest"
     },  
     {
         "lng": "120.992",
@@ -2360,13 +1471,7 @@
         "customtime": "2:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-22"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.949",
@@ -2377,13 +1482,7 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc45",
-        "date_com": "2017-07-22"
+        "modus": "Incest"
     },  
     {
         "lng": "120.992",
@@ -2394,13 +1493,7 @@
         "customtime": "2:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Statutory Rape",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc47",
-        "date_com": "2017-07-23"
+        "modus": "Statutory Rape"
     },  
     {
         "lng": "120.961",
@@ -2411,13 +1504,7 @@
         "customtime": "1:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Niugan, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-23"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.951",
@@ -2428,13 +1515,7 @@
         "customtime": "4:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bangculasi, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc99",
-        "date_com": "2017-07-25"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.984",
@@ -2445,13 +1526,7 @@
         "customtime": "1:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-26"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "120.975",
@@ -2462,13 +1537,7 @@
         "customtime": "11:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 73, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Lewd and Lusty Desire",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc99",
-        "date_com": "2017-07-28"
+        "modus": "Lewd and Lusty Desire"
     },  
     {
         "lng": "121.035",
@@ -2479,47 +1548,7 @@
         "customtime": "7:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 173, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Robbery With Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc46",
-        "date_com": "2017-07-29"
-    },  
-    {
-        "lng": "120.974",
-        "lat": "14.6259",
-        "date": "2017-07-30",
-        "customdate": "Sun - Jul 30, 2017",
-        "time": "14:30:00",
-        "customtime": "2:30:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 165, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Incest",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc45",
-        "date_com": "2017-07-30"
-    },  
-    {
-        "lng": "120.974",
-        "lat": "14.6259",
-        "date": "2017-07-30",
-        "customdate": "Sun - Jul 30, 2017",
-        "time": "14:30:00",
-        "customtime": "2:30:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 165, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc92",
-        "date_com": "2017-07-30"
+        "modus": "Robbery With Rape"
     },  
     {
         "lng": "120.942",
@@ -2530,13 +1559,7 @@
         "customtime": "12:01:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Daanghari, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc00",
-        "date_com": "2017-08-01"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.982",
@@ -2547,13 +1570,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-08-03"
+        "modus": "Mauling"
     },  
     {
         "lng": "121.026",
@@ -2564,13 +1581,7 @@
         "customtime": "5:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-05"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.978",
@@ -2581,13 +1592,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 36, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-08"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.975",
@@ -2598,13 +1603,7 @@
         "customtime": "1:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 33, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-09"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.952",
@@ -2615,13 +1614,7 @@
         "customtime": "8:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Pasolo, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-11"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.943",
@@ -2632,13 +1625,7 @@
         "customtime": "8:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "San Jose (Pob.), Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc00",
-        "date_com": "2017-08-12"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.955",
@@ -2649,13 +1636,7 @@
         "customtime": "1:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc00",
-        "date_com": "2017-08-15"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "121.001",
@@ -2666,13 +1647,7 @@
         "customtime": "7:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-16"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.943",
@@ -2683,13 +1658,7 @@
         "customtime": "10:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Dampalit, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-18"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "121.01",
@@ -2700,13 +1669,7 @@
         "customtime": "1:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-08-18"
+        "modus": "Mauling"
     },  
     {
         "lng": "120.969",
@@ -2717,13 +1680,7 @@
         "customtime": "1:40:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 18, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-19"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.961",
@@ -2734,13 +1691,7 @@
         "customtime": "10:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Catmon, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-27"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.962",
@@ -2751,13 +1702,7 @@
         "customtime": "5:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-28"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.951",
@@ -2768,13 +1713,7 @@
         "customtime": "11:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Arkong Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-29"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.961",
@@ -2785,13 +1724,7 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc00",
-        "date_com": "2017-08-30"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.962",
@@ -2802,13 +1735,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-09-01"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.98",
@@ -2819,13 +1746,8 @@
         "customtime": "3:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19"
-   },  
+        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)"
+    },
     {
         "lng": "120.974",
         "lat": "14.6527",
@@ -2835,31 +1757,8 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 3, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-05"
-    },  
-    {
-        "lng": "120.975",
-        "lat": "14.6214",
-        "date": "2017-09-07",
-        "customdate": "Thu - Sep 7, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 162, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-07"
-    },  
+        "modus": "Not Indicated"
+    },
     {
         "lng": "120.975",
         "lat": "14.6548",
@@ -2869,13 +1768,7 @@
         "customtime": "4:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 19, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fetishism/Object Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-09-08"
+        "modus": "Fetishism/Object Rape"
     },  
     {
         "lng": "120.936",
@@ -2886,14 +1779,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tanza, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-09-09",
-        "datechar": "09/09/2017"
+        "modus": "Force, Threat and Intimidation"
     },
     {
         "lng": "120.94",
@@ -2904,13 +1790,7 @@
         "customtime": "4:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Balangkas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-09-10"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.994",
@@ -2921,13 +1801,7 @@
         "customtime": "11:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-09-10"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.945",
@@ -2938,13 +1812,7 @@
         "customtime": "10:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Concepcion, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-16"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.958",
@@ -2955,13 +1823,7 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-09-18"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.97",
@@ -2972,13 +1834,7 @@
         "customtime": "10:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-09-22"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.965",
@@ -2989,13 +1845,7 @@
         "customtime": "2:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 12, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-22"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "121",
@@ -3006,13 +1856,7 @@
         "customtime": "3:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-09-23"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.994",
@@ -3023,13 +1867,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 140, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-23"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.957",
@@ -3040,13 +1878,7 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Catmon, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-24"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "121.004",
@@ -3057,13 +1889,7 @@
         "customtime": "11:50:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-09-25"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.973",
@@ -3074,13 +1900,7 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-25"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.973",
@@ -3091,13 +1911,7 @@
         "customtime": "12:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-25"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.956",
@@ -3108,13 +1922,7 @@
         "customtime": "5:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-09-25"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.94",
@@ -3125,30 +1933,7 @@
         "customtime": "6:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Dampalit, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-29"
-    },  
-    {
-        "lng": "120.97",
-        "lat": "14.6238",
-        "date": "2017-09-30",
-        "customdate": "Sat - Sep 30, 2017",
-        "time": "20:00:00",
-        "customtime": "8:00:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 144, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-09-30"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.942",
@@ -3159,13 +1944,7 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hulong Duhat, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc00",
-        "date_com": "2017-10-01"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.967",
@@ -3176,13 +1955,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc00",
-        "date_com": "2017-10-01"
+        "modus": "Not Indicated"
     },  
     {
         "lng": "120.955",
@@ -3193,13 +1966,7 @@
         "customtime": "8:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-10-01"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.968",
@@ -3210,13 +1977,7 @@
         "customtime": "4:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-02"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.973",
@@ -3227,13 +1988,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fetishism/Object Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-02"
+        "modus": "Fetishism/Object Rape"
     },  
     {
         "lng": "120.976",
@@ -3244,13 +1999,7 @@
         "customtime": "11:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-06"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.959",
@@ -3261,13 +2010,8 @@
         "customtime": "5:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19"
-   },  
+        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)"
+    },
     {
         "lng": "120.982",
         "lat": "14.6671",
@@ -3277,13 +2021,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Grave Abuse of Authority",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-07"
+        "modus": "Grave Abuse of Authority"
     },  
     {
         "lng": "120.966",
@@ -3294,13 +2032,8 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19"
-   },  
+        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)"
+    },
     {
         "lng": "120.967",
         "lat": "14.6809",
@@ -3310,13 +2043,7 @@
         "customtime": "6:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-15"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.005",
@@ -3327,31 +2054,8 @@
         "customtime": "9:20:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-16"
-    },  
-    {
-        "lng": "120.974",
-        "lat": "14.6252",
-        "date": "2017-10-16",
-        "customdate": "Mon - Oct 16, 2017",
-        "time": "23:00:00",
-        "customtime": "11:00:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 162, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fetishism/Object Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-16"
-    },  
+        "modus": "Force, Threat and Intimidation"
+    },   
     {
         "lng": "120.989",
         "lat": "14.664",
@@ -3361,30 +2065,7 @@
         "customtime": "11:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 81, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-17"
-    },  
-    {
-        "lng": "120.971",
-        "lat": "14.6307",
-        "date": "2017-10-18",
-        "customdate": "Wed - Oct 18, 2017",
-        "time": "23:00:00",
-        "customtime": "11:00:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-18"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.973",
@@ -3395,13 +2076,7 @@
         "customtime": "5:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 15, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-19"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.988",
@@ -3412,13 +2087,7 @@
         "customtime": "11:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 80, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-22"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.015",
@@ -3429,13 +2098,7 @@
         "customtime": "9:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-24"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.989",
@@ -3446,13 +2109,7 @@
         "customtime": "2:45:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-25"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.936",
@@ -3463,14 +2120,7 @@
         "customtime": "5:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tanza, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-10-26",
-        "datechar": "10/26/2017"
+        "modus": "Force, Threat and Intimidation"
     },
     {
         "lng": "120.967",
@@ -3481,13 +2131,7 @@
         "customtime": "4:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "San Rafael Village, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-10-27"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.975",
@@ -3498,13 +2142,7 @@
         "customtime": "12:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-28"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.97",
@@ -3515,13 +2153,7 @@
         "customtime": "7:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Grave Abuse of Authority",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19",
-        "date_com": "2017-10-28"
+        "modus": "Grave Abuse of Authority"
     },  
     {
         "lng": "120.968",
@@ -3532,13 +2164,8 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Flores, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19"
-   },  
+        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)"
+    },
     {
         "lng": "121.041",
         "lat": "14.77",
@@ -3548,13 +2175,7 @@
         "customtime": "12:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-01"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.991",
@@ -3565,13 +2186,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-03"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.005",
@@ -3582,13 +2197,7 @@
         "customtime": "10:40:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi (Akyat Bahay)",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc67",
-        "date_com": "2017-11-04"
+        "modus": "Salisi (Akyat Bahay)"
     },  
     {
         "lng": "121.005",
@@ -3599,13 +2208,7 @@
         "customtime": "10:40:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-04"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.976",
@@ -3616,13 +2219,7 @@
         "customtime": "12:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-04"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.993",
@@ -3633,13 +2230,7 @@
         "customtime": "7:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-05"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.998",
@@ -3650,13 +2241,7 @@
         "customtime": "6:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-06"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.983",
@@ -3667,13 +2252,7 @@
         "customtime": "10:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-09"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.976",
@@ -3684,13 +2263,7 @@
         "customtime": "8:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fetishism/Object Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-09"
+        "modus": "Fetishism/Object Rape"
     },  
     {
         "lng": "120.982",
@@ -3701,13 +2274,7 @@
         "customtime": "9:55:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-12"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.077",
@@ -3718,13 +2285,7 @@
         "customtime": "5:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 179, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fraudulent Machinations",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-13"
+        "modus": "Fraudulent Machinations"
     },  
     {
         "lng": "121.03",
@@ -3735,13 +2296,7 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fraudulent Machinations",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-13"
+        "modus": "Fraudulent Machinations"
     },  
     {
         "lng": "121.074",
@@ -3752,13 +2307,7 @@
         "customtime": "12:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fraudulent Machinations",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-13"
+        "modus": "Fraudulent Machinations"
     },  
     {
         "lng": "121.002",
@@ -3769,13 +2318,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-14"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.002",
@@ -3786,13 +2329,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-14"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.958",
@@ -3803,13 +2340,7 @@
         "customtime": "12:01:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-15"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.958",
@@ -3820,13 +2351,7 @@
         "customtime": "12:01:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-11-15"
+        "modus": "Mauling"
     },  
     {
         "lng": "120.986",
@@ -3837,13 +2362,7 @@
         "customtime": "5:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-15"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.994",
@@ -3854,30 +2373,7 @@
         "customtime": "6:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-15"
-    },  
-    {
-        "lng": "120.964",
-        "lat": "14.6127",
-        "date": "2017-11-17",
-        "customdate": "Fri - Nov 17, 2017",
-        "time": "23:00:00",
-        "customtime": "11:00:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 120, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fetishism/Object Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-17"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.967",
@@ -3888,13 +2384,7 @@
         "customtime": "2:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-20"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.065",
@@ -3905,13 +2395,7 @@
         "customtime": "9:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fetishism/Object Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-21"
+        "modus": "Fetishism/Object Rape"
     },  
     {
         "lng": "120.952",
@@ -3922,13 +2406,7 @@
         "customtime": "2:50:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Arkong Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-22"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.986",
@@ -3939,13 +2417,7 @@
         "customtime": "3:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-23"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.94",
@@ -3956,13 +2428,7 @@
         "customtime": "1:40:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Daanghari, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-11-23"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.943",
@@ -3973,13 +2439,8 @@
         "customtime": "4:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Daanghari, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19"
-   },  
+        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)"
+    },
     {
         "lng": "120.987",
         "lat": "14.6854",
@@ -3989,13 +2450,7 @@
         "customtime": "5:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-28"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.966",
@@ -4006,13 +2461,7 @@
         "customtime": "9:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-28"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.004",
@@ -4023,13 +2472,7 @@
         "customtime": "8:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-11-28"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.945",
@@ -4040,13 +2483,8 @@
         "customtime": "8:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Concepcion, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19"
-   },  
+        "modus": "Deprived of Reason or Unconcious (Under the Influence of Liquior)"
+    },
     {
         "lng": "120.935",
         "lat": "14.673",
@@ -4056,14 +2494,7 @@
         "customtime": "12:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-12-01",
-        "datechar": "12/01/2017"
+        "modus": "Force, Threat and Intimidation"
     },
     {
         "lng": "120.976",
@@ -4074,13 +2505,7 @@
         "customtime": "3:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-01"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.961",
@@ -4091,13 +2516,7 @@
         "customtime": "8:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-01"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.992",
@@ -4108,13 +2527,7 @@
         "customtime": "2:30:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-03"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.959",
@@ -4125,13 +2538,7 @@
         "customtime": "9:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Catmon, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-03"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.95",
@@ -4142,13 +2549,7 @@
         "customtime": "3:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "San Agustin, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-04"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.971",
@@ -4159,13 +2560,7 @@
         "customtime": "2:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 4, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Fetishism/Object Rape",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-04"
+        "modus": "Fetishism/Object Rape"
     },  
     {
         "lng": "121.016",
@@ -4176,13 +2571,7 @@
         "customtime": "8:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-05"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.943",
@@ -4193,13 +2582,7 @@
         "customtime": "12:05:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "San Jose (Pob.), Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc19",
-        "date_com": "2017-12-05"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.992",
@@ -4210,13 +2593,7 @@
         "customtime": "1:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-06"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.042",
@@ -4227,13 +2604,7 @@
         "customtime": "8:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 172, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-06"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.006",
@@ -4244,13 +2615,7 @@
         "customtime": "3:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Barangay 166, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-08"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.999",
@@ -4261,13 +2626,7 @@
         "customtime": "6:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Paso De Blas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-10"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.96",
@@ -4278,13 +2637,7 @@
         "customtime": "4:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-10"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.774",
@@ -4295,13 +2648,7 @@
         "customtime": "1:00:AM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Dampalit, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-13"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.978",
@@ -4312,13 +2659,7 @@
         "customtime": "12:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-14"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "121.001",
@@ -4329,13 +2670,7 @@
         "customtime": "6:00:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-17"
+        "modus": "Force, Threat and Intimidation"
     },  
     {
         "lng": "120.985",
@@ -4346,12 +2681,6 @@
         "customtime": "7:30:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Force, Threat and Intimidation",
-        "crimetype": "7",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc19",
-        "date_com": "2017-12-24"
+        "modus": "Force, Threat and Intimidation"
     }
 ]

@@ -156,7 +156,7 @@
                         position: new google.maps.LatLng(police_station.lat, police_station.lng),
                         icon:   "<?php echo base_url(); ?>public/img/police-station.png",
                         map: map,
-                        zIndex: 99
+                        zIndex: 1
                     });
                 });
 
@@ -239,7 +239,7 @@
             function(data){ 
                 if ( !IsEmpty(data.time) ) {
                     let crime_time    =   data.time;
-                    if ( crime_time >= startTime && crime_time <= endTime )  {
+                    if ( crime_time >= startTime && crime_time < endTime )  {
                         return data;
                     }
                 }
@@ -285,7 +285,6 @@
 
     //  FUNCTION FOR FILTERING ALL THE POSSIBLE SCENARIO
     let FilterCrimeAll  =   function(){
-
         $('#btn-back-map').hide();
         deleteMarkers();
 
@@ -307,6 +306,7 @@
         let select_city         =   $('#select-city').val();
         let select_crime        =   $('#select-crime').val();
         let select_month        =   $('#select-month').val();
+        let select_day          =   $('#select-day').val();
         let select_year         =   $('#select-year').val();
         let time1               =   $('.slider-time').html();
         let time2               =   $('.slider-time2').html();
@@ -330,6 +330,12 @@
         if ( !IsEmpty(select_month) && crime_data_object.length > 0 ) {
             if ( select_month != 'All' ) {
                 crime_data_object   =   FilterCrimeDate(crime_data_object, select_month);
+            }
+        }
+
+        if ( !IsEmpty(select_day) && crime_data_object.length > 0 ) {
+            if ( select_day != 'All' ) {
+                crime_data_object   =   FilterCrimeDate(crime_data_object, select_day);
             }
         }
 
@@ -416,16 +422,53 @@
         }
 
         markers.push(marker);
+        console.clear();
+        for ( var x = 0; x < marker.length; x++ ) {
+            console.log((x+1) + " " + marker[x].data_custom.lat + ", " + marker[x].data_custom.lng);
+        }
+
+        var imagepath_url   =   "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m";
+
+        if ( select_crime == "CARNAPPING" ) { 
+            imagepath_url   =   "";
+        } else if ( select_crime == "DRUG RELATED INCIDENT (RA 9165)" ) {
+            imagepath_url   =   "";
+        } else if ( select_crime == "HOMICIDE" ) {
+            imagepath_url   =   "";
+        } else if ( select_crime == "MURDER" ) {
+            imagepath_url   =   "";
+        } else if ( select_crime == "PHYSICAL INJURIES" ) {
+            imagepath_url   =   "";
+        } else if ( select_crime == "RAPE (Art. 266-A RC & R.A.8353)" ) {
+            imagepath_url   =   "";
+        } else if ( select_crime == "ROBBERY" ) {
+            imagepath_url   =   "";
+        } else if ( select_crime == "THEFT" ) {
+            imagepath_url   =   "<?php echo base_url(); ?>public/img/theft";
+        } else if ( select_crime == "Vehicular Traffic Accident" ) {
+            imagepath_url   =   "";
+        }
+
+
+
+
+
+
+
+
+
 
         mcOptions = {
             gridSize: 30,
             maxZoom: 13,
-            imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m',
+            imagePath: imagepath_url,
             zoomOnClick: true,
             // ignoreHiddenMarkers: true,
             averageCenter: true,ignoreHidden: true 
         };
         markerCluster = new MarkerClusterer(map, marker, mcOptions);
+
+
 
         google.maps.event.addListener(markerCluster, "mouseover", function (cluster) {
             if ( cluster.getSize() >= 4 ) {
@@ -470,11 +513,11 @@
         google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
 
             $('#btn-back-map').show();
-
+            console.clear();
             let clusterMarker   =   cluster.getMarkers();
 
             for ( var x = 0; x < clusterMarker.length; x++ ) {
-                console.log( (x+1) + ". " + clusterMarker[x].data_custom.crime + " " + clusterMarker[x].data_custom.lat + " - " + clusterMarker[x].data_custom.lng);
+                console.log( (x+1) + ". " + clusterMarker[x].data_custom.crime + " " + clusterMarker[x].data_custom.lat + " - " + clusterMarker[x].data_custom.lng + " " + clusterMarker[x].data_custom.customdate + " " + clusterMarker[x].data_custom.customtime + " " + clusterMarker[x].data_custom.modus);
             }
 
             map = new google.maps.Map(document.getElementById('map'), {
@@ -520,6 +563,8 @@
         // ShowHeatMap();
     }
 
+
+
     var toggleStatusHeatmap =  "off";
 
     $(document).on('click', '#modal_heatmap_link', function(){
@@ -552,13 +597,14 @@
             zoom: 13
         });
 
-        heatmap.set('radius', heatmap.get('radius') ? null : 30);
+        heatmap.set('radius', heatmap.get('radius') ? null : 25);
         heatmap.set('opacity', heatmap.get('opacity') ? null : 1);
     }
 
     //  USER ACTION CHANGE
     $(document).on('click', '#btn-filter, #btn-back-map', function(){
         LoadingOverlay('show');
+        LoadAllPoliceStation();
         FilterCrimeAll();
         setInterval(function() { LoadingOverlay('hide'); }, 1500);
     });

@@ -8,14 +8,7 @@
         "customtime": "11:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 156, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2016-12-29",
-        "datechar": "12/29/2016"
+        "modus": "Shooting"
     },
     {
         "lng": "121.065",
@@ -26,14 +19,7 @@
         "customtime": "6:16:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc36",
-        "date_com": "2016-12-29",
-        "datechar": "12/29/2016"
+        "modus": "Mauling"
     },
     {
         "lng": "120.981",
@@ -44,14 +30,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 75, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2016-12-30",
-        "datechar": "12/30/2016"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.97",
@@ -62,14 +41,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 35, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2016-12-31",
-        "datechar": "12/31/2016"
+        "modus": "Shooting"
     },
     {
         "lng": "121.055",
@@ -80,14 +52,7 @@
         "customtime": "11:10:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-01-01",
-        "datechar": "1/1/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.045",
@@ -98,14 +63,7 @@
         "customtime": "5:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-01-01",
-        "datechar": "1/1/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.996",
@@ -116,14 +74,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-01-01",
-        "datechar": "1/1/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.972",
@@ -134,14 +85,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 3, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-04",
-        "datechar": "1/4/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.992",
@@ -152,14 +96,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 134, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-05",
-        "datechar": "1/5/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.949",
@@ -170,14 +107,7 @@
         "customtime": "4:45:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc37",
-        "date_com": "2017-01-05",
-        "datechar": "1/5/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.957",
@@ -188,14 +118,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc37",
-        "date_com": "2017-01-06",
-        "datechar": "1/6/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.982",
@@ -206,14 +129,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 120, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-06",
-        "datechar": "1/6/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.995",
@@ -224,14 +140,7 @@
         "customtime": "4:00:PM",
         "crime": "HOMICIDE",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-01-07",
-        "datechar": "1/7/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.992",
@@ -242,14 +151,7 @@
         "customtime": "12:15:PM",
         "crime": "HOMICIDE",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-01-08",
-        "datechar": "1/8/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.998",
@@ -260,14 +162,7 @@
         "customtime": "3:15:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 154, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-08",
-        "datechar": "1/8/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.973",
@@ -278,14 +173,7 @@
         "customtime": "7:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-09",
-        "datechar": "1/9/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.062",
@@ -296,14 +184,7 @@
         "customtime": "8:45:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-12",
-        "datechar": "1/12/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.998",
@@ -314,14 +195,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 153, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-13",
-        "datechar": "1/13/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.969",
@@ -332,14 +206,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 8, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-01-14",
-        "datechar": "1/14/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.971",
@@ -350,14 +217,7 @@
         "customtime": "10:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 8, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-14",
-        "datechar": "1/14/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.961",
@@ -368,14 +228,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-01-15",
-        "datechar": "1/15/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.988",
@@ -386,14 +239,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 82, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-01-15",
-        "datechar": "1/15/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.974",
@@ -404,14 +250,7 @@
         "customtime": "3:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 9, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-16",
-        "datechar": "1/16/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.978",
@@ -422,14 +261,7 @@
         "customtime": "7:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 36, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Strangulation",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc40",
-        "date_com": "2017-01-16",
-        "datechar": "1/16/2017"
+        "modus": "Strangulation"
     },
     {
         "lng": "120.966",
@@ -440,14 +272,7 @@
         "customtime": "11:45:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 18, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-16",
-        "datechar": "1/16/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.964",
@@ -458,14 +283,7 @@
         "customtime": "12:15:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 13, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-17",
-        "datechar": "1/17/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.043",
@@ -476,14 +294,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-18",
-        "datechar": "1/18/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.953",
@@ -494,14 +305,7 @@
         "customtime": "2:45:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc37",
-        "date_com": "2017-01-19",
-        "datechar": "1/19/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.007",
@@ -512,14 +316,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-20",
-        "datechar": "1/20/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.976",
@@ -530,14 +327,7 @@
         "customtime": "12:55:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 59, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-22",
-        "datechar": "1/22/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.986",
@@ -548,14 +338,7 @@
         "customtime": "1:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 118, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-23",
-        "datechar": "1/23/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.976",
@@ -566,14 +349,7 @@
         "customtime": "8:05:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 29, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-23",
-        "datechar": "1/23/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "120.975",
@@ -584,14 +360,7 @@
         "customtime": "11:15:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 63, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-23",
-        "datechar": "1/23/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.961",
@@ -602,14 +371,7 @@
         "customtime": "9:20:PM",
         "crime": "HOMICIDE",
         "location": "Catmon, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc37",
-        "date_com": "2017-01-25",
-        "datechar": "1/25/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.933",
@@ -620,14 +382,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc36",
-        "date_com": "2017-01-28",
-        "datechar": "1/28/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.993",
@@ -638,14 +393,7 @@
         "customtime": "7:50:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-01-30",
-        "datechar": "1/30/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.984",
@@ -656,14 +404,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 120, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-01-31",
-        "datechar": "1/31/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121",
@@ -674,14 +415,7 @@
         "customtime": "5:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 160, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-02-03",
-        "datechar": "2/3/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.965",
@@ -692,14 +426,7 @@
         "customtime": "11:15:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-03",
-        "datechar": "2/3/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.985",
@@ -710,14 +437,7 @@
         "customtime": "9:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 81, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-05",
-        "datechar": "2/5/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.008",
@@ -728,14 +448,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-08",
-        "datechar": "2/8/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.992",
@@ -746,14 +459,7 @@
         "customtime": "11:45:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-02-10",
-        "datechar": "2/10/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.998",
@@ -764,14 +470,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 155, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-11",
-        "datechar": "2/11/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.97",
@@ -782,14 +481,7 @@
         "customtime": "7:08:PM",
         "crime": "HOMICIDE",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-16",
-        "datechar": "2/16/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.979",
@@ -800,14 +492,7 @@
         "customtime": "11:30:PM",
         "crime": "HOMICIDE",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-18",
-        "datechar": "2/18/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.955",
@@ -818,14 +503,7 @@
         "customtime": "9:00:AM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc36",
-        "date_com": "2017-02-19",
-        "datechar": "2/19/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.967",
@@ -836,14 +514,7 @@
         "customtime": "9:55:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-19",
-        "datechar": "2/19/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.981",
@@ -854,14 +525,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-02-19",
-        "datechar": "2/19/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "121.013",
@@ -872,14 +536,7 @@
         "customtime": "9:00:AM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-20",
-        "datechar": "2/20/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.052",
@@ -890,14 +547,7 @@
         "customtime": "2:00:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc36",
-        "date_com": "2017-02-21",
-        "datechar": "2/21/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.995",
@@ -908,14 +558,7 @@
         "customtime": "2:45:AM",
         "crime": "HOMICIDE",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-21",
-        "datechar": "2/21/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.958",
@@ -926,14 +569,7 @@
         "customtime": "4:50:PM",
         "crime": "HOMICIDE",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-22",
-        "datechar": "2/22/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.06",
@@ -944,14 +580,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-23",
-        "datechar": "2/23/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.993",
@@ -962,14 +591,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 97, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-24",
-        "datechar": "2/24/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.99",
@@ -980,14 +602,7 @@
         "customtime": "11:30:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-24",
-        "datechar": "2/24/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.987",
@@ -998,14 +613,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-02-25",
-        "datechar": "2/25/2017"
+        "modus": "Mauling"
     },
         {
         "lng": "120.987",
@@ -1016,14 +624,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-02-25",
-        "datechar": "2/25/2017"
+        "modus": "Mauling"
     },
         {
         "lng": "120.95",
@@ -1034,14 +635,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Bagumbayan South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Not Indicated",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc00",
-        "date_com": "2017-02-25",
-        "datechar": "2/25/2017"
+        "modus": "Not Indicated"
     },
     {
         "lng": "120.96",
@@ -1052,14 +646,7 @@
         "customtime": "12:30:AM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc37",
-        "date_com": "2017-02-26",
-        "datechar": "2/26/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.962",
@@ -1070,14 +657,7 @@
         "customtime": "7:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 12, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-02-26",
-        "datechar": "2/26/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.017",
@@ -1088,14 +668,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-26",
-        "datechar": "2/26/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.997",
@@ -1106,14 +679,7 @@
         "customtime": "5:45:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 141, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-02-27",
-        "datechar": "2/27/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.041",
@@ -1124,14 +690,7 @@
         "customtime": "8:15:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-02-27",
-        "datechar": "2/27/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.996",
@@ -1142,14 +701,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stoning/Thrown Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc39",
-        "date_com": "2017-03-02",
-        "datechar": "3/2/2017"
+        "modus": "Stoning/Thrown Object"
     },
     {
         "lng": "120.965",
@@ -1160,14 +712,7 @@
         "customtime": "4:45:AM",
         "crime": "HOMICIDE",
         "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc37",
-        "date_com": "2017-03-03",
-        "datechar": "3/3/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.952",
@@ -1178,14 +723,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Pasolo, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-03",
-        "datechar": "3/3/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.983",
@@ -1196,14 +734,7 @@
         "customtime": "7:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 79, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc15",
-        "date_com": "2017-03-03",
-        "datechar": "3/3/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "121.002",
@@ -1214,14 +745,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-04",
-        "datechar": "3/4/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.983",
@@ -1232,14 +756,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc37",
-        "date_com": "2017-03-07",
-        "datechar": "3/7/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.97",
@@ -1250,14 +767,7 @@
         "customtime": "4:45:PM",
         "crime": "HOMICIDE",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc37",
-        "date_com": "2017-03-08",
-        "datechar": "3/8/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.951",
@@ -1268,14 +778,7 @@
         "customtime": "11:00:AM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-03-08",
-        "datechar": "3/8/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.979",
@@ -1286,14 +789,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-03-09",
-        "datechar": "3/9/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.979",
@@ -1304,14 +800,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-03-09",
-        "datechar": "3/9/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.988",
@@ -1322,14 +811,7 @@
         "customtime": "10:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 83, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc15",
-        "date_com": "2017-03-12",
-        "datechar": "3/12/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.964",
@@ -1340,14 +822,7 @@
         "customtime": "3:00:AM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-03-14",
-        "datechar": "3/14/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.944",
@@ -1358,14 +833,7 @@
         "customtime": "11:30:PM",
         "crime": "HOMICIDE",
         "location": "San Jose (Pob.), Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-03-14",
-        "datechar": "3/14/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.98",
@@ -1376,14 +844,7 @@
         "customtime": "8:45:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 71, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-16",
-        "datechar": "3/16/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.052",
@@ -1394,14 +855,7 @@
         "customtime": "12:09:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-03-18",
-        "datechar": "3/18/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.995",
@@ -1412,14 +866,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-18",
-        "datechar": "3/18/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.013",
@@ -1430,14 +877,7 @@
         "customtime": "10:50:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-18",
-        "datechar": "3/18/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.966",
@@ -1448,14 +888,7 @@
         "customtime": "3:00:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-19",
-        "datechar": "3/19/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.019",
@@ -1466,14 +899,7 @@
         "customtime": "6:00:AM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-03-21",
-        "datechar": "3/21/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.969",
@@ -1484,14 +910,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-03-22",
-        "datechar": "3/22/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.961",
@@ -1502,14 +921,7 @@
         "customtime": "1:30:PM",
         "crime": "HOMICIDE",
         "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-23",
-        "datechar": "3/23/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.058",
@@ -1520,14 +932,7 @@
         "customtime": "3:15:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-03-24",
-        "datechar": "3/24/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.961",
@@ -1538,14 +943,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 8, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-25",
-        "datechar": "3/25/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "121.066",
@@ -1556,14 +954,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-03-25",
-        "datechar": "3/25/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.028",
@@ -1574,14 +965,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-03-29",
-        "datechar": "3/29/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "121.032",
@@ -1592,14 +976,7 @@
         "customtime": "12:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 173, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc36",
-        "date_com": "2017-03-29",
-        "datechar": "3/29/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "121.059",
@@ -1610,14 +987,7 @@
         "customtime": "9:20:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-03-31",
-        "datechar": "3/31/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.983",
@@ -1628,14 +998,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 78, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-03-31",
-        "datechar": "3/31/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.048",
@@ -1646,14 +1009,7 @@
         "customtime": "3:20:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.964",
@@ -1664,14 +1020,7 @@
         "customtime": "2:30:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": null,
-        "datechar": null
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.985",
@@ -1682,14 +1031,7 @@
         "customtime": "1:00:PM",
         "crime": "HOMICIDE",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": null,
-        "datechar": null
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "121.08",
@@ -1700,14 +1042,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.963",
@@ -1718,14 +1053,7 @@
         "customtime": "11:00:AM",
         "crime": "HOMICIDE",
         "location": "Maysilo, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.995",
@@ -1736,14 +1064,7 @@
         "customtime": "9:15:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 144, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.988",
@@ -1754,14 +1075,7 @@
         "customtime": "12:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 81, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stoning/Thrown Object",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc39",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stoning/Thrown Object"
     },
     {
         "lng": "121.042",
@@ -1772,14 +1086,7 @@
         "customtime": "1:40:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.988",
@@ -1790,14 +1097,7 @@
         "customtime": "5:00:AM",
         "crime": "HOMICIDE",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": null,
-        "datechar": null
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.998",
@@ -1808,14 +1108,7 @@
         "customtime": "8:00:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Clubbing",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc18",
-        "date_com": null,
-        "datechar": null
+        "modus": "Clubbing"
     },
     {
         "lng": "120.968",
@@ -1826,14 +1119,7 @@
         "customtime": "6:00:AM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": null,
-        "datechar": null
+        "modus": "Mauling"
     },
     {
         "lng": "120.974",
@@ -1844,14 +1130,7 @@
         "customtime": "10:50:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 30, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.989",
@@ -1862,14 +1141,7 @@
         "customtime": "8:00:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.999",
@@ -1880,14 +1152,7 @@
         "customtime": "10:40:AM",
         "crime": "HOMICIDE",
         "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.077",
@@ -1898,14 +1163,7 @@
         "customtime": "3:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "121.08",
@@ -1916,14 +1174,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
         {
         "lng": "120.972",
@@ -1934,14 +1185,7 @@
         "customtime": "10:55:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 35, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.934",
@@ -1952,14 +1196,7 @@
         "customtime": "12:05:AM",
         "crime": "HOMICIDE",
         "location": "Tanza, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.956",
@@ -1970,14 +1207,7 @@
         "customtime": "7:15:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.965",
@@ -1988,14 +1218,7 @@
         "customtime": "6:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.956",
@@ -2006,14 +1229,7 @@
         "customtime": "12:35:AM",
         "crime": "HOMICIDE",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.952",
@@ -2024,14 +1240,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.952",
@@ -2042,14 +1251,7 @@
         "customtime": "5:00:AM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.98",
@@ -2060,14 +1262,7 @@
         "customtime": "8:50:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 36, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.959",
@@ -2078,14 +1273,7 @@
         "customtime": "2:30:PM",
         "crime": "HOMICIDE",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc37",
-        "date_com": null,
-        "datechar": null
+        "modus": "Shooting"
     },
     {
         "lng": "120.946",
@@ -2096,14 +1284,7 @@
         "customtime": "5:00:PM",
         "crime": "HOMICIDE",
         "location": "Coloong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.989",
@@ -2114,14 +1295,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": null,
-        "datechar": null
+        "modus": "Mauling"
     },
     {
         "lng": "120.946",
@@ -2132,14 +1306,7 @@
         "customtime": "3:20:PM",
         "crime": "HOMICIDE",
         "location": "Bisig, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-05-01",
-        "datechar": "5/1/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "121.048",
@@ -2150,14 +1317,7 @@
         "customtime": "11:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-02",
-        "datechar": "5/2/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.054",
@@ -2168,14 +1328,7 @@
         "customtime": "12:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-05",
-        "datechar": "5/5/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.065",
@@ -2186,14 +1339,7 @@
         "customtime": "4:05:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-05",
-        "datechar": "5/5/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.045",
@@ -2204,14 +1350,7 @@
         "customtime": "10:00:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-05",
-        "datechar": "5/5/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.056",
@@ -2222,14 +1361,7 @@
         "customtime": "12:40:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-05",
-        "datechar": "5/5/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "120.952",
@@ -2240,14 +1372,7 @@
         "customtime": "12:30:AM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-05-05",
-        "datechar": "5/5/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.949",
@@ -2258,14 +1383,7 @@
         "customtime": "8:10:PM",
         "crime": "HOMICIDE",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-05-07",
-        "datechar": "5/7/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.949",
@@ -2276,14 +1394,7 @@
         "customtime": "8:10:PM",
         "crime": "HOMICIDE",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc18",
-        "date_com": "2017-05-07",
-        "datechar": "5/7/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "121.001",
@@ -2294,14 +1405,7 @@
         "customtime": "4:30:AM",
         "crime": "HOMICIDE",
         "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-05-07",
-        "datechar": "5/7/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.936",
@@ -2312,14 +1416,7 @@
         "customtime": "5:45:AM",
         "crime": "HOMICIDE",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-05-08",
-        "datechar": "5/8/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.936",
@@ -2330,14 +1427,7 @@
         "customtime": "5:45:AM",
         "crime": "HOMICIDE",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Akyat Bahay",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc49",
-        "date_com": "2017-05-08",
-        "datechar": "5/8/2017"
+        "modus": "Akyat Bahay"
     },
     {
         "lng": "120.997",
@@ -2348,14 +1438,7 @@
         "customtime": "2:00:AM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-11",
-        "datechar": "5/11/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.051",
@@ -2366,14 +1449,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-11",
-        "datechar": "5/11/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.987",
@@ -2384,14 +1460,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 118, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-11",
-        "datechar": "5/11/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.016",
@@ -2402,14 +1471,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-13",
-        "datechar": "5/13/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.999",
@@ -2420,14 +1482,7 @@
         "customtime": "8:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 151, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-14",
-        "datechar": "5/14/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.999",
@@ -2438,14 +1493,7 @@
         "customtime": "8:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 151, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-14",
-        "datechar": "5/14/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.932",
@@ -2456,14 +1504,7 @@
         "customtime": "3:20:PM",
         "crime": "HOMICIDE",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-05-14",
-        "datechar": "5/14/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.042",
@@ -2474,14 +1515,7 @@
         "customtime": "10:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-14",
-        "datechar": "5/14/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.954",
@@ -2492,14 +1526,7 @@
         "customtime": "2:00:AM",
         "crime": "HOMICIDE",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-14",
-        "datechar": "5/14/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.025",
@@ -2510,14 +1537,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-15",
-        "datechar": "5/15/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.013",
@@ -2528,14 +1548,7 @@
         "customtime": "8:10:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 166, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-16",
-        "datechar": "5/16/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.081",
@@ -2546,14 +1559,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-17",
-        "datechar": "5/17/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.065",
@@ -2564,14 +1570,7 @@
         "customtime": "3:40:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-18",
-        "datechar": "5/18/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.952",
@@ -2582,14 +1581,7 @@
         "customtime": "10:15:PM",
         "crime": "HOMICIDE",
         "location": "Arkong Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-05-19",
-        "datechar": "5/19/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.952",
@@ -2600,14 +1592,7 @@
         "customtime": "10:15:PM",
         "crime": "HOMICIDE",
         "location": "Arkong Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc94",
-        "date_com": "2017-05-19",
-        "datechar": "5/19/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.033",
@@ -2618,14 +1603,7 @@
         "customtime": "8:45:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 173, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-20",
-        "datechar": "5/20/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.04",
@@ -2636,14 +1614,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-21",
-        "datechar": "5/21/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.041",
@@ -2654,14 +1625,7 @@
         "customtime": "2:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-21",
-        "datechar": "5/21/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.996",
@@ -2672,14 +1636,7 @@
         "customtime": "8:50:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-21",
-        "datechar": "5/21/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.052",
@@ -2690,14 +1647,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-21",
-        "datechar": "5/21/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.984",
@@ -2708,14 +1658,7 @@
         "customtime": "7:46:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 81, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-22",
-        "datechar": "5/22/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.967",
@@ -2726,14 +1669,7 @@
         "customtime": "11:45:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 18, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-22",
-        "datechar": "5/22/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.939",
@@ -2744,14 +1680,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "San Roque, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc36",
-        "date_com": "2017-05-22",
-        "datechar": "5/22/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "121.046",
@@ -2762,14 +1691,7 @@
         "customtime": "6:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-23",
-        "datechar": "5/23/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.991",
@@ -2780,14 +1702,7 @@
         "customtime": "1:35:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 132, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-24",
-        "datechar": "5/24/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.053",
@@ -2798,14 +1713,7 @@
         "customtime": "12:20:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-27",
-        "datechar": "5/27/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.061",
@@ -2816,14 +1724,7 @@
         "customtime": "5:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-05-28",
-        "datechar": "5/28/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.965",
@@ -2834,14 +1735,7 @@
         "customtime": "1:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 8, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-28",
-        "datechar": "5/28/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.973",
@@ -2852,14 +1746,7 @@
         "customtime": "1:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 3, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-05-31",
-        "datechar": "5/31/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.96",
@@ -2870,14 +1757,7 @@
         "customtime": "3:00:AM",
         "crime": "HOMICIDE",
         "location": "Mabolo, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-01",
-        "datechar": "6/1/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.97",
@@ -2888,14 +1768,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 35, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-02",
-        "datechar": "6/2/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.04",
@@ -2906,14 +1779,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-02",
-        "datechar": "6/2/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.037",
@@ -2924,14 +1790,7 @@
         "customtime": "2:10:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-03",
-        "datechar": "6/3/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.982",
@@ -2942,14 +1801,7 @@
         "customtime": "4:00:PM",
         "crime": "HOMICIDE",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-04",
-        "datechar": "6/4/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.994",
@@ -2960,14 +1812,7 @@
         "customtime": "7:50:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-04",
-        "datechar": "6/4/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.052",
@@ -2978,14 +1823,7 @@
         "customtime": "5:34:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-04",
-        "datechar": "6/4/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.964",
@@ -2996,14 +1834,7 @@
         "customtime": "7:45:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-05",
-        "datechar": "6/5/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.023",
@@ -3014,14 +1845,7 @@
         "customtime": "12:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-07",
-        "datechar": "6/7/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.054",
@@ -3032,14 +1856,7 @@
         "customtime": "12:45:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-08",
-        "datechar": "6/8/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.935",
@@ -3050,14 +1867,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "San Jose (Pob.), Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-06-09",
-        "datechar": "6/9/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.051",
@@ -3068,14 +1878,7 @@
         "customtime": "3:27:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-11",
-        "datechar": "6/11/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.961",
@@ -3086,14 +1889,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "Rincon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-11",
-        "datechar": "6/11/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.084",
@@ -3104,14 +1900,7 @@
         "customtime": "2:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 183, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-13",
-        "datechar": "6/13/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.984",
@@ -3122,14 +1911,7 @@
         "customtime": "5:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 51, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-14",
-        "datechar": "6/14/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.041",
@@ -3140,14 +1922,7 @@
         "customtime": "3:04:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-14",
-        "datechar": "6/14/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.022",
@@ -3158,14 +1933,7 @@
         "customtime": "10:50:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-16",
-        "datechar": "6/16/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.076",
@@ -3176,14 +1944,7 @@
         "customtime": "12:15:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 185, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-17",
-        "datechar": "6/17/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.976",
@@ -3194,14 +1955,7 @@
         "customtime": "12:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 56, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Clubbing",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc18",
-        "date_com": "2017-06-17",
-        "datechar": "6/17/2017"
+        "modus": "Clubbing"
     },
     {
         "lng": "121.081",
@@ -3212,14 +1966,7 @@
         "customtime": "1:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 179, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-18",
-        "datechar": "6/18/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.003",
@@ -3230,14 +1977,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-20",
-        "datechar": "6/20/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.038",
@@ -3248,14 +1988,7 @@
         "customtime": "12:05:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-21",
-        "datechar": "6/21/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "121.05",
@@ -3266,14 +1999,7 @@
         "customtime": "1:00:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-21",
-        "datechar": "6/21/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "121.067",
@@ -3284,14 +2010,7 @@
         "customtime": "1:50:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-21",
-        "datechar": "6/21/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.04",
@@ -3302,14 +2021,7 @@
         "customtime": "4:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-21",
-        "datechar": "6/21/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "121.049",
@@ -3320,14 +2032,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-21",
-        "datechar": "6/21/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.97",
@@ -3338,14 +2043,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 12, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-21",
-        "datechar": "6/21/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.046",
@@ -3356,14 +2054,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-21",
-        "datechar": "6/21/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.001",
@@ -3374,14 +2065,7 @@
         "customtime": "4:15:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 160, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-22",
-        "datechar": "6/22/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.056",
@@ -3392,14 +2076,7 @@
         "customtime": "4:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-22",
-        "datechar": "6/22/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.972",
@@ -3410,14 +2087,7 @@
         "customtime": "7:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 35, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-22",
-        "datechar": "6/22/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.975",
@@ -3428,14 +2098,7 @@
         "customtime": "7:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 19, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-22",
-        "datechar": "6/22/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.039",
@@ -3446,14 +2109,7 @@
         "customtime": "1:00:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-23",
-        "datechar": "6/23/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.002",
@@ -3464,14 +2120,7 @@
         "customtime": "12:05:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 158, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-23",
-        "datechar": "6/23/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "120.956",
@@ -3482,14 +2131,7 @@
         "customtime": "8:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 17, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-23",
-        "datechar": "6/23/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.063",
@@ -3500,14 +2142,7 @@
         "customtime": "4:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-25",
-        "datechar": "6/25/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.971",
@@ -3518,14 +2153,7 @@
         "customtime": "7:15:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 31, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-25",
-        "datechar": "6/25/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.986",
@@ -3536,14 +2164,7 @@
         "customtime": "11:50:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-25",
-        "datechar": "6/25/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.96",
@@ -3554,14 +2175,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Catmon, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-25",
-        "datechar": "6/25/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.065",
@@ -3572,14 +2186,7 @@
         "customtime": "2:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-26",
-        "datechar": "6/26/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.986",
@@ -3590,14 +2197,7 @@
         "customtime": "9:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 118, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-26",
-        "datechar": "6/26/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.084",
@@ -3608,14 +2208,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 183, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-26",
-        "datechar": "6/26/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "121.015",
@@ -3626,14 +2219,7 @@
         "customtime": "11:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-26",
-        "datechar": "6/26/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.964",
@@ -3644,14 +2230,7 @@
         "customtime": "5:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 8, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-26",
-        "datechar": "6/26/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "121.006",
@@ -3662,14 +2241,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 162, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-26",
-        "datechar": "6/26/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.065",
@@ -3680,14 +2252,7 @@
         "customtime": "12:00:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-27",
-        "datechar": "6/27/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.965",
@@ -3698,14 +2263,7 @@
         "customtime": "11:50:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 8, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-27",
-        "datechar": "6/27/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.955",
@@ -3716,14 +2274,7 @@
         "customtime": "12:30:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-06-27",
-        "datechar": "6/27/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.99",
@@ -3734,14 +2285,7 @@
         "customtime": "7:00:PM",
         "crime": "HOMICIDE",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-06-29",
-        "datechar": "6/29/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "121.052",
@@ -3752,14 +2296,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-29",
-        "datechar": "6/29/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.001",
@@ -3770,14 +2307,7 @@
         "customtime": "1:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 160, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-06-30",
-        "datechar": "6/30/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.985",
@@ -3788,14 +2318,7 @@
         "customtime": "6:00:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 137, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-07-02",
-        "datechar": "7/2/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.957",
@@ -3806,14 +2329,7 @@
         "customtime": "3:15:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-07-02",
-        "datechar": "7/2/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.073",
@@ -3824,14 +2340,7 @@
         "customtime": "4:45:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-07-02",
-        "datechar": "7/2/2017"
+        "modus": "Shooting"
     },
         {
         "lng": "121.073",
@@ -3842,14 +2351,7 @@
         "customtime": "4:45:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-07-02",
-        "datechar": "7/2/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.967",
@@ -3860,14 +2362,7 @@
         "customtime": "1:45:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-07-05",
-        "datechar": "7/5/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.933",
@@ -3878,14 +2373,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-07-05",
-        "datechar": "7/5/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.054",
@@ -3896,14 +2384,7 @@
         "customtime": "3:13:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hold-Up W/ Gun",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc54",
-        "date_com": "2017-07-07",
-        "datechar": "7/7/2017"
+        "modus": "Hold-Up W/ Gun"
     },
     {
         "lng": "121.054",
@@ -3914,14 +2395,7 @@
         "customtime": "3:13:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-07-07",
-        "datechar": "7/7/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.024",
@@ -3932,14 +2406,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hold-Up W/ Sharp Object",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc55",
-        "date_com": "2017-07-09",
-        "datechar": "7/9/2017"
+        "modus": "Hold-Up W/ Sharp Object"
     },
     {
         "lng": "121.024",
@@ -3950,14 +2417,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-07-09",
-        "datechar": "7/9/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.945",
@@ -3968,14 +2428,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "Coloong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-07-11",
-        "datechar": "7/11/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.957",
@@ -3986,14 +2439,7 @@
         "customtime": "11:20:PM",
         "crime": "HOMICIDE",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-07-14",
-        "datechar": "7/14/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.996",
@@ -4004,14 +2450,7 @@
         "customtime": "11:15:PM",
         "crime": "HOMICIDE",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-07-15",
-        "datechar": "7/15/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.969",
@@ -4022,14 +2461,7 @@
         "customtime": "9:00:AM",
         "crime": "HOMICIDE",
         "location": "Viente Reales, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-07-16",
-        "datechar": "7/16/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.994",
@@ -4040,14 +2472,7 @@
         "customtime": "4:45:PM",
         "crime": "HOMICIDE",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-07-17",
-        "datechar": "7/17/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.94",
@@ -4058,14 +2483,7 @@
         "customtime": "3:00:PM",
         "crime": "HOMICIDE",
         "location": "Balangkas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-07-19",
-        "datechar": "7/19/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.985",
@@ -4076,14 +2494,7 @@
         "customtime": "5:08:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 81, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-07-23",
-        "datechar": "7/23/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.002",
@@ -4094,14 +2505,7 @@
         "customtime": "9:45:PM",
         "crime": "HOMICIDE",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-07-23",
-        "datechar": "7/23/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.002",
@@ -4112,14 +2516,7 @@
         "customtime": "9:45:PM",
         "crime": "HOMICIDE",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-07-23",
-        "datechar": "7/23/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "121.002",
@@ -4130,14 +2527,7 @@
         "customtime": "9:45:PM",
         "crime": "HOMICIDE",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stoning",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc18",
-        "date_com": "2017-07-23",
-        "datechar": "7/23/2017"
+        "modus": "Stoning"
     },
     {
         "lng": "121.002",
@@ -4148,14 +2538,7 @@
         "customtime": "9:45:PM",
         "crime": "HOMICIDE",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stoning",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc18",
-        "date_com": "2017-07-23",
-        "datechar": "7/23/2017"
+        "modus": "Stoning"
     },
     {
         "lng": "121.002",
@@ -4166,14 +2549,7 @@
         "customtime": "6:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 161, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-07-27",
-        "datechar": "7/27/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.03",
@@ -4184,14 +2560,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 173, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-07-29",
-        "datechar": "7/29/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.95",
@@ -4202,14 +2571,7 @@
         "customtime": "7:00:AM",
         "crime": "HOMICIDE",
         "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc15",
-        "date_com": "2017-07-30",
-        "datechar": "7/30/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.981",
@@ -4220,14 +2582,7 @@
         "customtime": "7:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 68, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-08-01",
-        "datechar": "08/01/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.995",
@@ -4238,14 +2593,7 @@
         "customtime": "10:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 145, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc15",
-        "date_com": "2017-08-04",
-        "datechar": "08/04/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.991",
@@ -4256,14 +2604,7 @@
         "customtime": "5:20:PM",
         "crime": "HOMICIDE",
         "location": "Punturin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-08-06",
-        "datechar": "08/06/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.019",
@@ -4274,14 +2615,7 @@
         "customtime": "2:11:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-08-10",
-        "datechar": "08/10/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.996",
@@ -4292,14 +2626,7 @@
         "customtime": "1:00:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-08-11",
-        "datechar": "08/11/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.953",
@@ -4310,14 +2637,7 @@
         "customtime": "2:00:AM",
         "crime": "HOMICIDE",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-08-12",
-        "datechar": "08/12/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.973",
@@ -4328,14 +2648,7 @@
         "customtime": "6:15:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 5, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-08-12",
-        "datechar": "08/12/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.964",
@@ -4346,14 +2659,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-08-12",
-        "datechar": "08/12/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.964",
@@ -4364,14 +2670,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-08-12",
-        "datechar": "08/12/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.962",
@@ -4382,14 +2681,7 @@
         "customtime": "1:00:AM",
         "crime": "HOMICIDE",
         "location": "San Rafael Village, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-08-13",
-        "datechar": "08/13/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.988",
@@ -4400,14 +2692,7 @@
         "customtime": "3:30:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-08-13",
-        "datechar": "08/13/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.937",
@@ -4418,14 +2703,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "San Roque, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-08-13",
-        "datechar": "08/13/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.019",
@@ -4436,14 +2714,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-08-13",
-        "datechar": "08/13/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.987",
@@ -4454,14 +2725,7 @@
         "customtime": "5:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 118, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-08-14",
-        "datechar": "08/14/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.009",
@@ -4472,14 +2736,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-08-22",
-        "datechar": "08/22/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.943",
@@ -4490,14 +2747,7 @@
         "customtime": "8:00:PM",
         "crime": "HOMICIDE",
         "location": "Flores, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc36",
-        "date_com": "2017-08-24",
-        "datechar": "08/24/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.969",
@@ -4508,14 +2758,7 @@
         "customtime": "4:45:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "With Violence Against or Intimidation of Persons",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc27",
-        "date_com": "2017-09-01",
-        "datechar": "09/01/2017"
+        "modus": "With Violence Against or Intimidation of Persons"
     },
     {
         "lng": "120.969",
@@ -4526,14 +2769,7 @@
         "customtime": "4:45:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-01",
-        "datechar": "09/01/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.942",
@@ -4544,14 +2780,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Balangkas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-09-02",
-        "datechar": "09/02/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.942",
@@ -4562,14 +2791,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Balangkas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-09-02",
-        "datechar": "09/02/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.97",
@@ -4580,14 +2802,7 @@
         "customtime": "4:10:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 18, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-03",
-        "datechar": "09/03/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.964",
@@ -4598,14 +2813,7 @@
         "customtime": "12:54:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-03",
-        "datechar": "09/03/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.024",
@@ -4616,14 +2824,7 @@
         "customtime": "8:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-09-03",
-        "datechar": "09/03/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.955",
@@ -4634,14 +2835,7 @@
         "customtime": "7:00:AM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc36",
-        "date_com": "2017-09-04",
-        "datechar": "09/04/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "121.056",
@@ -4652,14 +2846,7 @@
         "customtime": "1:45:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-04",
-        "datechar": "09/04/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.993",
@@ -4670,14 +2857,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 137, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-06",
-        "datechar": "09/06/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.976",
@@ -4688,14 +2868,7 @@
         "customtime": "11:59:PM",
         "crime": "HOMICIDE",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-07",
-        "datechar": "09/07/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.97",
@@ -4706,14 +2879,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-09-10",
-        "datechar": "09/10/2017"
+        "modus": "Hitting With Hard Object"
     },
         {
         "lng": "120.97",
@@ -4724,14 +2890,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-09-10",
-        "datechar": "09/10/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "121.01",
@@ -4742,14 +2901,7 @@
         "customtime": "12:45:AM",
         "crime": "HOMICIDE",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-11",
-        "datechar": "09/11/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.011",
@@ -4760,14 +2912,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-14",
-        "datechar": "09/14/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.011",
@@ -4778,14 +2923,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-09-14",
-        "datechar": "09/14/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.975",
@@ -4796,14 +2934,7 @@
         "customtime": "3:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 17, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-09-15",
-        "datechar": "09/15/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.95",
@@ -4814,14 +2945,7 @@
         "customtime": "2:30:PM",
         "crime": "HOMICIDE",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc37",
-        "date_com": "2017-09-16",
-        "datechar": "09/16/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.973",
@@ -4832,14 +2956,7 @@
         "customtime": "3:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 13, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-09-16",
-        "datechar": "09/16/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.975",
@@ -4850,14 +2967,7 @@
         "customtime": "3:30:AM",
         "crime": "HOMICIDE",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-17",
-        "datechar": "09/17/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.006",
@@ -4868,14 +2978,7 @@
         "customtime": "2:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 157, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-09-17",
-        "datechar": "09/17/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.967",
@@ -4886,14 +2989,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "San Rafael Village, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-09-17",
-        "datechar": "09/17/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.956",
@@ -4904,14 +3000,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-09-17",
-        "datechar": "09/17/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.938",
@@ -4922,14 +3011,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "San Roque, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-09-17",
-        "datechar": "09/17/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "121.002",
@@ -4940,14 +3022,7 @@
         "customtime": "6:30:PM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-17",
-        "datechar": "09/17/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.934",
@@ -4958,14 +3033,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-09-20",
-        "datechar": "09/20/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.949",
@@ -4976,14 +3044,7 @@
         "customtime": "5:30:PM",
         "crime": "HOMICIDE",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-09-24",
-        "datechar": "09/24/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.997",
@@ -4994,14 +3055,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-24",
-        "datechar": "09/24/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.956",
@@ -5012,14 +3066,7 @@
         "customtime": "11:45:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc37",
-        "date_com": "2017-09-24",
-        "datechar": "09/24/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "121.042",
@@ -5030,14 +3077,7 @@
         "customtime": "2:00:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-27",
-        "datechar": "09/27/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.996",
@@ -5048,14 +3088,7 @@
         "customtime": "2:30:PM",
         "crime": "HOMICIDE",
         "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-09-28",
-        "datechar": "09/28/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "121.038",
@@ -5066,14 +3099,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-09-30",
-        "datechar": "09/30/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.013",
@@ -5084,14 +3110,7 @@
         "customtime": "7:00:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-10-01",
-        "datechar": "10/01/2017"
+        "modus": "Mauling"
     },
         {
         "lng": "120.98",
@@ -5102,14 +3121,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-01",
-        "datechar": "10/01/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.004",
@@ -5120,14 +3132,7 @@
         "customtime": "8:30:PM",
         "crime": "HOMICIDE",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-01",
-        "datechar": "10/01/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.961",
@@ -5138,14 +3143,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-01",
-        "datechar": "10/01/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.972",
@@ -5156,14 +3154,7 @@
         "customtime": "12:00:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 24, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-07",
-        "datechar": "10/07/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.957",
@@ -5174,14 +3165,7 @@
         "customtime": "9:15:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-10-08",
-        "datechar": "10/08/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.951",
@@ -5192,14 +3176,7 @@
         "customtime": "1:45:AM",
         "crime": "HOMICIDE",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-14",
-        "datechar": "10/14/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.945",
@@ -5210,14 +3187,7 @@
         "customtime": "9:50:PM",
         "crime": "HOMICIDE",
         "location": "Sipac-Almacen, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc37",
-        "date_com": "2017-10-14",
-        "datechar": "10/14/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.955",
@@ -5228,14 +3198,7 @@
         "customtime": "2:30:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc36",
-        "date_com": "2017-10-15",
-        "datechar": "10/15/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.961",
@@ -5246,14 +3209,7 @@
         "customtime": "5:00:PM",
         "crime": "HOMICIDE",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-16",
-        "datechar": "10/16/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.991",
@@ -5264,14 +3220,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-10-18",
-        "datechar": "10/18/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "121.008",
@@ -5282,14 +3231,7 @@
         "customtime": "11:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc36",
-        "date_com": "2017-10-20",
-        "datechar": "10/20/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "121.054",
@@ -5300,14 +3242,7 @@
         "customtime": "1:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-21",
-        "datechar": "10/21/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "121.022",
@@ -5318,14 +3253,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-10-21",
-        "datechar": "10/21/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.956",
@@ -5336,14 +3264,7 @@
         "customtime": "12:40:AM",
         "crime": "HOMICIDE",
         "location": "Niugan, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc37",
-        "date_com": "2017-10-22",
-        "datechar": "10/22/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.975",
@@ -5354,14 +3275,7 @@
         "customtime": "8:30:AM",
         "crime": "HOMICIDE",
         "location": "Barangay 32, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc36",
-        "date_com": "2017-10-24",
-        "datechar": "10/24/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "121.061",
@@ -5372,14 +3286,7 @@
         "customtime": "10:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc37",
-        "date_com": "2017-10-26",
-        "datechar": "10/26/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.949",
@@ -5390,14 +3297,7 @@
         "customtime": "1:00:AM",
         "crime": "HOMICIDE",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-28",
-        "datechar": "10/28/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.011",
@@ -5408,14 +3308,7 @@
         "customtime": "8:50:PM",
         "crime": "HOMICIDE",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-29",
-        "datechar": "10/29/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.982",
@@ -5426,32 +3319,7 @@
         "customtime": "1:50:AM",
         "crime": "HOMICIDE",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-30",
-        "datechar": "10/30/2017"
-    },
-    {
-        "lng": "121.084",
-        "lat": "14.7688",
-        "date": "2017-10-30",
-        "customdate": "Mon - Oct 30, 2017",
-        "time": "18:00:00",
-        "customtime": "6:00:PM",
-        "crime": "HOMICIDE",
-        "location": "Barangay 181, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-30",
-        "datechar": "10/30/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.952",
@@ -5462,14 +3330,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-10-31",
-        "datechar": "10/31/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.036",
@@ -5480,14 +3341,7 @@
         "customtime": "7:30:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-10-31",
-        "datechar": "10/31/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.935",
@@ -5498,14 +3352,7 @@
         "customtime": "5:30:PM",
         "crime": "HOMICIDE",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-11-01",
-        "datechar": "11/01/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.957",
@@ -5516,14 +3363,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-11-02",
-        "datechar": "11/02/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.957",
@@ -5534,14 +3374,7 @@
         "customtime": "4:30:PM",
         "crime": "HOMICIDE",
         "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-02",
-        "datechar": "11/02/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.947",
@@ -5552,14 +3385,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc15",
-        "date_com": "2017-11-05",
-        "datechar": "11/05/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.953",
@@ -5570,14 +3396,7 @@
         "customtime": "10:30:AM",
         "crime": "HOMICIDE",
         "location": "Panghulo, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-07",
-        "datechar": "11/07/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.013",
@@ -5588,14 +3407,7 @@
         "customtime": "1:00:AM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-08",
-        "datechar": "11/08/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.955",
@@ -5606,14 +3418,7 @@
         "customtime": "4:30:AM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-11-09",
-        "datechar": "11/09/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.965",
@@ -5624,14 +3429,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-11-12",
-        "datechar": "11/12/2017"
+        "modus": "Mauling"
     },
         {
         "lng": "120.965",
@@ -5642,14 +3440,7 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-11-12",
-        "datechar": "11/12/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.996",
@@ -5660,14 +3451,7 @@
         "customtime": "5:30:PM",
         "crime": "HOMICIDE",
         "location": "Paso De Blas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-12",
-        "datechar": "11/12/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.962",
@@ -5678,14 +3462,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-12",
-        "datechar": "11/12/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.984",
@@ -5696,14 +3473,7 @@
         "customtime": "2:30:AM",
         "crime": "HOMICIDE",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-13",
-        "datechar": "11/13/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.958",
@@ -5714,14 +3484,7 @@
         "customtime": "10:10:PM",
         "crime": "HOMICIDE",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-15",
-        "datechar": "11/15/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.958",
@@ -5732,14 +3495,7 @@
         "customtime": "10:10:PM",
         "crime": "HOMICIDE",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-15",
-        "datechar": "11/15/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.046",
@@ -5750,14 +3506,7 @@
         "customtime": "6:20:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 174, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc36",
-        "date_com": "2017-11-18",
-        "datechar": "11/18/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.956",
@@ -5768,14 +3517,7 @@
         "customtime": "11:30:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-11-19",
-        "datechar": "11/19/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.014",
@@ -5786,14 +3528,7 @@
         "customtime": "2:00:AM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-22",
-        "datechar": "11/22/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.982",
@@ -5804,14 +3539,7 @@
         "customtime": "5:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 73, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-22",
-        "datechar": "11/22/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.974",
@@ -5822,14 +3550,7 @@
         "customtime": "5:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 30, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc36",
-        "date_com": "2017-11-22",
-        "datechar": "11/22/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.989",
@@ -5840,14 +3561,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-22",
-        "datechar": "11/22/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.963",
@@ -5858,14 +3572,7 @@
         "customtime": "10:43:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc37",
-        "date_com": "2017-11-23",
-        "datechar": "11/23/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.963",
@@ -5876,14 +3583,7 @@
         "customtime": "10:43:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hold-Up W/ Gun",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc54",
-        "date_com": "2017-11-23",
-        "datechar": "11/23/2017"
+        "modus": "Hold-Up W/ Gun"
     },
     {
         "lng": "120.955",
@@ -5894,14 +3594,7 @@
         "customtime": "11:45:PM",
         "crime": "HOMICIDE",
         "location": "Palasan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-25",
-        "datechar": "11/25/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.999",
@@ -5912,14 +3605,7 @@
         "customtime": "2:30:AM",
         "crime": "HOMICIDE",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-11-30",
-        "datechar": "11/30/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.007",
@@ -5930,14 +3616,7 @@
         "customtime": "9:30:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-03",
-        "datechar": "12/03/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "120.993",
@@ -5948,14 +3627,7 @@
         "customtime": "10:40:PM",
         "crime": "HOMICIDE",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-03",
-        "datechar": "12/03/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.012",
@@ -5966,14 +3638,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-03",
-        "datechar": "12/03/2017"
+        "modus": "Stabbing/Hacking"
     },
         {
         "lng": "121.012",
@@ -5984,14 +3649,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-03",
-        "datechar": "12/03/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.982",
@@ -6002,14 +3660,7 @@
         "customtime": "11:00:AM",
         "crime": "HOMICIDE",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-04",
-        "datechar": "12/04/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.934",
@@ -6020,14 +3671,7 @@
         "customtime": "11:00:PM",
         "crime": "HOMICIDE",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-12-07",
-        "datechar": "12/07/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.963",
@@ -6038,14 +3682,7 @@
         "customtime": "6:00:PM",
         "crime": "HOMICIDE",
         "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc37",
-        "date_com": "2017-12-09",
-        "datechar": "12/09/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.967",
@@ -6056,14 +3693,7 @@
         "customtime": "9:20:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-09",
-        "datechar": "12/09/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.991",
@@ -6074,14 +3704,7 @@
         "customtime": "2:00:AM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-11",
-        "datechar": "12/11/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.988",
@@ -6092,14 +3715,7 @@
         "customtime": "9:00:AM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-13",
-        "datechar": "12/13/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.063",
@@ -6110,14 +3726,7 @@
         "customtime": "9:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-18",
-        "datechar": "12/18/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.047",
@@ -6128,14 +3737,7 @@
         "customtime": "8:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-19",
-        "datechar": "12/19/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.993",
@@ -6146,14 +3748,7 @@
         "customtime": "8:30:AM",
         "crime": "HOMICIDE",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-12-19",
-        "datechar": "12/19/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.986",
@@ -6164,14 +3759,7 @@
         "customtime": "5:20:PM",
         "crime": "HOMICIDE",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-20",
-        "datechar": "12/20/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.963",
@@ -6182,14 +3770,7 @@
         "customtime": "7:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 12, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hitting With Hard Object",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc15",
-        "date_com": "2017-12-23",
-        "datechar": "12/23/2017"
+        "modus": "Hitting With Hard Object"
     },
     {
         "lng": "120.951",
@@ -6200,14 +3781,7 @@
         "customtime": "4:00:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-12-24",
-        "datechar": "12/24/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.996",
@@ -6218,14 +3792,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc36",
-        "date_com": "2017-12-24",
-        "datechar": "12/24/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.996",
@@ -6236,14 +3803,7 @@
         "customtime": "10:00:PM",
         "crime": "HOMICIDE",
         "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc92",
-        "date_com": "2017-12-24",
-        "datechar": "12/24/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.996",
@@ -6254,14 +3814,7 @@
         "customtime": "2:00:PM",
         "crime": "HOMICIDE",
         "location": "Barangay 145, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Mauling",
-        "crimetype": "3",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc36",
-        "date_com": "2017-12-24",
-        "datechar": "12/24/2017"
+        "modus": "Mauling"
     },
     {
         "lng": "120.967",
@@ -6272,14 +3825,7 @@
         "customtime": "7:22:PM",
         "crime": "HOMICIDE",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-25",
-        "datechar": "12/25/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.955",
@@ -6290,14 +3836,7 @@
         "customtime": "2:30:PM",
         "crime": "HOMICIDE",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc38",
-        "date_com": "2017-12-26",
-        "datechar": "12/26/2017"
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.981",
@@ -6308,13 +3847,6 @@
         "customtime": "1:30:AM",
         "crime": "HOMICIDE",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "3",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc38",
-        "date_com": "2017-12-27",
-        "datechar": "12/27/2017"
+        "modus": "Stabbing/Hacking"
     }
 ]

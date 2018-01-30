@@ -8,14 +8,7 @@
         "customtime": "2:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-01-02",
-        "datechar": "1/2/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.948",
@@ -26,14 +19,7 @@
         "customtime": "5:52:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Sipac-Almacen, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc86",
-        "date_com": "2017-01-04",
-        "datechar": "1/4/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.979",
@@ -44,14 +30,7 @@
         "customtime": "6:18:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 72, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-01-04",
-        "datechar": "1/4/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.028",
@@ -62,14 +41,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-01-05",
-        "datechar": "1/5/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.955",
@@ -80,14 +52,7 @@
         "customtime": "5:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc86",
-        "date_com": "2017-01-07",
-        "datechar": "1/7/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.953",
@@ -98,14 +63,7 @@
         "customtime": "7:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc84",
-        "date_com": "2017-01-08",
-        "datechar": "1/8/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.984",
@@ -116,14 +74,7 @@
         "customtime": "11:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-01-14",
-        "datechar": "1/14/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.013",
@@ -134,14 +85,7 @@
         "customtime": "9:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 166, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-01-17",
-        "datechar": "1/17/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.986",
@@ -152,14 +96,7 @@
         "customtime": "7:05:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 86, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu ( Stolen While Parked)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc79",
-        "date_com": "2017-01-23",
-        "datechar": "1/23/2017"
+        "modus": "Swpu ( Stolen While Parked)"
     },
     {
         "lng": "120.958",
@@ -170,14 +107,7 @@
         "customtime": "3:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-01-23",
-        "datechar": "1/23/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.035",
@@ -188,14 +118,7 @@
         "customtime": "1:40:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-01-25",
-        "datechar": "1/25/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.056",
@@ -206,14 +129,7 @@
         "customtime": "3:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-01-26",
-        "datechar": "1/26/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.035",
@@ -224,14 +140,7 @@
         "customtime": "3:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-01-27",
-        "datechar": "1/27/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.052",
@@ -242,14 +151,7 @@
         "customtime": "8:45:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-02-01",
-        "datechar": "2/1/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.034",
@@ -260,14 +162,7 @@
         "customtime": "8:50:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-02-02",
-        "datechar": "2/2/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.972",
@@ -278,14 +173,7 @@
         "customtime": "7:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tinajeros, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-02-03",
-        "datechar": "2/3/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.051",
@@ -296,14 +184,7 @@
         "customtime": "7:20:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu ( Stolen While Parked)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc79",
-        "date_com": "2017-02-04",
-        "datechar": "2/4/2017"
+        "modus": "Swpu ( Stolen While Parked)"
     },
     {
         "lng": "121.013",
@@ -314,14 +195,7 @@
         "customtime": "12:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 166, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-02-05",
-        "datechar": "2/5/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.06",
@@ -332,14 +206,7 @@
         "customtime": "1:45:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-02-07",
-        "datechar": "2/7/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.978",
@@ -350,14 +217,7 @@
         "customtime": "7:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": "2017-02-08",
-        "datechar": "2/8/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.952",
@@ -368,14 +228,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-02-21",
-        "datechar": "2/21/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.96",
@@ -386,14 +239,7 @@
         "customtime": "3:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc87",
-        "date_com": "2017-02-23",
-        "datechar": "2/23/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.985",
@@ -404,14 +250,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 115, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-02-26",
-        "datechar": "2/26/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.076",
@@ -422,14 +261,7 @@
         "customtime": "4:48:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 179, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-03-01",
-        "datechar": "3/1/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.992",
@@ -440,14 +272,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Taxi Hold-Up W/ Gun",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc56",
-        "date_com": "2017-03-02",
-        "datechar": "3/2/2017"
+        "modus": "Taxi Hold-Up W/ Gun"
     },
     {
         "lng": "120.992",
@@ -458,14 +283,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc83",
-        "date_com": "2017-03-02",
-        "datechar": "3/2/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.015",
@@ -476,14 +294,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 163, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-03-05",
-        "datechar": "3/5/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.98",
@@ -494,14 +305,7 @@
         "customtime": "3:47:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": "2017-03-05",
-        "datechar": "3/5/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "121.06",
@@ -512,14 +316,7 @@
         "customtime": "3:40:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-03-08",
-        "datechar": "3/8/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.951",
@@ -530,14 +327,7 @@
         "customtime": "12:25:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc86",
-        "date_com": "2017-03-13",
-        "datechar": "3/13/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.988",
@@ -548,14 +338,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 84, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-03-14",
-        "datechar": "3/14/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.004",
@@ -566,14 +349,7 @@
         "customtime": "12:45:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-03-14",
-        "datechar": "3/14/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.043",
@@ -584,14 +360,7 @@
         "customtime": "10:15:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 172, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-03-22",
-        "datechar": "3/22/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.958",
@@ -602,14 +371,7 @@
         "customtime": "7:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu ( Stolen While Parked)",
-        "crimetype": "27",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc79",
-        "date_com": "2017-03-24",
-        "datechar": "3/24/2017"
+        "modus": "Swpu ( Stolen While Parked)"
     },
     {
         "lng": "120.994",
@@ -620,14 +382,7 @@
         "customtime": "3:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 96, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc83",
-        "date_com": "2017-03-29",
-        "datechar": "3/29/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.982",
@@ -638,14 +393,7 @@
         "customtime": "4:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": null,
-        "datechar": null
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.992",
@@ -656,14 +404,7 @@
         "customtime": "7:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.038",
@@ -674,14 +415,7 @@
         "customtime": "2:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.001",
@@ -692,14 +426,7 @@
         "customtime": "6:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 160, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.991",
@@ -710,14 +437,7 @@
         "customtime": "9:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 135, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.939",
@@ -728,14 +448,7 @@
         "customtime": "10:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Dampalit, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.978",
@@ -746,14 +459,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": null,
-        "datechar": null
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "121.08",
@@ -764,14 +470,7 @@
         "customtime": "1:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.019",
@@ -782,14 +481,7 @@
         "customtime": "4:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.989",
@@ -800,14 +492,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc83",
-        "date_com": null,
-        "datechar": null
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.989",
@@ -818,14 +503,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc94",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.989",
@@ -836,14 +514,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hold Up",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc8",
-        "date_com": null,
-        "datechar": null
+        "modus": "Hold Up"
     },
     {
         "lng": "120.997",
@@ -854,14 +525,7 @@
         "customtime": "3:45:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Stabbing/Hacking",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc90",
-        "date_com": null,
-        "datechar": null
+        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.997",
@@ -872,14 +536,7 @@
         "customtime": "3:45:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc83",
-        "date_com": null,
-        "datechar": null
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.983",
@@ -890,14 +547,7 @@
         "customtime": "12:40:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 62, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.03",
@@ -908,14 +558,7 @@
         "customtime": "2:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.968",
@@ -926,14 +569,7 @@
         "customtime": "7:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.063",
@@ -944,14 +580,7 @@
         "customtime": "12:50:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.972",
@@ -962,14 +591,7 @@
         "customtime": "2:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 24, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.003",
@@ -980,14 +602,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 164, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.992",
@@ -998,14 +613,7 @@
         "customtime": "8:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 126, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": null,
-        "datechar": null
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.962",
@@ -1016,14 +624,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-01",
-        "datechar": "5/1/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.961",
@@ -1034,14 +635,7 @@
         "customtime": "4:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Catmon, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc87",
-        "date_com": "2017-05-02",
-        "datechar": "5/2/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.056",
@@ -1052,14 +646,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-03",
-        "datechar": "5/3/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.952",
@@ -1070,14 +657,7 @@
         "customtime": "7:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "San Agustin, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc87",
-        "date_com": "2017-05-03",
-        "datechar": "5/3/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.957",
@@ -1088,14 +668,7 @@
         "customtime": "8:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Panghulo, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc77",
-        "date_com": "2017-05-04",
-        "datechar": "5/4/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.967",
@@ -1106,14 +679,7 @@
         "customtime": "6:45:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-12",
-        "datechar": "5/12/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.018",
@@ -1124,14 +690,7 @@
         "customtime": "3:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-13",
-        "datechar": "5/13/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.074",
@@ -1142,14 +701,7 @@
         "customtime": "5:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 179, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-14",
-        "datechar": "5/14/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.048",
@@ -1160,14 +712,7 @@
         "customtime": "12:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-15",
-        "datechar": "5/15/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.949",
@@ -1178,14 +723,7 @@
         "customtime": "11:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc86",
-        "date_com": "2017-05-16",
-        "datechar": "5/16/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.06",
@@ -1196,14 +734,7 @@
         "customtime": "7:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc83",
-        "date_com": "2017-05-17",
-        "datechar": "5/17/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.981",
@@ -1214,14 +745,7 @@
         "customtime": "7:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-19",
-        "datechar": "5/19/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.06",
@@ -1232,14 +756,7 @@
         "customtime": "5:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-19",
-        "datechar": "5/19/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.057",
@@ -1250,14 +767,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-19",
-        "datechar": "5/19/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.019",
@@ -1268,14 +778,7 @@
         "customtime": "9:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-21",
-        "datechar": "5/21/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.022",
@@ -1286,14 +789,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-22",
-        "datechar": "5/22/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.006",
@@ -1304,14 +800,7 @@
         "customtime": "8:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 165, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-22",
-        "datechar": "5/22/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.962",
@@ -1322,14 +811,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-24",
-        "datechar": "5/24/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.997",
@@ -1340,14 +822,7 @@
         "customtime": "7:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc87",
-        "date_com": "2017-05-24",
-        "datechar": "5/24/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.99",
@@ -1358,14 +833,7 @@
         "customtime": "12:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 87, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc77",
-        "date_com": "2017-05-29",
-        "datechar": "5/29/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "121.019",
@@ -1376,14 +844,7 @@
         "customtime": "5:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc84",
-        "date_com": "2017-05-30",
-        "datechar": "5/30/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "121.016",
@@ -1394,14 +855,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-05-31",
-        "datechar": "5/31/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.011",
@@ -1412,14 +866,7 @@
         "customtime": "11:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 164, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-01",
-        "datechar": "6/1/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121",
@@ -1430,14 +877,7 @@
         "customtime": "3:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 139, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu ( Stolen While Parked)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc79",
-        "date_com": "2017-06-01",
-        "datechar": "6/1/2017"
+        "modus": "Swpu ( Stolen While Parked)"
     },
     {
         "lng": "120.971",
@@ -1448,14 +888,7 @@
         "customtime": "12:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 35, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-03",
-        "datechar": "6/3/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.066",
@@ -1466,14 +899,7 @@
         "customtime": "3:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-07",
-        "datechar": "6/7/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.014",
@@ -1484,14 +910,7 @@
         "customtime": "2:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 166, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-09",
-        "datechar": "6/9/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.982",
@@ -1502,14 +921,7 @@
         "customtime": "3:39:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 67, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-10",
-        "datechar": "6/10/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.994",
@@ -1520,14 +932,7 @@
         "customtime": "5:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 102, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-11",
-        "datechar": "6/11/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.016",
@@ -1538,14 +943,7 @@
         "customtime": "2:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-14",
-        "datechar": "6/14/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.018",
@@ -1556,14 +954,7 @@
         "customtime": "4:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc84",
-        "date_com": "2017-06-14",
-        "datechar": "6/14/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.991",
@@ -1574,14 +965,7 @@
         "customtime": "10:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 92, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-06-17",
-        "datechar": "6/17/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.986",
@@ -1592,14 +976,7 @@
         "customtime": "8:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 118, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-06-20",
-        "datechar": "6/20/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.968",
@@ -1610,14 +987,7 @@
         "customtime": "1:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc87",
-        "date_com": "2017-06-22",
-        "datechar": "6/22/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.992",
@@ -1628,14 +998,7 @@
         "customtime": "10:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 94, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-06-23",
-        "datechar": "6/23/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.957",
@@ -1646,14 +1009,7 @@
         "customtime": "10:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc86",
-        "date_com": "2017-06-23",
-        "datechar": "6/23/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.011",
@@ -1664,14 +1020,7 @@
         "customtime": "7:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-24",
-        "datechar": "6/24/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.995",
@@ -1682,14 +1031,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 149, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-26",
-        "datechar": "6/26/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.954",
@@ -1700,14 +1042,7 @@
         "customtime": "5:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc86",
-        "date_com": "2017-06-27",
-        "datechar": "6/27/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.982",
@@ -1718,14 +1053,7 @@
         "customtime": "7:40:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 76, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-06-28",
-        "datechar": "6/28/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.973",
@@ -1736,14 +1064,7 @@
         "customtime": "12:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc87",
-        "date_com": "2017-07-02",
-        "datechar": "7/2/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.981",
@@ -1754,14 +1075,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 61, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc77",
-        "date_com": "2017-07-02",
-        "datechar": "7/2/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.996",
@@ -1772,14 +1086,7 @@
         "customtime": "4:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Canumay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-04",
-        "datechar": "7/4/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.013",
@@ -1790,14 +1097,7 @@
         "customtime": "6:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 166, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-07",
-        "datechar": "7/7/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.965",
@@ -1808,14 +1108,7 @@
         "customtime": "6:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-07",
-        "datechar": "7/7/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.98",
@@ -1826,14 +1119,7 @@
         "customtime": "11:20:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 60, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-07-09",
-        "datechar": "7/9/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.011",
@@ -1844,14 +1130,7 @@
         "customtime": "5:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-11",
-        "datechar": "7/11/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.008",
@@ -1862,14 +1141,7 @@
         "customtime": "2:50:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 163, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-11",
-        "datechar": "7/11/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.993",
@@ -1880,14 +1152,7 @@
         "customtime": "11:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 142, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-11",
-        "datechar": "7/11/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.952",
@@ -1898,14 +1163,7 @@
         "customtime": "7:15:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-14",
-        "datechar": "7/14/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.069",
@@ -1916,14 +1174,7 @@
         "customtime": "10:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 186, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-15",
-        "datechar": "7/15/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.992",
@@ -1934,14 +1185,7 @@
         "customtime": "10:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 126, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-07-15",
-        "datechar": "7/15/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.964",
@@ -1952,14 +1196,7 @@
         "customtime": "5:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Maysilo, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-16",
-        "datechar": "7/16/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.001",
@@ -1970,14 +1207,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 161, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-17",
-        "datechar": "7/17/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.016",
@@ -1988,14 +1218,7 @@
         "customtime": "10:50:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-21",
-        "datechar": "7/21/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.952",
@@ -2006,14 +1229,7 @@
         "customtime": "5:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Pasolo, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-21",
-        "datechar": "7/21/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.013",
@@ -2024,14 +1240,7 @@
         "customtime": "5:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-23",
-        "datechar": "7/23/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.973",
@@ -2042,14 +1251,7 @@
         "customtime": "6:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 34, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-23",
-        "datechar": "7/23/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.075",
@@ -2060,14 +1262,7 @@
         "customtime": "4:20:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 185, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-24",
-        "datechar": "7/24/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.003",
@@ -2078,14 +1273,7 @@
         "customtime": "2:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Mapulang Lupa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": "2017-07-24",
-        "datechar": "7/24/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.948",
@@ -2096,14 +1284,7 @@
         "customtime": "11:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Sipac-Almacen, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc86",
-        "date_com": "2017-07-25",
-        "datechar": "7/25/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.077",
@@ -2114,14 +1295,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 185, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-07-26",
-        "datechar": "7/26/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.071",
@@ -2132,14 +1306,7 @@
         "customtime": "12:20:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 179, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-07-27",
-        "datechar": "7/27/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.96",
@@ -2150,14 +1317,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-01",
-        "datechar": "08/01/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.079",
@@ -2168,14 +1328,7 @@
         "customtime": "5:45:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-01",
-        "datechar": "08/01/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.984",
@@ -2186,14 +1339,7 @@
         "customtime": "12:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 120, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-04",
-        "datechar": "08/04/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.983",
@@ -2204,14 +1350,7 @@
         "customtime": "6:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 86, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-05",
-        "datechar": "08/05/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.978",
@@ -2222,14 +1361,7 @@
         "customtime": "12:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 60, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-08-07",
-        "datechar": "08/07/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.022",
@@ -2240,14 +1372,7 @@
         "customtime": "10:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 164, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-07",
-        "datechar": "08/07/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.043",
@@ -2258,14 +1383,7 @@
         "customtime": "2:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-07",
-        "datechar": "08/07/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.995",
@@ -2276,14 +1394,7 @@
         "customtime": "8:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": "2017-08-07",
-        "datechar": "08/07/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.995",
@@ -2294,14 +1405,7 @@
         "customtime": "8:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Qualified Theft",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc66",
-        "date_com": "2017-08-07",
-        "datechar": "08/07/2017"
+        "modus": "Qualified Theft"
     },
     {
         "lng": "120.964",
@@ -2312,14 +1416,7 @@
         "customtime": "8:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Maysilo, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-09",
-        "datechar": "08/09/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.966",
@@ -2330,14 +1427,7 @@
         "customtime": "3:45:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tinajeros, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-11",
-        "datechar": "08/11/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.99",
@@ -2348,14 +1438,7 @@
         "customtime": "4:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc77",
-        "date_com": "2017-08-15",
-        "datechar": "08/15/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "121.067",
@@ -2366,14 +1449,7 @@
         "customtime": "10:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 186, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-16",
-        "datechar": "08/16/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.045",
@@ -2384,14 +1460,7 @@
         "customtime": "4:50:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-20",
-        "datechar": "08/20/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.973",
@@ -2402,14 +1471,7 @@
         "customtime": "1:50:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-20",
-        "datechar": "08/20/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.055",
@@ -2420,14 +1482,7 @@
         "customtime": "1:50:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-21",
-        "datechar": "08/21/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.057",
@@ -2438,14 +1493,7 @@
         "customtime": "3:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 177, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-26",
-        "datechar": "08/26/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.011",
@@ -2456,14 +1504,7 @@
         "customtime": "12:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-26",
-        "datechar": "08/26/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.986",
@@ -2474,14 +1515,7 @@
         "customtime": "12:14:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 110, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-26",
-        "datechar": "08/26/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.974",
@@ -2492,14 +1526,7 @@
         "customtime": "5:40:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 15, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-28",
-        "datechar": "08/28/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.974",
@@ -2510,14 +1537,7 @@
         "customtime": "5:40:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 15, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-28",
-        "datechar": "08/28/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.953",
@@ -2528,14 +1548,7 @@
         "customtime": "10:50:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "San Agustin, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-08-30",
-        "datechar": "08/30/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.976",
@@ -2546,14 +1559,7 @@
         "customtime": "5:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 35, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu ( Stolen While Parked)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc79",
-        "date_com": "2017-09-01",
-        "datechar": "09/01/2017"
+        "modus": "Swpu ( Stolen While Parked)"
     },
     {
         "lng": "120.975",
@@ -2564,14 +1570,7 @@
         "customtime": "5:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-02",
-        "datechar": "09/02/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.014",
@@ -2582,14 +1581,7 @@
         "customtime": "5:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-03",
-        "datechar": "09/03/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.996",
@@ -2600,14 +1592,7 @@
         "customtime": "5:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-03",
-        "datechar": "09/03/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.976",
@@ -2618,14 +1603,7 @@
         "customtime": "12:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": "2017-09-05",
-        "datechar": "09/05/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "121.009",
@@ -2636,14 +1614,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-06",
-        "datechar": "09/06/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.999",
@@ -2654,14 +1625,7 @@
         "customtime": "10:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 156, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-09",
-        "datechar": "09/09/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.01",
@@ -2672,14 +1636,7 @@
         "customtime": "5:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 167, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-11",
-        "datechar": "09/11/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.965",
@@ -2690,14 +1647,7 @@
         "customtime": "2:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 12, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-12",
-        "datechar": "09/12/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.039",
@@ -2708,14 +1658,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-13",
-        "datechar": "09/13/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121",
@@ -2726,14 +1669,7 @@
         "customtime": "2:40:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 161, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-09-16",
-        "datechar": "09/16/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.99",
@@ -2744,14 +1680,7 @@
         "customtime": "4:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 132, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-17",
-        "datechar": "09/17/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.959",
@@ -2762,14 +1691,7 @@
         "customtime": "5:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-18",
-        "datechar": "09/18/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.987",
@@ -2780,14 +1702,7 @@
         "customtime": "1:27:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 112, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-19",
-        "datechar": "09/19/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.968",
@@ -2798,14 +1713,7 @@
         "customtime": "11:45:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-22",
-        "datechar": "09/22/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.982",
@@ -2816,14 +1724,7 @@
         "customtime": "7:45:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-30",
-        "datechar": "09/30/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.975",
@@ -2834,14 +1735,7 @@
         "customtime": "9:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 15, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-09-30",
-        "datechar": "09/30/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.975",
@@ -2852,14 +1746,7 @@
         "customtime": "12:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc87",
-        "date_com": "2017-10-01",
-        "datechar": "10/01/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.075",
@@ -2870,14 +1757,7 @@
         "customtime": "5:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 188, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-07",
-        "datechar": "10/07/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.043",
@@ -2888,14 +1768,7 @@
         "customtime": "11:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-07",
-        "datechar": "10/07/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.004",
@@ -2906,14 +1779,7 @@
         "customtime": "3:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 161, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc84",
-        "date_com": "2017-10-08",
-        "datechar": "10/08/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "121.005",
@@ -2924,14 +1790,7 @@
         "customtime": "3:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 162, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc84",
-        "date_com": "2017-10-08",
-        "datechar": "10/08/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.99",
@@ -2942,14 +1801,7 @@
         "customtime": "1:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 137, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc84",
-        "date_com": "2017-10-08",
-        "datechar": "10/08/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.96",
@@ -2960,14 +1812,7 @@
         "customtime": "3:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-10",
-        "datechar": "10/10/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.974",
@@ -2978,14 +1823,7 @@
         "customtime": "10:04:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-10",
-        "datechar": "10/10/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.018",
@@ -2996,14 +1834,7 @@
         "customtime": "5:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-11",
-        "datechar": "10/11/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.043",
@@ -3014,14 +1845,7 @@
         "customtime": "5:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-11",
-        "datechar": "10/11/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.993",
@@ -3032,14 +1856,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-14",
-        "datechar": "10/14/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.968",
@@ -3050,14 +1867,7 @@
         "customtime": "7:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Viente Reales, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-14",
-        "datechar": "10/14/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.985",
@@ -3068,14 +1878,7 @@
         "customtime": "10:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 90, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu ( Stolen While Parked)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc79",
-        "date_com": "2017-10-16",
-        "datechar": "10/16/2017"
+        "modus": "Swpu ( Stolen While Parked)"
     },
     {
         "lng": "120.979",
@@ -3086,14 +1889,7 @@
         "customtime": "8:10:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc87",
-        "date_com": "2017-10-17",
-        "datechar": "10/17/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.978",
@@ -3104,14 +1900,7 @@
         "customtime": "9:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 46, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu ( Stolen While Parked)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc79",
-        "date_com": "2017-10-20",
-        "datechar": "10/20/2017"
+        "modus": "Swpu ( Stolen While Parked)"
     },
     {
         "lng": "121.074",
@@ -3122,14 +1911,7 @@
         "customtime": "2:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc83",
-        "date_com": "2017-10-21",
-        "datechar": "10/21/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.994",
@@ -3140,14 +1922,7 @@
         "customtime": "2:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 161, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-22",
-        "datechar": "10/22/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.962",
@@ -3158,14 +1933,7 @@
         "customtime": "1:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-25",
-        "datechar": "10/25/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.984",
@@ -3176,14 +1944,7 @@
         "customtime": "10:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-25",
-        "datechar": "10/25/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.985",
@@ -3194,14 +1955,7 @@
         "customtime": "10:25:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc87",
-        "date_com": "2017-10-26",
-        "datechar": "10/26/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.04",
@@ -3212,14 +1966,7 @@
         "customtime": "10:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 172, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc77",
-        "date_com": "2017-10-27",
-        "datechar": "10/27/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.949",
@@ -3230,14 +1977,7 @@
         "customtime": "1:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Hold Up",
-        "crimetype": "27",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc8",
-        "date_com": "2017-10-28",
-        "datechar": "10/28/2017"
+        "modus": "Hold Up"
     },
     {
         "lng": "120.949",
@@ -3248,14 +1988,7 @@
         "customtime": "1:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "27",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc83",
-        "date_com": "2017-10-28",
-        "datechar": "10/28/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.936",
@@ -3266,32 +1999,7 @@
         "customtime": "8:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 03 Navotas",
-        "moduscode": "mc86",
-        "date_com": "2017-10-30",
-        "datechar": "10/30/2017"
-    },
-    {
-        "lng": "121.049",
-        "lat": "14.7372",
-        "date": "2017-10-30",
-        "customdate": "Mon - Oct 30, 2017",
-        "time": "04:00:00",
-        "customtime": "4:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
-        "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-30",
-        "datechar": "10/30/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.053",
@@ -3302,14 +2010,7 @@
         "customtime": "3:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-10-30",
-        "datechar": "10/30/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.989",
@@ -3320,14 +2021,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 82, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc77",
-        "date_com": "2017-11-05",
-        "datechar": "11/05/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.989",
@@ -3338,14 +2032,7 @@
         "customtime": "4:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-05",
-        "datechar": "11/05/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.977",
@@ -3356,14 +2043,7 @@
         "customtime": "4:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-10",
-        "datechar": "11/10/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.972",
@@ -3374,14 +2054,7 @@
         "customtime": "3:45:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 22, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-10",
-        "datechar": "11/10/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.038",
@@ -3392,14 +2065,7 @@
         "customtime": "11:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 172, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc87",
-        "date_com": "2017-11-14",
-        "datechar": "11/14/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.036",
@@ -3410,14 +2076,7 @@
         "customtime": "8:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc83",
-        "date_com": "2017-11-17",
-        "datechar": "11/17/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "121.036",
@@ -3428,14 +2087,7 @@
         "customtime": "7:20:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-20",
-        "datechar": "11/20/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.972",
@@ -3446,14 +2098,7 @@
         "customtime": "10:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 22, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-20",
-        "datechar": "11/20/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.973",
@@ -3464,14 +2109,7 @@
         "customtime": "6:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": "2017-11-21",
-        "datechar": "11/21/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.991",
@@ -3482,14 +2120,7 @@
         "customtime": "5:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc77",
-        "date_com": "2017-11-25",
-        "datechar": "11/25/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.968",
@@ -3500,14 +2131,7 @@
         "customtime": "3:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-28",
-        "datechar": "11/28/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.953",
@@ -3518,14 +2142,7 @@
         "customtime": "6:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-29",
-        "datechar": "11/29/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.003",
@@ -3536,14 +2153,7 @@
         "customtime": "2:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-30",
-        "datechar": "11/30/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.003",
@@ -3554,14 +2164,7 @@
         "customtime": "2:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Salisi (Others)",
-        "crimetype": "366",
-        "station": "Police Station 04 Valenzuela City",
-        "moduscode": "mc69",
-        "date_com": "2017-11-30",
-        "datechar": "11/30/2017"
+        "modus": "Salisi (Others)"
     },
     {
         "lng": "120.977",
@@ -3572,14 +2175,7 @@
         "customtime": "3:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 72, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-11-30",
-        "datechar": "11/30/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.97",
@@ -3590,14 +2186,7 @@
         "customtime": "2:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
         "location": "Barangay 1, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "27",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc77",
-        "date_com": "2017-12-04",
-        "datechar": "12/04/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.984",
@@ -3608,14 +2197,7 @@
         "customtime": "9:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 119, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-08",
-        "datechar": "12/08/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.97",
@@ -3626,14 +2208,7 @@
         "customtime": "5:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 80, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-09",
-        "datechar": "12/09/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.983",
@@ -3644,14 +2219,7 @@
         "customtime": "1:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 113, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Ftr (Failed to Return)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc84",
-        "date_com": "2017-12-10",
-        "datechar": "12/10/2017"
+        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.973",
@@ -3662,14 +2230,7 @@
         "customtime": "12:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 22, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-12",
-        "datechar": "12/12/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.971",
@@ -3680,14 +2241,7 @@
         "customtime": "7:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-16",
-        "datechar": "12/16/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.98",
@@ -3698,14 +2252,7 @@
         "customtime": "4:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 72, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-16",
-        "datechar": "12/16/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.072",
@@ -3716,14 +2263,7 @@
         "customtime": "9:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 182, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Failiure to Return",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc17",
-        "date_com": "2017-12-17",
-        "datechar": "12/17/2017"
+        "modus": "Failiure to Return"
     },
     {
         "lng": "120.968",
@@ -3734,14 +2274,7 @@
         "customtime": "12:45:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-19",
-        "datechar": "12/19/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "121.017",
@@ -3752,14 +2285,7 @@
         "customtime": "2:30:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 169, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-20",
-        "datechar": "12/20/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.983",
@@ -3770,14 +2296,7 @@
         "customtime": "7:30:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 80, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-20",
-        "datechar": "12/20/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.967",
@@ -3788,14 +2307,7 @@
         "customtime": "10:50:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Tinajeros, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-21",
-        "datechar": "12/21/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.967",
@@ -3806,14 +2318,7 @@
         "customtime": "12:00:AM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 01 Caloocan City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-23",
-        "datechar": "12/23/2017"
+        "modus": "Swpu (Stolen While Parked)"
     },
     {
         "lng": "120.959",
@@ -3824,14 +2329,7 @@
         "customtime": "8:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Forcibly Taken",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc87",
-        "date_com": "2017-12-24",
-        "datechar": "12/24/2017"
+        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.959",
@@ -3842,14 +2340,7 @@
         "customtime": "8:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Shooting",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc93",
-        "date_com": "2017-12-24",
-        "datechar": "12/24/2017"
+        "modus": "Shooting"
     },
     {
         "lng": "120.951",
@@ -3860,13 +2351,6 @@
         "customtime": "9:00:PM",
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Panghulo, Malabon City, Ncr District 3 (Northern), NCR",
-        "region": "130000000",
-        "province": "137500000",
-        "modus": "Swpu (Stolen While Parked)",
-        "crimetype": "366",
-        "station": "Police Station 02 Malabon City",
-        "moduscode": "mc86",
-        "date_com": "2017-12-25",
-        "datechar": "12/25/2017"
+        "modus": "Swpu (Stolen While Parked)"
     }
 ]

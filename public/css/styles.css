@@ -20,6 +20,17 @@ h1,h2,h3,h4,h5,h6 {
     margin: 0px;
 }
 
+div.cluster img { 
+    top: 0px !important;
+    transform: translate(50%, 50%);
+    width: 35px;
+}
+
+div.cluster div { 
+    font-size: 28px !important;
+    top: -19px !important;
+}
+
 #btn-back-map {
     position: absolute;
     top: 31px;

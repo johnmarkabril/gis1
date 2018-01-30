@@ -55,6 +55,20 @@
                 </select>
             </div>
 
+            <div class="padding-top-normal">
+            <label>Day</label>            
+                <select class="form-control" id="select-day">
+                    <option value="">All</option>
+                    <option value="Mon">Monday</option>
+                    <option value="Tue">Tuesday</option>
+                    <option value="Wed">Wednesday</option>
+                    <option value="Thu">Thursday</option>
+                    <option value="Fri">Friday</option>
+                    <option value="Sat">Saturday</option>
+                    <option value="Sun">Sunday</option>
+                </select>
+            </div>
+
             <div class="padding-top-small">
 			<label>Year</label>
                 <select class="form-control" id="select-year">
