@@ -6,7 +6,7 @@
     <div class="col order-1">
         
         <div class="padding-large h-100">
-            <label>Search Address</label>
+            <label>SELECT LOCATION:</label>
             <select class="form-control" id="select-city">
                 <option value="">CAMANAVA</option>
                 <option value="Kalookan City">Caloocan</option>
@@ -15,9 +15,9 @@
                 <option value="Valenzuela">Valenzuela</option>
             </select>
 
-            <label>Crime</label>
+            <label>SELECT CRIME:</label>
             <select class="form-control" id="select-crime">
-                <option value="All">All</option>
+                <option value="CRIME">ALL</option>
                 <option value="CARNAPPING">Carnapping</option>
                 <option value="DRUG RELATED INCIDENT (RA 9165)">Drug Related Incident</option>
                 <option value="HOMICIDE">Homicide</option>
@@ -26,20 +26,32 @@
                 <option value="RAPE (Art. 266-A RC & R.A.8353)">Rape</option>
                 <option value="ROBBERY">Robbery</option>
                 <option value="THEFT">Theft</option>
-                <option value="Vehicular Traffic Accident">Vehicular Traffic</option>
+                <option value="VEHICULAR TRAFFIC ACCIDENT">Vehicular Traffic</option>
             </select>
 
+
             <div class="padding-top-small">
-                <label>Time range: </label> <span class="slider-time">12:00 AM</span> - <span class="slider-time2">11:59 PM</span>
-                <div class="sliders_step1 padding-top-small">
-                    <div id="slider-range"></div>
-                </div>
+            <label>YEAR:</label>
+                <select class="form-control" id="select-year">
+                    <option value="All">ALL</option>
+                    <option value="2020">2020</option>
+                    <option value="2019">2019</option>
+                    <option value="2018">2018</option>/
+                    <option value="2017">2017</option>
+                    <option value="2016">2016</option>
+                    <option value="2015">2015</option>
+                    <option value="2014">2014</option>
+                    <option value="2013">2013</option>
+                    <option value="2012">2012</option>
+                    <option value="2011">2011</option>
+                    <option value="2010">2010</option>
+                </select>
             </div>
 
-            <div class="padding-top-normal">
-			<label>Month</label>			
+            <div class="padding-top-small">
+			<label>MONTH:</label>			
                 <select class="form-control" id="select-month">
-                    <option value="All">All months</option>
+                    <option value="All">ALL</option>
                     <option value="Jan">January</option>
                     <option value="Feb">February</option>
                     <option value="Mar">March</option>
@@ -55,10 +67,10 @@
                 </select>
             </div>
 
-            <div class="padding-top-normal">
-            <label>Day</label>            
+            <div class="padding-top-small">
+            <label>DAY:</label>            
                 <select class="form-control" id="select-day">
-                    <option value="">All</option>
+                    <option value="">ALL</option>
                     <option value="Mon">Monday</option>
                     <option value="Tue">Tuesday</option>
                     <option value="Wed">Wednesday</option>
@@ -70,27 +82,27 @@
             </div>
 
             <div class="padding-top-small">
-			<label>Year</label>
-                <select class="form-control" id="select-year">
-                    <option value="All">All years</option>
-                    <option value="2017">2017</option>
-                    <option value="2016">2016</option>
-                </select>
+                <label>TIME RANGE: </label> <span class="slider-time">12:00 AM</span> - <span class="slider-time2">11:59 PM</span>
+                <div class="sliders_step1 padding-top-small">
+                    <div id="slider-range"></div>
+                </div>
             </div>
 
-            <div class="padding-top-small">
+            <div class="padding-top-normal">
                 <input type="button" id="btn-filter" class="btn btn-default" value="Search" />
             </div>
 			
 			<div class="padding-top-small">
-				<a id="modal_heatmap_link">Show Heatmap</a>
+				<a id="modal_heatmap_link">
+                    <span class="txt">Show Heatmap</span>
+                </a>
 			</div>
 
             <div class="padding-top-small">
                 <form action="<?php echo base_url(); ?>template/upload_json_file" method="post" enctype="multipart/form-data">
-                    Select image to upload:
+                    Select JSON file:
                     <input type="file" class="form-control" name="fileToUpload" id="fileToUpload">
-                    <input type="submit" value="Upload Image" name="submit">
+                    <input type="submit" value="Upload" name="submit">
                 </form>
 
             </div>
@@ -110,7 +122,7 @@
 
 
 
-<div class="modal fade" id="modal_heatmap" tabindex="-1" role="dialog" aria-labelledby="modal_heatmap">
+<!-- <div class="modal fade" id="modal_heatmap" tabindex="-1" role="dialog" aria-labelledby="modal_heatmap">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-body">
@@ -118,4 +130,4 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->

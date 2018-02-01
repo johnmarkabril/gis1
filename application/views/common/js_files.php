@@ -195,7 +195,7 @@
         setMapOnAll(null);
     }
 
-    //  FUNCTION FOR FILTERING CRIME NAME
+    //  FUNCTION FOR FILTERING CRIME CITY
     let FilterCrimeCityLocation = function(objectValues, select_city) {
         select_city     =   select_city.toLowerCase();
         return objectValues.filter(
@@ -275,13 +275,13 @@
         }
     }
 
-    function getPoints() {
-        return [
-          new google.maps.LatLng(14.6859, 121.02499999999998),
-          new google.maps.LatLng(14.6861, 121.02600000000007),
-          new google.maps.LatLng(14.6857, 121.02600000000007)
-        ];
-    }
+    // function getPoints() {
+    //     return [
+    //       new google.maps.LatLng(14.6859, 121.02499999999998),
+    //       new google.maps.LatLng(14.6861, 121.02600000000007),
+    //       new google.maps.LatLng(14.6857, 121.02600000000007)
+    //     ];
+    // }
 
     //  FUNCTION FOR FILTERING ALL THE POSSIBLE SCENARIO
     let FilterCrimeAll  =   function(){
@@ -318,7 +318,7 @@
         }
 
         if ( !IsEmpty(select_crime) && crime_data_object.length > 0 ) {
-            if ( select_crime != 'All' ) {
+            if ( select_crime != 'CRIME' ) {
                 crime_data_object   =   FilterCrimeName(crime_data_object, select_crime);
             }
         }
@@ -356,21 +356,43 @@
 
         // marker
         $.each(crime_data_object, function(key, crime_object) {
+
+            var iconPath        =   "";
+            var crime_name_uc   =   crime_object.crime.toUpperCase();
+
+            if ( crime_name_uc.indexOf("CARNAPPING") > -1 ) { 
+                iconPath   =   "<?php echo base_url(); ?>public/img/carnapping.png";
+            } else if ( crime_name_uc.indexOf("DRUG RELATED INCIDENT (RA 9165)") > -1 ) {
+                iconPath   =   "<?php echo base_url(); ?>public/img/theft.png";
+            } else if ( crime_name_uc.indexOf("HOMICIDE") > -1 ) {
+                iconPath   =   "<?php echo base_url(); ?>public/img/homicide.png";
+            } else if ( crime_name_uc.indexOf("MURDER") > -1 ) {
+                iconPath   =   "<?php echo base_url(); ?>public/img/murder.png";
+            } else if ( crime_name_uc.indexOf("PHYSICAL INJURIES") > -1 ) {
+                iconPath   =   "<?php echo base_url(); ?>public/img/physicalinjury.png";
+            } else if ( crime_name_uc.indexOf("RAPE") > -1 ) {
+                iconPath   =   "<?php echo base_url(); ?>public/img/rape.png";
+            } else if ( crime_name_uc.indexOf("ROBBERY") > -1 ) {
+                iconPath   =   "<?php echo base_url(); ?>public/img/robbery.png";
+            } else if ( crime_name_uc.indexOf("THEFT") > -1 ) {
+                iconPath   =   "<?php echo base_url(); ?>public/img/theft.png";
+            } else if ( crime_name_uc.indexOf("Vehicular Traffic Accident") > -1 ) {
+                iconPath   =   "<?php echo base_url(); ?>public/img/vta.png";
+            }
+
             var nMarker     =   new google.maps.Marker({
                 position: new google.maps.LatLng(crime_object.lat, crime_object.lng),
-                label:   "1",
+                icon:   iconPath,
                 data_custom: crime_object
             });
             marker.push(nMarker);
 
                 var content     =   'CRIME: '   +   crime_object.crime   +   '</br>';
-                // content         +=  'CRIME TYPE: '  +   crime_object.crimetype   +   '</br>';
                 content         +=  'DATE: ' +   crime_object.customdate   +   '</br>';
                 content         +=  'TIME: ' +   crime_object.customtime   +   '</br>';
                 content         +=  'LATITUDE, LONGITUDE: '    +   crime_object.lat + ", " + crime_object.lng +  '</br>';
                 content         +=  'LOCATION: '    +   crime_object.location   +   '</br>';
                 content         +=  'MODUS: '   +   crime_object.modus   +   '</br>';
-                // content         +=  'TIME: '    +   crime_object.time   +   '</br>';
 
                 google.maps.event.addListener(nMarker,'mouseover', (function(marker,content,infowindow){
                     CloseAllInfoWindows();
@@ -404,8 +426,6 @@
                     map: map,
                     zoom: 13
                 });
-
-                console.log(ctaLayer);
             } else if ( select_city == 'Kalookan City' ) {
                 var ctaLayer = new google.maps.KmlLayer({
                     url: 'https://teko.ph/public/css/Caloocan.kml',
@@ -422,46 +442,15 @@
         }
 
         markers.push(marker);
-        console.clear();
-        for ( var x = 0; x < marker.length; x++ ) {
-            console.log((x+1) + " " + marker[x].data_custom.lat + ", " + marker[x].data_custom.lng);
-        }
-
-        var imagepath_url   =   "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m";
-
-        if ( select_crime == "CARNAPPING" ) { 
-            // imagepath_url   =   "";
-        } else if ( select_crime == "DRUG RELATED INCIDENT (RA 9165)" ) {
-            // imagepath_url   =   "";
-        } else if ( select_crime == "HOMICIDE" ) {
-            // imagepath_url   =   "";
-        } else if ( select_crime == "MURDER" ) {
-            // imagepath_url   =   "";
-        } else if ( select_crime == "PHYSICAL INJURIES" ) {
-            // imagepath_url   =   "";
-        } else if ( select_crime == "RAPE (Art. 266-A RC & R.A.8353)" ) {
-            // imagepath_url   =   "";
-        } else if ( select_crime == "ROBBERY" ) {
-            // imagepath_url   =   "";
-        } else if ( select_crime == "THEFT" ) {
-            imagepath_url   =   "<?php echo base_url(); ?>public/img/theft";
-        } else if ( select_crime == "Vehicular Traffic Accident" ) {
-            // imagepath_url   =   "";
-        }
-
-
-
-
-
-
-
-
-
+        // console.clear();
+        // for ( var x = 0; x < marker.length; x++ ) {
+        //     console.log((x+1) + " " + marker[x].data_custom.lat + ", " + marker[x].data_custom.lng);
+        // }
 
         mcOptions = {
             gridSize: 30,
             maxZoom: 13,
-            imagePath: imagepath_url,
+            imagePath: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
             zoomOnClick: true,
             // ignoreHiddenMarkers: true,
             averageCenter: true,ignoreHidden: true 
@@ -469,9 +458,11 @@
         markerCluster = new MarkerClusterer(map, marker, mcOptions);
 
 
-
         google.maps.event.addListener(markerCluster, "mouseover", function (cluster) {
             if ( cluster.getSize() >= 4 ) {
+
+                console.log('CLUSTER CENTER: ' + cluster.getCenter().lat() + ', ' + cluster.getCenter().lng());
+
                 var content     =   '';
                 var info = new google.maps.MVCObject;
                 info.set('position', cluster.center_);
@@ -512,8 +503,10 @@
 
         google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
 
+            console.log('CLUSTER CENTER: ' + cluster.getCenter().lat() + ', ' + cluster.getCenter().lng());
+
             $('#btn-back-map').show();
-            console.clear();
+            // console.clear();
             let clusterMarker   =   cluster.getMarkers();
 
             for ( var x = 0; x < clusterMarker.length; x++ ) {
@@ -521,8 +514,6 @@
             }
 
             map = new google.maps.Map(document.getElementById('map'), {
-                // maxZoom:13,
-                // minZoom:13,
                 zoom: 16,
                 disableDefaultUI: true,
                 scrollwheel: true,
@@ -535,20 +526,42 @@
             CloseAllInfoWindows();
 
             $.each(clusterMarker, function(key, data) {
+
+                var iconPath        =   "";
+                var crime_name_uc   =   data.data_custom.crime.toUpperCase();
+
+                if ( crime_name_uc.indexOf("CARNAPPING") > -1 ) { 
+                    iconPath   =   "<?php echo base_url(); ?>public/img/carnapping.png";
+                } else if ( crime_name_uc.indexOf("DRUG RELATED INCIDENT (RA 9165)") > -1 ) {
+                    iconPath   =   "<?php echo base_url(); ?>public/img/theft.png";
+                } else if ( crime_name_uc.indexOf("HOMICIDE") > -1 ) {
+                    iconPath   =   "<?php echo base_url(); ?>public/img/homicide.png";
+                } else if ( crime_name_uc.indexOf("MURDER") > -1 ) {
+                    iconPath   =   "<?php echo base_url(); ?>public/img/murder.png";
+                } else if ( crime_name_uc.indexOf("PHYSICAL INJURIES") > -1 ) {
+                    iconPath   =   "<?php echo base_url(); ?>public/img/physicalinjury.png";
+                } else if ( crime_name_uc.indexOf("RAPE") > -1 ) {
+                    iconPath   =   "<?php echo base_url(); ?>public/img/rape.png";
+                } else if ( crime_name_uc.indexOf("ROBBERY") > -1 ) {
+                    iconPath   =   "<?php echo base_url(); ?>public/img/robbery.png";
+                } else if ( crime_name_uc.indexOf("THEFT") > -1 ) {
+                    iconPath   =   "<?php echo base_url(); ?>public/img/theft.png";
+                } else if ( crime_name_uc.indexOf("Vehicular Traffic Accident") > -1 ) {
+                    iconPath   =   "<?php echo base_url(); ?>public/img/vta.png";
+                }
+
                 var nMarker     =    new google.maps.Marker({
                     position: new google.maps.LatLng(data.position.lat(), data.position.lng()),
-                    label:   "1",
+                    icon: iconPath,
                     map: map
                 });
 
                 var content     =   'CRIME: '   +   data.data_custom.crime   +   '</br>';
-                // content         +=  'CRIME TYPE: '  +   data.data_custom.crimetype   +   '</br>';
                 content         +=  'DATE: ' +   data.data_custom.customdate   +   '</br>';
                 content         +=  'TIME: ' +   data.data_custom.customtime   +   '</br>';
                 content         +=  'LATITUDE, LONGITUDE: '    +   data.data_custom.lat + ", " + data.data_custom.lng +  '</br>';
                 content         +=  'LOCATION: '    +   data.data_custom.location   +   '</br>';
                 content         +=  'MODUS: '   +   data.data_custom.modus   +   '</br>';
-                // content         +=  'TIME: '    +   data.data_custom.time   +   '</br>';
 
                 google.maps.event.addListener(nMarker,'mouseover', (function(marker,content,infowindow){
                     return function() {
@@ -563,10 +576,7 @@
         // ShowHeatMap();
     }
 
-
-
     var toggleStatusHeatmap =  "off";
-
     $(document).on('click', '#modal_heatmap_link', function(){
 
         if ( toggleStatusHeatmap == "off" ) {
@@ -574,12 +584,14 @@
                 marker[x].setVisible(false);
             }
             ShowHeatMap();
+            $('#modal_heatmap_link').text("Hide Heatmap");
             toggleStatusHeatmap =  "on";
         } else { 
             for ( var x = 0; x < marker.length; x++ ) {
                 marker[x].setVisible(true);
             }
             toggleStatusHeatmap =  "off";
+            $('#modal_heatmap_link').text("Show Heatmap");
             heatmap.setMap(heatmap.getMap() ? null : map);
         }
 
@@ -594,6 +606,8 @@
         heatmap = new google.maps.visualization.HeatmapLayer({
             data: markerLatLong,
             map: map,
+            dissipating:true,
+            maxIntensity:10,
             zoom: 13
         });
 
@@ -606,7 +620,20 @@
         LoadingOverlay('show');
         LoadAllPoliceStation();
         FilterCrimeAll();
-        setInterval(function() { LoadingOverlay('hide'); }, 1500);
+        setTimeout(function() { 
+            LoadingOverlay('hide'); 
+
+            var mc_cluster_len      =   [];
+            var mc_cluster_object   =   markerCluster.clusters_;
+
+            $.each(mc_cluster_object, function(key, data) {
+                if ( data.markers_.length >= 2 ) {
+                    mc_cluster_len.push(data);
+                } 
+            });
+            
+            console.log("ALL CLUSTER >= 2: " + mc_cluster_len.length);
+        }, 1500);
     });
 
 </script>
