@@ -4,6 +4,8 @@
 
 <title>CAMANAVA Area</title>
 
+<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>public/img/carnapping.png" />
+
 <link rel="stylesheet" href="<?php echo base_url();?>public/css/bootstrap.min.css"/>
 <link rel="stylesheet" href="<?php echo base_url();?>public/css/paddingmargin.css"/>
 <link rel="stylesheet" href="<?php echo base_url();?>public/css/styles.css"/>

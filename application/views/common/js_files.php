@@ -3,7 +3,7 @@
 <script src="<?php echo base_url();?>public/js/tether.min.js"></script>
 <script src="<?php echo base_url();?>public/js/bootstrap.min.js"></script>
 <script src="<?php echo base_url();?>public/js/clusters/markerclusterplus.js"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkKxF3e7vBDbxac115uVrQvHH2-2hmWnE&libraries=visualization&callback=initMap"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkKxF3e7vBDbxac115uVrQvHH2-2hmWnE&libraries=visualization,geometry&callback=initMap"></script>
 
 <script>
 	$(document).ready(function(){
@@ -72,9 +72,9 @@
     let infoWindows     =   [];
     let infoWindows2    =   [];
     let infoWindows3    =   [];
-
-    let map, markerCluster, labels, mcOptions, globalObject, geocoder, address_from_latlng, heatmap, map_modal_heatmap;
     let markerLatLong   =   [];
+
+    let map, markerCluster, labels, mcOptions, globalObject, geocoder, address_from_latlng, heatmap, map_modal_heatmap, styledMapType;
 
 	function initMap() {
         $.ajax({
@@ -107,7 +107,233 @@
                     mapTypeControl: false,
                     scaleControl: false,
                     center: {lat: 14.6756139, lng: 120.9953632},
+                    mapTypeControlOptions: {
+                        mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
+                                'styled_map']
+                    }
                 });
+
+                styledMapType = new google.maps.StyledMapType(
+                    [
+                      {
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#ebe3cd"
+                          }
+                        ]
+                      },
+                      {
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                          {
+                            "color": "#523735"
+                          }
+                        ]
+                      },
+                      {
+                        "elementType": "labels.text.stroke",
+                        "stylers": [
+                          {
+                            "color": "#f5f1e6"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "administrative",
+                        "elementType": "geometry.stroke",
+                        "stylers": [
+                          {
+                            "color": "#c9b2a6"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "administrative.land_parcel",
+                        "elementType": "geometry.stroke",
+                        "stylers": [
+                          {
+                            "color": "#dcd2be"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "administrative.land_parcel",
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                          {
+                            "color": "#ae9e90"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "landscape.natural",
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#dfd2ae"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "poi",
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#dfd2ae"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "poi",
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                          {
+                            "color": "#93817c"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "poi.park",
+                        "elementType": "geometry.fill",
+                        "stylers": [
+                          {
+                            "color": "#a5b076"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "poi.park",
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                          {
+                            "color": "#447530"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "road",
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#f5f1e6"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "road.arterial",
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#fdfcf8"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "road.highway",
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#f8c967"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "road.highway",
+                        "elementType": "geometry.stroke",
+                        "stylers": [
+                          {
+                            "color": "#e9bc62"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "road.highway.controlled_access",
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#e98d58"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "road.highway.controlled_access",
+                        "elementType": "geometry.stroke",
+                        "stylers": [
+                          {
+                            "color": "#db8555"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "road.local",
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                          {
+                            "color": "#806b63"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "transit.line",
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#dfd2ae"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "transit.line",
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                          {
+                            "color": "#8f7d77"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "transit.line",
+                        "elementType": "labels.text.stroke",
+                        "stylers": [
+                          {
+                            "color": "#ebe3cd"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "transit.station",
+                        "elementType": "geometry",
+                        "stylers": [
+                          {
+                            "color": "#dfd2ae"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "water",
+                        "elementType": "geometry.fill",
+                        "stylers": [
+                          {
+                            "color": "#b9d3c2"
+                          }
+                        ]
+                      },
+                      {
+                        "featureType": "water",
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                          {
+                            "color": "#92998d"
+                          }
+                        ]
+                      }
+                    ],
+                    {name: 'Styled Map'}
+                );
+
+                map.mapTypes.set('styled_map', styledMapType);
+                map.setMapTypeId('styled_map');
 
                 var opt = { maxZoom: 13 };
                 map.setOptions(opt);
@@ -195,6 +421,47 @@
         setMapOnAll(null);
     }
 
+    let MonthSelector = function(monthaCc) {
+        switch (monthaCc) {
+            case "Jan":
+                return "January";
+                break;
+            case "Feb":
+                return "February";
+                break;
+            case "Mar":
+                return "March";
+                break;
+            case "Apr":
+                return "April";
+                break;
+            case "May":
+                return "May";
+                break;
+            case "Jun":
+                return "June";
+                break;
+            case "Jul":
+                return "July";
+                break;
+            case "Aug":
+                return "August";
+                break;
+            case "Sep":
+                return "September";
+                break;
+            case "Oct":
+                return "October";
+                break;
+            case "Nov":
+                return "November";
+                break;
+            case "Dec":
+                return "December";
+                break;
+        }
+    }
+
     //  FUNCTION FOR FILTERING CRIME CITY
     let FilterCrimeCityLocation = function(objectValues, select_city) {
         select_city     =   select_city.toLowerCase();
@@ -275,14 +542,6 @@
         }
     }
 
-    // function getPoints() {
-    //     return [
-    //       new google.maps.LatLng(14.6859, 121.02499999999998),
-    //       new google.maps.LatLng(14.6861, 121.02600000000007),
-    //       new google.maps.LatLng(14.6857, 121.02600000000007)
-    //     ];
-    // }
-
     //  FUNCTION FOR FILTERING ALL THE POSSIBLE SCENARIO
     let FilterCrimeAll  =   function(){
         $('#btn-back-map').hide();
@@ -298,7 +557,14 @@
             mapTypeControl: false,
             scaleControl: false,
             center: {lat: 14.6756139, lng: 120.9953632},
+            mapTypeControlOptions: {
+                mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
+                        'styled_map']
+            }
         });
+
+        map.mapTypes.set('styled_map', styledMapType);
+        map.setMapTypeId('styled_map');
 
         var opt = { maxZoom: 13 };
         map.setOptions(opt);
@@ -363,7 +629,7 @@
             if ( crime_name_uc.indexOf("CARNAPPING") > -1 ) { 
                 iconPath   =   "<?php echo base_url(); ?>public/img/carnapping.png";
             } else if ( crime_name_uc.indexOf("DRUG RELATED INCIDENT (RA 9165)") > -1 ) {
-                iconPath   =   "<?php echo base_url(); ?>public/img/theft.png";
+                iconPath   =   "<?php echo base_url(); ?>public/img/drug.png";
             } else if ( crime_name_uc.indexOf("HOMICIDE") > -1 ) {
                 iconPath   =   "<?php echo base_url(); ?>public/img/homicide.png";
             } else if ( crime_name_uc.indexOf("MURDER") > -1 ) {
@@ -376,7 +642,7 @@
                 iconPath   =   "<?php echo base_url(); ?>public/img/robbery.png";
             } else if ( crime_name_uc.indexOf("THEFT") > -1 ) {
                 iconPath   =   "<?php echo base_url(); ?>public/img/theft.png";
-            } else if ( crime_name_uc.indexOf("Vehicular Traffic Accident") > -1 ) {
+            } else if ( crime_name_uc.indexOf("VEHICULAR TRAFFIC ACCIDENT") > -1 ) {
                 iconPath   =   "<?php echo base_url(); ?>public/img/vta.png";
             }
 
@@ -452,14 +718,14 @@
             maxZoom: 13,
             imagePath: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
             zoomOnClick: true,
-            // ignoreHiddenMarkers: true,
-            averageCenter: true,ignoreHidden: true 
+            averageCenter: true,
+            ignoreHidden: true 
         };
         markerCluster = new MarkerClusterer(map, marker, mcOptions);
 
 
         google.maps.event.addListener(markerCluster, "mouseover", function (cluster) {
-            if ( cluster.getSize() >= 4 ) {
+            if ( cluster.getSize() >= 2 ) {
 
                 console.log('CLUSTER CENTER: ' + cluster.getCenter().lat() + ', ' + cluster.getCenter().lng());
 
@@ -481,6 +747,8 @@
                     }
                 });
 
+                var fullmonth   =   MonthSelector(select_month);
+
                 content     +=  '<div style="width:100%;padding:10px;font-size:16px;color:white;font-weight:bold;background-color:#4695F0;">RECOMMENDATION</div>';
                 content     +=  '<div style="text-align:center;font-size:16px;">';
                 content     +=  '   <div style="padding-top:20px;">' +  ( cluster.getSize() >= 11 && cluster.getSize() <= 17 ? "<span style='color:orange'>HIGH </span>" : ( cluster.getSize() <= 10 ? "" : "<span style='color:red'>VERY HIGH </span>" ) )  + select_crime + ' PRONE AREA </div>';
@@ -491,7 +759,7 @@
                                     }
                                     
                                     if ( select_month != 'All' ) {
-                content     +=  '       OF THE MONTH OF ' + select_month.toUpperCase();
+                content     +=  '       OF THE MONTH OF ' + fullmonth.toUpperCase();
                                     }
                 content     +=  '</div>';
 
@@ -501,17 +769,18 @@
             }
         });
 
+        var markerPath  =   [];
+
         google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
 
-            console.log('CLUSTER CENTER: ' + cluster.getCenter().lat() + ', ' + cluster.getCenter().lng());
-
+            // console.log('CLUSTER CENTER: ' + cluster.getCenter().lat() + ', ' + cluster.getCenter().lng());
             $('#btn-back-map').show();
-            // console.clear();
+            $('#modal_heatmap_link').hide();
             let clusterMarker   =   cluster.getMarkers();
 
-            for ( var x = 0; x < clusterMarker.length; x++ ) {
-                console.log( (x+1) + ". " + clusterMarker[x].data_custom.crime + " " + clusterMarker[x].data_custom.lat + " - " + clusterMarker[x].data_custom.lng + " " + clusterMarker[x].data_custom.customdate + " " + clusterMarker[x].data_custom.customtime + " " + clusterMarker[x].data_custom.modus);
-            }
+            // for ( var x = 0; x < clusterMarker.length; x++ ) {
+            //     console.log( (x+1) + ". " + clusterMarker[x].data_custom.crime + " " + clusterMarker[x].data_custom.lat + " - " + clusterMarker[x].data_custom.lng + " " + clusterMarker[x].data_custom.customdate + " " + clusterMarker[x].data_custom.customtime + " " + clusterMarker[x].data_custom.modus);
+            // }
 
             map = new google.maps.Map(document.getElementById('map'), {
                 zoom: 16,
@@ -520,11 +789,24 @@
                 navigationControl: false,
                 mapTypeControl: false,
                 scaleControl: false,
-                center: {lat: cluster.getCenter().lat(), lng: cluster.getCenter().lng()}
+                center: {lat: cluster.getCenter().lat(), lng: cluster.getCenter().lng()},
+                mapTypeControlOptions: {
+                    mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
+                            'styled_map']
+                }
             });
+
+
+            map.mapTypes.set('styled_map', styledMapType);
+            map.setMapTypeId('styled_map');
+
+            
 
             CloseAllInfoWindows();
 
+            var currentDistance =   0;
+
+            $('#result-body').html(clusterMarker.length + ' incidents');
             $.each(clusterMarker, function(key, data) {
 
                 var iconPath        =   "";
@@ -533,7 +815,7 @@
                 if ( crime_name_uc.indexOf("CARNAPPING") > -1 ) { 
                     iconPath   =   "<?php echo base_url(); ?>public/img/carnapping.png";
                 } else if ( crime_name_uc.indexOf("DRUG RELATED INCIDENT (RA 9165)") > -1 ) {
-                    iconPath   =   "<?php echo base_url(); ?>public/img/theft.png";
+                    iconPath   =   "<?php echo base_url(); ?>public/img/drug.png";
                 } else if ( crime_name_uc.indexOf("HOMICIDE") > -1 ) {
                     iconPath   =   "<?php echo base_url(); ?>public/img/homicide.png";
                 } else if ( crime_name_uc.indexOf("MURDER") > -1 ) {
@@ -546,7 +828,7 @@
                     iconPath   =   "<?php echo base_url(); ?>public/img/robbery.png";
                 } else if ( crime_name_uc.indexOf("THEFT") > -1 ) {
                     iconPath   =   "<?php echo base_url(); ?>public/img/theft.png";
-                } else if ( crime_name_uc.indexOf("Vehicular Traffic Accident") > -1 ) {
+                } else if ( crime_name_uc.indexOf("VEHICULAR TRAFFIC ACCIDENT") > -1 ) {
                     iconPath   =   "<?php echo base_url(); ?>public/img/vta.png";
                 }
 
@@ -555,6 +837,7 @@
                     icon: iconPath,
                     map: map
                 });
+                markerPath.push(nMarker.getPosition());
 
                 var content     =   'CRIME: '   +   data.data_custom.crime   +   '</br>';
                 content         +=  'DATE: ' +   data.data_custom.customdate   +   '</br>';
@@ -570,7 +853,31 @@
                         infoWindows2.push(infowindow2);
                     };
                 })(nMarker,content,infowindow2));
+
+                var centerCluster   =   cluster.getMarkers()[0].position;
+                var markerPosition  =   nMarker.getPosition();
+                var distance        =   google.maps.geometry.spherical.computeDistanceBetween(centerCluster, markerPosition);
+
+                if ( currentDistance < distance ) {
+                    currentDistance = distance;
+                }
+
+                console.log((key+1) + " - " + distance);
             });
+
+            var kilometers  =   (currentDistance * 0.001);
+            console.log('Kilometer: ' + kilometers.toFixed(2) + " - " + currentDistance );
+            var cityCircle = new google.maps.Circle({
+                strokeColor: '#FF0000',
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillColor: '#FF0000',
+                fillOpacity: 0.35,
+                map: map,
+                center: cluster.getCenter(),
+                radius: currentDistance
+            });
+
         });
 
         // ShowHeatMap();
@@ -618,6 +925,9 @@
     //  USER ACTION CHANGE
     $(document).on('click', '#btn-filter, #btn-back-map', function(){
         LoadingOverlay('show');
+        toggleStatusHeatmap =  "off";
+        $('#modal_heatmap_link').show();
+        $('#modal_heatmap_link').text("Show Heatmap");
         LoadAllPoliceStation();
         FilterCrimeAll();
         setTimeout(function() { 
@@ -632,7 +942,7 @@
                 } 
             });
             
-            console.log("ALL CLUSTER >= 2: " + mc_cluster_len.length);
+            console.log("Number of clusters: " + mc_cluster_len.length);
         }, 1500);
     });
 

@@ -6137,17 +6137,6 @@
         "location": "Barangay 151, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Not Indicated"
     },
-        {
-        "lng": "120.964",
-        "lat": "14.6317",
-        "date": "2017-05-08",
-        "customdate": "Mon - May 8, 2017",
-        "time": "23:00:00",
-        "customtime": "11:00:PM",
-        "crime": "DRUG RELATED INCIDENT (RA 9165)",
-        "location": "Barangay 129, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Not Indicated"
-    },
     {
         "lng": "121.065",
         "lat": "14.7571",
@@ -15804,17 +15793,6 @@
         "customtime": "7:20:PM",
         "crime": "DRUG RELATED INCIDENT (RA 9165)",
         "location": "Tugatog, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Not Indicated"
-    },
-    {
-        "lng": "120.955",
-        "lat": "14.7021",
-        "date": "2017-09-08",
-        "customdate": "Fri - Sep 8, 2017",
-        "time": "20:00:00",
-        "customtime": "8:00:PM",
-        "crime": "DRUG RELATED INCIDENT (RA 9165)",
-        "location": "Bayan-Bayanan, Malabon City, Ncr District 3 (Northern), NCR",
         "modus": "Not Indicated"
     },
     {

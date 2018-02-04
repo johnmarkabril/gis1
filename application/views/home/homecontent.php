@@ -93,26 +93,15 @@
             </div>
 			
 			<div class="padding-top-small">
-				<a id="modal_heatmap_link">
-                    <span class="txt">Show Heatmap</span>
-                </a>
+                <button type="button" id="modal_heatmap_link" class="btn btn-default-2">Show Heatmap</button>
 			</div>
 
             <div class="padding-top-small">
-                <form action="<?php echo base_url(); ?>template/upload_json_file" method="post" enctype="multipart/form-data">
-                    Select JSON file:
-                    <input type="file" class="form-control" name="fileToUpload" id="fileToUpload">
-                    <input type="submit" value="Upload" name="submit">
-                </form>
-
+                <button type="button" class="btn btn-default-2" data-toggle="modal" data-target="#modal_upload_json">Upload File</button>
             </div>
 
             <div class="result w-100">
-                <!-- <div class="recommendation-box"> -->
-                <!---<div class="result-title">Recommendation</div> -->
-
-                    <div id="result-body" class="text-center"></div>
-                <!-- </div> -->
+                <div id="result-body" class="text-center"></div>
             </div>
         </div>
 
@@ -122,12 +111,18 @@
 
 
 
-<!-- <div class="modal fade" id="modal_heatmap" tabindex="-1" role="dialog" aria-labelledby="modal_heatmap">
-    <div class="modal-dialog modal-lg" role="document">
+<div class="modal fade" id="modal_upload_json" tabindex="-1" role="dialog" aria-labelledby="modal_upload_json">
+    <div class="modal-dialog" role="document">
         <div class="modal-content">
+            <div class="modal-header align-center">
+                <div class="w-100 align-center">Upload JSON File</div>
+            </div>
             <div class="modal-body">
-                <div class="map map-modal" id="map_heatmap"></div>
+                <form action="<?php echo base_url(); ?>template/upload_json_file" method="post" enctype="multipart/form-data">
+                    <input type="file" class="" name="fileToUpload" id="fileToUpload">
+                    <input type="submit" class="btn btn-default margin-top-large" value="Upload" name="submit">
+                </form>
             </div>
         </div>
     </div>
-</div> -->
+</div>

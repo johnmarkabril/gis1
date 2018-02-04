@@ -54,6 +54,14 @@ h1,h2,h3,h4,h5,h6 {
     text-align: center;
 }
 
+.btn-default-2 {
+    border: 1px solid #e98d58;
+    background-color: #e98d58 !important;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-align: center;
+}
+
 .align-center {
     text-align: center !important;
 }
