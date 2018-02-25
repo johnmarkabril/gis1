@@ -11,6 +11,50 @@
         "modus": "Bukas -Kotse"
     },
     {
+        "lng": "120.961",
+        "lat": "14.6611",
+        "date": "2017-11-05",
+        "customdate": "Sun - Nov 5, 2017",
+        "time": "17:00:00",
+        "customtime": "5:00:PM",
+        "crime": "THEFT",
+        "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
+        "modus": "Plain Theft"
+    },
+    {
+        "lng": "120.958",
+        "lat": "14.7082",
+        "date": "2017-07-07",
+        "customdate": "Fri - Jul 7, 2017",
+        "time": "23:30:00",
+        "customtime": "11:30:PM",
+        "crime": "THEFT",
+        "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
+        "modus": "Akyat Bahay"
+    },  
+    {
+        "lng": "121.03",
+        "lat": "14.7398",
+        "date": "2017-05-01",
+        "customdate": "Mon - May 1, 2017",
+        "time": "04:00:00",
+        "customtime": "4:00:AM",
+        "crime": "THEFT",
+        "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
+        "modus": "Akyat Bahay"
+    },
+    {
+        "lng": "121.005",
+        "lat": "14.7103",
+        "date": "2017-11-04",
+        "customdate": "Sat - Nov 4, 2017",
+        "time": "22:40:00",
+        "customtime": "10:40:PM",
+        "crime": "THEFT",
+        "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
+        "modus": "Salisi (Akyat Bahay)"
+    },  
+    {
         "lng": "120.968",
         "lat": "14.6633",
         "date": "2016-12-30",
@@ -2697,8 +2741,8 @@
         "modus": "Salisi"
     },
     {
-        "lng": "120.96",
-        "lat": "14.5628",
+        "lng": "120.968",
+        "lat": "14.6995",
         "date": "2017-05-06",
         "customdate": "Sat - May 6, 2017",
         "time": "17:00:00",
@@ -3533,17 +3577,6 @@
         "modus": "Salisi"
     },
     {
-        "lng": "120.997",
-        "lat": "14.7457",
-        "date": "2017-06-16",
-        "customdate": "Fri - Jun 16, 2017",
-        "time": "07:00:00",
-        "customtime": "7:00:AM",
-        "crime": "THEFT",
-        "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Salisi"
-    },
-    {
         "lng": "120.968",
         "lat": "14.6497",
         "date": "2017-06-16",
@@ -3918,17 +3951,6 @@
         "modus": "Qualified Theft"
     },
     {
-        "lng": "120.98",
-        "lat": "14.6756",
-        "date": "2017-07-01",
-        "customdate": "Sat - Jul 1, 2017",
-        "time": "02:00:00",
-        "customtime": "2:00:AM",
-        "crime": "THEFT",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Qualified Theft"
-    },
-    {
         "lng": "120.982",
         "lat": "14.6517",
         "date": "2017-07-01",
@@ -4048,17 +4070,6 @@
         "crime": "THEFT",
         "location": "Pariancillo Villa, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Akyat Bahay"
-    },
-    {
-        "lng": "120.956",
-        "lat": "14.7022",
-        "date": "2017-07-08",
-        "customdate": "Sat - Jul 8, 2017",
-        "time": "23:45:00",
-        "customtime": "11:45:PM",
-        "crime": "THEFT",
-        "location": "Pariancillo Villa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Salisi (Akyat Bahay)"
     },
     {
         "lng": "120.99",
@@ -4796,17 +4807,6 @@
         "crime": "THEFT",
         "location": "Barangay 1, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Salisi"
-    },
-    {
-        "lng": "120.995",
-        "lat": "14.6861",
-        "date": "2017-08-07",
-        "customdate": "Mon - Aug 7, 2017",
-        "time": "08:00:00",
-        "customtime": "8:00:AM",
-        "crime": "THEFT",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Ftr (Failed to Return)"
     },
     {
         "lng": "120.995",
@@ -6239,17 +6239,6 @@
         "modus": "Breaking and Entering"
     },
     {
-        "lng": "120.977",
-        "lat": "14.6849",
-        "date": "2017-10-27",
-        "customdate": "Fri - Oct 27, 2017",
-        "time": "07:42:00",
-        "customtime": "7:42:AM",
-        "crime": "THEFT",
-        "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Qualified Theft"
-    },
-    {
         "lng": "120.958",
         "lat": "14.6492",
         "date": "2017-10-27",
@@ -6402,17 +6391,6 @@
         "crime": "THEFT",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Salisi (Akyat Bahay)"
-    },
-    {
-        "lng": "121.005",
-        "lat": "14.7103",
-        "date": "2017-11-04",
-        "customdate": "Sat - Nov 4, 2017",
-        "time": "22:40:00",
-        "customtime": "10:40:PM",
-        "crime": "THEFT",
-        "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Force, Threat and Intimidation"
     },
     {
         "lng": "120.961",
@@ -6885,17 +6863,6 @@
         "customtime": "2:00:AM",
         "crime": "THEFT",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Swpu (Stolen While Parked)"
-    },
-    {
-        "lng": "121.003",
-        "lat": "14.6924",
-        "date": "2017-11-30",
-        "customdate": "Thu - Nov 30, 2017",
-        "time": "02:00:00",
-        "customtime": "2:00:AM",
-        "crime": "THEFT",
-        "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Salisi (Others)"
     },
     {
@@ -7051,17 +7018,6 @@
         "crime": "THEFT",
         "location": "Tañong (Pob.), Malabon City, Ncr District 3 (Northern), NCR",
         "modus": "Parts and Accessories of Motor Vehicle"
-    },
-    {
-        "lng": "120.973",
-        "lat": "14.7144",
-        "date": "2017-12-12",
-        "customdate": "Tue - Dec 12, 2017",
-        "time": "11:00:00",
-        "customtime": "11:00:AM",
-        "crime": "THEFT",
-        "location": "Lingunan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Salisi"
     },
     {
         "lng": "120.973",

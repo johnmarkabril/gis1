@@ -70,7 +70,7 @@
             <div class="padding-top-small">
             <label>DAY:</label>            
                 <select class="form-control" id="select-day">
-                    <option value="">ALL</option>
+                    <option value="All">ALL</option>
                     <option value="Mon">Monday</option>
                     <option value="Tue">Tuesday</option>
                     <option value="Wed">Wednesday</option>
@@ -90,6 +90,10 @@
 
             <div class="padding-top-normal">
                 <input type="button" id="btn-filter" class="btn btn-default" value="Search" />
+            </div>
+            
+            <div class="padding-top-small">
+                <button type="button" id="btn_report" class="btn btn-default-2">Report</button>
             </div>
 			
 			<div class="padding-top-small">
@@ -122,6 +126,21 @@
                     <input type="file" class="" name="fileToUpload" id="fileToUpload">
                     <input type="submit" class="btn btn-default margin-top-large" value="Upload" name="submit">
                 </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="report_modal" tabindex="-1" role="dialog" aria-labelledby="report_modal">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header align-center">
+                <div class="w-100 align-center">REPORT</div>
+            </div>
+            <div class="modal-body">
+                <button class="btn btn-default margin-bottom-normal" id="btn_print">Print This</button>
+                <div id="report_body">
+                </div>
             </div>
         </div>
     </div>

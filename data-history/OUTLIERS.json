@@ -11,6 +11,61 @@
         "modus": "Not Indicated"
     },
         {
+        "lng": "121.774",
+        "lat": "12.8797",
+        "date": "2017-08-03",
+        "customdate": "Thu - Aug 3, 2017",
+        "time": "01:45:00",
+        "customtime": "1:45:AM",
+        "crime": "PHYSICAL INJURIES",
+        "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
+        "modus": "Mauling"
+    },
+        {
+        "lng": "121.774",
+        "lat": "12.8797",
+        "date": "2017-07-31",
+        "customdate": "Mon - Jul 31, 2017",
+        "time": "08:00:00",
+        "customtime": "8:00:AM",
+        "crime": "PHYSICAL INJURIES",
+        "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
+        "modus": "Mauling"
+    },
+        {
+        "lng": "121.734",
+        "lat": "12.9173",
+        "date": "2017-01-05",
+        "customdate": "Thu - Jan 5, 2017",
+        "time": "21:00:00",
+        "customtime": "9:00:PM",
+        "crime": "PHYSICAL INJURIES",
+        "location": "Catmon, Malabon City, Ncr District 3 (Northern), NCR",
+        "modus": "Mauling"
+    },
+        {
+        "lng": "121.774",
+        "lat": "14.6882",
+        "date": "2017-12-13",
+        "customdate": "Wed - Dec 13, 2017",
+        "time": "01:00:00",
+        "customtime": "1:00:AM",
+        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
+        "location": "Dampalit, Malabon City, Ncr District 3 (Northern), NCR",
+        "modus": "Force, Threat and Intimidation"
+    }, 
+        {
+        "lng": "96.8131",
+        "lat": "51.933",
+        "date": "2017-07-01",
+        "customdate": "Sat - Jul 1, 2017",
+        "time": "03:05:00",
+        "customtime": "3:05:AM",
+        "crime": "ROBBERY",
+        "location": "Tinajeros, Malabon City, Ncr District 3 (Northern), NCR",
+        "modus": "Hold-Up W/ Gun"
+    },
+        {
         "lng": "120.972",
         "lat": "14.6032",
         "date": "2017-08-03",

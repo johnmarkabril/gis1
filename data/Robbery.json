@@ -495,17 +495,6 @@
         "modus": "Agaw-Armas"
     },
     {
-        "lng": "120.995",
-        "lat": "14.6865",
-        "date": "2017-02-17",
-        "customdate": "Fri - Feb 17, 2017",
-        "time": "20:45:00",
-        "customtime": "8:45:PM",
-        "crime": "ROBBERY",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
-    },
-    {
         "lng": "121.056",
         "lat": "14.7456",
         "date": "2017-02-17",
@@ -605,17 +594,6 @@
         "modus": "Taxi Hold-Up W/ Gun"
     },
     {
-        "lng": "120.992",
-        "lat": "14.674",
-        "date": "2017-03-02",
-        "customdate": "Thu - Mar 2, 2017",
-        "time": "04:00:00",
-        "customtime": "4:00:AM",
-        "crime": "ROBBERY",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Forcibly Taken"
-    },
-    {
         "lng": "121.051",
         "lat": "14.7747",
         "date": "2017-03-03",
@@ -691,17 +669,6 @@
         "crime": "ROBBERY",
         "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Hold-Up W/ Gun"
-    },
-    {
-        "lng": "120.976",
-        "lat": "14.6985",
-        "date": "2017-03-12",
-        "customdate": "Sun - Mar 12, 2017",
-        "time": "04:00:00",
-        "customtime": "4:00:AM",
-        "crime": "ROBBERY",
-        "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Hacking"
     },
     {
         "lng": "120.99",
@@ -844,17 +811,6 @@
         "customtime": "1:30:AM",
         "crime": "ROBBERY",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "With Violence Against or Intimidation of Persons"
-    },
-    {
-        "lng": "121",
-        "lat": "14.6876",
-        "date": "2017-03-30",
-        "customdate": "Thu - Mar 30, 2017",
-        "time": "01:30:00",
-        "customtime": "1:30:AM",
-        "crime": "ROBBERY",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Mauling"
     },
     {
@@ -911,28 +867,6 @@
         "crime": "ROBBERY",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
         "modus": "Breaking and Entering"
-    },
-    {
-        "lng": "120.989",
-        "lat": "14.7282",
-        "date": "2017-04-04",
-        "customdate": "Tue - Apr 4, 2017",
-        "time": "23:45:00",
-        "customtime": "11:45:PM",
-        "crime": "ROBBERY",
-        "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "With Violence Against or Intimidation of Persons"
-    },
-    {
-        "lng": "120.989",
-        "lat": "14.7282",
-        "date": "2017-04-04",
-        "customdate": "Tue - Apr 4, 2017",
-        "time": "23:45:00",
-        "customtime": "11:45:PM",
-        "crime": "ROBBERY",
-        "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
     },
     {
         "lng": "120.99",
@@ -999,17 +933,6 @@
         "crime": "ROBBERY",
         "location": "Concepcion, Malabon City, Ncr District 3 (Northern), NCR",
         "modus": "Hold Up"
-    },
-    {
-        "lng": "120.95",
-        "lat": "14.6701",
-        "date": "2017-04-13",
-        "customdate": "Thu - Apr 13, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "ROBBERY",
-        "location": "Concepcion, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "121.032",
@@ -1174,28 +1097,6 @@
         "customtime": "1:00:AM",
         "crime": "ROBBERY",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Forcibly Taken"
-    },
-    {
-        "lng": "120.989",
-        "lat": "14.7003",
-        "date": "2017-04-21",
-        "customdate": "Fri - Apr 21, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "ROBBERY",
-        "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "120.989",
-        "lat": "14.7003",
-        "date": "2017-04-21",
-        "customdate": "Fri - Apr 21, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "ROBBERY",
-        "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Hold Up"
     },
     {
@@ -1241,17 +1142,6 @@
         "crime": "ROBBERY",
         "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Hold Up"
-    },
-    {
-        "lng": "120.968",
-        "lat": "14.645",
-        "date": "2017-04-25",
-        "customdate": "Tue - Apr 25, 2017",
-        "time": "20:00:00",
-        "customtime": "8:00:PM",
-        "crime": "ROBBERY",
-        "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.942",
@@ -1394,17 +1284,6 @@
         "customtime": "5:45:AM",
         "crime": "ROBBERY",
         "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "120.936",
-        "lat": "14.6731",
-        "date": "2017-05-08",
-        "customdate": "Mon - May 8, 2017",
-        "time": "05:45:00",
-        "customtime": "5:45:AM",
-        "crime": "ROBBERY",
-        "location": "Tangos, Navotas, Ncr District 3 (Northern), NCR",
         "modus": "Akyat Bahay"
     },
     {
@@ -1428,17 +1307,6 @@
         "crime": "ROBBERY",
         "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Bag/Purse Snatching"
-    },
-    {
-        "lng": "120.991",
-        "lat": "14.7448",
-        "date": "2017-05-11",
-        "customdate": "Thu - May 11, 2017",
-        "time": "01:40:00",
-        "customtime": "1:40:AM",
-        "crime": "ROBBERY",
-        "location": "Bignay, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
     },
     {
         "lng": "120.984",
@@ -1573,17 +1441,6 @@
         "modus": "Bag/Purse Snatching"
     },
     {
-        "lng": "120.994",
-        "lat": "14.7087",
-        "date": "2017-05-20",
-        "customdate": "Sat - May 20, 2017",
-        "time": "22:00:00",
-        "customtime": "10:00:PM",
-        "crime": "ROBBERY",
-        "location": "Paso De Blas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Hitting With Hard Object"
-    },
-    {
         "lng": "120.97",
         "lat": "14.6881",
         "date": "2017-05-21",
@@ -1648,28 +1505,6 @@
         "crime": "ROBBERY",
         "location": "Concepcion, Malabon City, Ncr District 3 (Northern), NCR",
         "modus": "Akyat Bahay"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "ROBBERY",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "With Violence Against or Intimidation of Persons"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "ROBBERY",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Clubbing"
     },
     {
         "lng": "120.983",
@@ -1947,17 +1782,6 @@
         "modus": "Hold Up"
     },
     {
-        "lng": "120.98",
-        "lat": "14.6975",
-        "date": "2017-06-20",
-        "customdate": "Tue - Jun 20, 2017",
-        "time": "00:00:00",
-        "customtime": "12:00:AM",
-        "crime": "ROBBERY",
-        "location": "Maysan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
-    },
-    {
         "lng": "120.971",
         "lat": "14.692",
         "date": "2017-06-21",
@@ -2000,17 +1824,6 @@
         "crime": "ROBBERY",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Hold-Up W/ Sharp Object"
-    },
-    {
-        "lng": "120.958",
-        "lat": "14.7158",
-        "date": "2017-06-25",
-        "customdate": "Sun - Jun 25, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "ROBBERY",
-        "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.932",
@@ -2134,17 +1947,6 @@
         "modus": "Hold-Up W/ Sharp Object"
     },
     {
-        "lng": "96.8131",
-        "lat": "51.933",
-        "date": "2017-07-01",
-        "customdate": "Sat - Jul 1, 2017",
-        "time": "03:05:00",
-        "customtime": "3:05:AM",
-        "crime": "ROBBERY",
-        "location": "Tinajeros, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Hold-Up W/ Gun"
-    },
-    {
         "lng": "120.981",
         "lat": "14.6765",
         "date": "2017-07-02",
@@ -2266,17 +2068,6 @@
         "modus": "Hold-Up W/ Gun"
     },
     {
-        "lng": "121.054",
-        "lat": "14.7567",
-        "date": "2017-07-07",
-        "customdate": "Fri - Jul 7, 2017",
-        "time": "03:13:00",
-        "customtime": "3:13:AM",
-        "crime": "ROBBERY",
-        "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "120.997",
         "lat": "14.7256",
         "date": "2017-07-07",
@@ -2297,17 +2088,6 @@
         "crime": "ROBBERY",
         "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Akyat Bahay"
-    },
-    {
-        "lng": "120.958",
-        "lat": "14.7082",
-        "date": "2017-07-07",
-        "customdate": "Fri - Jul 7, 2017",
-        "time": "23:30:00",
-        "customtime": "11:30:PM",
-        "crime": "ROBBERY",
-        "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Lewd and Lusty Desire"
     },
     {
         "lng": "121.007",
@@ -2343,17 +2123,6 @@
         "modus": "Akyat Bahay"
     },
     {
-        "lng": "120.956",
-        "lat": "14.7022",
-        "date": "2017-07-08",
-        "customdate": "Sat - Jul 8, 2017",
-        "time": "23:45:00",
-        "customtime": "11:45:PM",
-        "crime": "ROBBERY",
-        "location": "Pariancillo Villa, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Salisi (Akyat Bahay)"
-    },
-    {
         "lng": "120.974",
         "lat": "14.6903",
         "date": "2017-07-09",
@@ -2374,17 +2143,6 @@
         "crime": "ROBBERY",
         "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Hold-Up W/ Sharp Object"
-    },
-    {
-        "lng": "121.024",
-        "lat": "14.7411",
-        "date": "2017-07-09",
-        "customdate": "Sun - Jul 9, 2017",
-        "time": "23:00:00",
-        "customtime": "11:00:PM",
-        "crime": "ROBBERY",
-        "location": "Barangay 168, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.952",
@@ -2451,17 +2209,6 @@
         "crime": "ROBBERY",
         "location": "Viente Reales, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Breaking and Entering"
-    },
-    {
-        "lng": "120.966",
-        "lat": "14.72",
-        "date": "2017-07-13",
-        "customdate": "Thu - Jul 13, 2017",
-        "time": "00:30:00",
-        "customtime": "12:30:AM",
-        "crime": "ROBBERY",
-        "location": "Viente Reales, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Clubbing"
     },
     {
         "lng": "120.985",
@@ -2868,17 +2615,6 @@
         "customtime": "2:00:AM",
         "crime": "ROBBERY",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "120.956",
-        "lat": "14.7143",
-        "date": "2017-08-09",
-        "customdate": "Wed - Aug 9, 2017",
-        "time": "02:00:00",
-        "customtime": "2:00:AM",
-        "crime": "ROBBERY",
-        "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Breaking and Entering"
     },
     {
@@ -2946,17 +2682,6 @@
         "crime": "ROBBERY",
         "location": "Barangay 90, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Hold Up"
-    },
-    {
-        "lng": "120.994",
-        "lat": "14.7277",
-        "date": "2017-08-13",
-        "customdate": "Sun - Aug 13, 2017",
-        "time": "22:00:00",
-        "customtime": "10:00:PM",
-        "crime": "ROBBERY",
-        "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
     },
     {
         "lng": "120.994",
@@ -3245,17 +2970,6 @@
         "modus": "With Violence Against or Intimidation of Persons"
     },
     {
-        "lng": "120.969",
-        "lat": "14.6424",
-        "date": "2017-09-01",
-        "customdate": "Fri - Sep 1, 2017",
-        "time": "04:45:00",
-        "customtime": "4:45:AM",
-        "crime": "ROBBERY",
-        "location": "Barangay 28, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
-    },
-    {
         "lng": "120.971",
         "lat": "14.6576",
         "date": "2017-09-01",
@@ -3463,17 +3177,6 @@
         "crime": "ROBBERY",
         "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Akyat Bahay"
-    },
-    {
-        "lng": "120.995",
-        "lat": "14.6953",
-        "date": "2017-09-16",
-        "customdate": "Sat - Sep 16, 2017",
-        "time": "09:00:00",
-        "customtime": "9:00:AM",
-        "crime": "ROBBERY",
-        "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Salisi (Akyat Bahay)"
     },
     {
         "lng": "120.96",
@@ -3916,17 +3619,6 @@
         "modus": "Cellphone Snatching"
     },
     {
-        "lng": "120.994",
-        "lat": "14.7079",
-        "date": "2017-10-18",
-        "customdate": "Wed - Oct 18, 2017",
-        "time": "19:30:00",
-        "customtime": "7:30:PM",
-        "crime": "ROBBERY",
-        "location": "Paso De Blas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
-    },
-    {
         "lng": "120.996",
         "lat": "14.7461",
         "date": "2017-10-20",
@@ -3980,17 +3672,6 @@
         "crime": "ROBBERY",
         "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Extortion"
-    },
-    {
-        "lng": "120.977",
-        "lat": "14.6849",
-        "date": "2017-10-27",
-        "customdate": "Fri - Oct 27, 2017",
-        "time": "07:42:00",
-        "customtime": "7:42:AM",
-        "crime": "ROBBERY",
-        "location": "Karuhatan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Breaking and Entering"
     },
     {
         "lng": "120.977",
@@ -4057,17 +3738,6 @@
         "crime": "ROBBERY",
         "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
         "modus": "Hold Up"
-    },
-    {
-        "lng": "120.949",
-        "lat": "14.6524",
-        "date": "2017-10-28",
-        "customdate": "Sat - Oct 28, 2017",
-        "time": "01:30:00",
-        "customtime": "1:30:AM",
-        "crime": "ROBBERY",
-        "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.955",
@@ -4409,17 +4079,6 @@
         "crime": "ROBBERY",
         "location": "Barangay 183, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Hold-Up W/ Sharp Object"
-    },
-    {
-        "lng": "120.963",
-        "lat": "14.6913",
-        "date": "2017-11-23",
-        "customdate": "Thu - Nov 23, 2017",
-        "time": "22:43:00",
-        "customtime": "10:43:PM",
-        "crime": "ROBBERY",
-        "location": "Malinta, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
     },
     {
         "lng": "120.963",

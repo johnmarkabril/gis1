@@ -11,6 +11,61 @@
         "modus": "Swpu (Stolen While Parked)"
     },
     {
+        "lng": "120.959",
+        "lat": "14.6523",
+        "date": "2017-12-24",
+        "customdate": "Sun - Dec 24, 2017",
+        "time": "20:00:00",
+        "customtime": "8:00:PM",
+        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
+        "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
+        "modus": "Forcibly Taken"
+    },
+    {
+        "lng": "120.989",
+        "lat": "14.7003",
+        "date": "2017-04-21",
+        "customdate": "Fri - Apr 21, 2017",
+        "time": "01:00:00",
+        "customtime": "1:00:AM",
+        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
+        "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
+        "modus": "Forcibly Taken"
+    },
+    {
+        "lng": "120.949",
+        "lat": "14.6524",
+        "date": "2017-10-28",
+        "customdate": "Sat - Oct 28, 2017",
+        "time": "01:30:00",
+        "customtime": "1:30:AM",
+        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
+        "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
+        "modus": "Forcibly Taken"
+    },
+    {
+        "lng": "120.995",
+        "lat": "14.6861",
+        "date": "2017-08-07",
+        "customdate": "Mon - Aug 7, 2017",
+        "time": "08:00:00",
+        "customtime": "8:00:AM",
+        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
+        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
+        "modus": "Ftr (Failed to Return)"
+    },
+    {
+        "lng": "121.003",
+        "lat": "14.6924",
+        "date": "2017-11-30",
+        "customdate": "Thu - Nov 30, 2017",
+        "time": "02:00:00",
+        "customtime": "2:00:AM",
+        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
+        "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
+        "modus": "Swpu (Stolen While Parked)"
+    },
+    {
         "lng": "120.948",
         "lat": "14.656",
         "date": "2017-01-04",
@@ -275,17 +330,6 @@
         "modus": "Taxi Hold-Up W/ Gun"
     },
     {
-        "lng": "120.992",
-        "lat": "14.674",
-        "date": "2017-03-02",
-        "customdate": "Thu - Mar 2, 2017",
-        "time": "04:00:00",
-        "customtime": "4:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Forcibly Taken"
-    },
-    {
         "lng": "121.015",
         "lat": "14.6821",
         "date": "2017-03-05",
@@ -482,50 +526,6 @@
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 171, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Swpu (Stolen While Parked)"
-    },
-    {
-        "lng": "120.989",
-        "lat": "14.7003",
-        "date": "2017-04-21",
-        "customdate": "Fri - Apr 21, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Forcibly Taken"
-    },
-    {
-        "lng": "120.989",
-        "lat": "14.7003",
-        "date": "2017-04-21",
-        "customdate": "Fri - Apr 21, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "120.989",
-        "lat": "14.7003",
-        "date": "2017-04-21",
-        "customdate": "Fri - Apr 21, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Parada, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Hold Up"
-    },
-    {
-        "lng": "120.997",
-        "lat": "14.6823",
-        "date": "2017-04-21",
-        "customdate": "Fri - Apr 21, 2017",
-        "time": "03:45:00",
-        "customtime": "3:45:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.997",
@@ -1386,28 +1386,6 @@
         "modus": "Swpu (Stolen While Parked)"
     },
     {
-        "lng": "120.995",
-        "lat": "14.6861",
-        "date": "2017-08-07",
-        "customdate": "Mon - Aug 7, 2017",
-        "time": "08:00:00",
-        "customtime": "8:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Ftr (Failed to Return)"
-    },
-    {
-        "lng": "120.995",
-        "lat": "14.6861",
-        "date": "2017-08-07",
-        "customdate": "Mon - Aug 7, 2017",
-        "time": "08:00:00",
-        "customtime": "8:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Qualified Theft"
-    },
-    {
         "lng": "120.964",
         "lat": "14.6781",
         "date": "2017-08-09",
@@ -1969,28 +1947,6 @@
         "modus": "Ftr (Failed to Return)"
     },
     {
-        "lng": "120.949",
-        "lat": "14.6524",
-        "date": "2017-10-28",
-        "customdate": "Sat - Oct 28, 2017",
-        "time": "01:30:00",
-        "customtime": "1:30:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "modus": "Hold Up"
-    },
-    {
-        "lng": "120.949",
-        "lat": "14.6524",
-        "date": "2017-10-28",
-        "customdate": "Sat - Oct 28, 2017",
-        "time": "01:30:00",
-        "customtime": "1:30:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MV",
-        "location": "Bagumbayan North, Navotas, Ncr District 3 (Northern), NCR",
-        "modus": "Forcibly Taken"
-    },
-    {
         "lng": "120.936",
         "lat": "14.6719",
         "date": "2017-10-30",
@@ -2145,28 +2101,6 @@
         "modus": "Swpu (Stolen While Parked)"
     },
     {
-        "lng": "121.003",
-        "lat": "14.6924",
-        "date": "2017-11-30",
-        "customdate": "Thu - Nov 30, 2017",
-        "time": "02:00:00",
-        "customtime": "2:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
-        "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Swpu (Stolen While Parked)"
-    },
-    {
-        "lng": "121.003",
-        "lat": "14.6924",
-        "date": "2017-11-30",
-        "customdate": "Thu - Nov 30, 2017",
-        "time": "02:00:00",
-        "customtime": "2:00:AM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
-        "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Salisi (Others)"
-    },
-    {
         "lng": "120.977",
         "lat": "14.657",
         "date": "2017-11-30",
@@ -2200,7 +2134,7 @@
         "modus": "Swpu (Stolen While Parked)"
     },
     {
-        "lng": "120.97",
+        "lng": "120.9701",
         "lat": "14.6584",
         "date": "2017-12-09",
         "customdate": "Sat - Dec 9, 2017",
@@ -2319,28 +2253,6 @@
         "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
         "location": "Barangay 14, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Swpu (Stolen While Parked)"
-    },
-    {
-        "lng": "120.959",
-        "lat": "14.6523",
-        "date": "2017-12-24",
-        "customdate": "Sun - Dec 24, 2017",
-        "time": "20:00:00",
-        "customtime": "8:00:PM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
-        "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Forcibly Taken"
-    },
-    {
-        "lng": "120.959",
-        "lat": "14.6523",
-        "date": "2017-12-24",
-        "customdate": "Sun - Dec 24, 2017",
-        "time": "20:00:00",
-        "customtime": "8:00:PM",
-        "crime": "ANTI-CARNAPPING ACT (R.A. 6539) MC",
-        "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
     },
     {
         "lng": "120.951",

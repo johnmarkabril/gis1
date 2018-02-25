@@ -11,6 +11,17 @@
         "modus": "Shooting"
     },
     {
+        "lng": "121.054",
+        "lat": "14.7567",
+        "date": "2017-07-07",
+        "customdate": "Fri - Jul 7, 2017",
+        "time": "03:13:00",
+        "customtime": "3:13:AM",
+        "crime": "MURDER",
+        "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
+        "modus": "Shooting"
+    },
+    {
         "lng": "121.038",
         "lat": "14.7633",
         "date": "2016-12-29",
@@ -361,17 +372,6 @@
         "crime": "MURDER",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Shooting"
-    },
-    {
-        "lng": "120.994",
-        "lat": "14.6868",
-        "date": "2017-01-10",
-        "customdate": "Tue - Jan 10, 2017",
-        "time": "06:00:00",
-        "customtime": "6:00:AM",
-        "crime": "MURDER",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
     },
     {
         "lng": "120.994",
@@ -902,17 +902,6 @@
         "modus": "Shooting"
     },
     {
-        "lng": "120.99",
-        "lat": "14.6777",
-        "date": "2017-02-03",
-        "customdate": "Fri - Feb 3, 2017",
-        "time": "09:00:00",
-        "customtime": "9:00:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "121.051",
         "lat": "14.7711",
         "date": "2017-02-03",
@@ -955,17 +944,6 @@
         "crime": "MURDER",
         "location": "Tanza, Navotas, Ncr District 3 (Northern), NCR",
         "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "121.051",
-        "lat": "14.7562",
-        "date": "2017-02-06",
-        "customdate": "Mon - Feb 6, 2017",
-        "time": "21:30:00",
-        "customtime": "9:30:PM",
-        "crime": "MURDER",
-        "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
     },
     {
         "lng": "121.051",
@@ -1029,17 +1007,6 @@
         "customdate": "Tue - Feb 7, 2017",
         "time": "21:30:00",
         "customtime": "9:30:PM",
-        "crime": "MURDER",
-        "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
-        "lng": "121.056",
-        "lat": "14.7716",
-        "date": "2017-02-07",
-        "customdate": "Tue - Feb 7, 2017",
-        "time": "20:20:00",
-        "customtime": "8:20:PM",
         "crime": "MURDER",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Shooting"
@@ -1903,17 +1870,6 @@
         "modus": "Shooting"
     },
     {
-        "lng": "121.079",
-        "lat": "14.7622",
-        "date": "2017-03-12",
-        "customdate": "Sun - Mar 12, 2017",
-        "time": "22:40:00",
-        "customtime": "10:40:PM",
-        "crime": "MURDER",
-        "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "121.076",
         "lat": "14.7609",
         "date": "2017-03-14",
@@ -2508,28 +2464,6 @@
         "modus": "Shooting"
     },
     {
-        "lng": "121.066",
-        "lat": "14.7611",
-        "date": "2017-03-29",
-        "customdate": "Wed - Mar 29, 2017",
-        "time": "21:20:00",
-        "customtime": "9:20:PM",
-        "crime": "MURDER",
-        "location": "Barangay 180, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
-        "lng": "121.053",
-        "lat": "14.7803",
-        "date": "2017-03-29",
-        "customdate": "Wed - Mar 29, 2017",
-        "time": "23:20:00",
-        "customtime": "11:20:PM",
-        "crime": "MURDER",
-        "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "121.053",
         "lat": "14.7803",
         "date": "2017-03-29",
@@ -2662,17 +2596,6 @@
         "modus": "Shooting"
     },
     {
-        "lng": "121.058",
-        "lat": "14.7558",
-        "date": "2017-04-01",
-        "customdate": "Sat - Apr 1, 2017",
-        "time": "08:05:00",
-        "customtime": "8:05:AM",
-        "crime": "MURDER",
-        "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "120.981",
         "lat": "14.6564",
         "date": "2017-04-01",
@@ -2712,28 +2635,6 @@
         "customdate": "Sun - Apr 2, 2017",
         "time": "01:15:00",
         "customtime": "1:15:AM",
-        "crime": "MURDER",
-        "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
-        "lng": "121.048",
-        "lat": "14.772",
-        "date": "2017-04-02",
-        "customdate": "Sun - Apr 2, 2017",
-        "time": "01:15:00",
-        "customtime": "1:15:AM",
-        "crime": "MURDER",
-        "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
-        "lng": "121.06",
-        "lat": "14.7754",
-        "date": "2017-04-02",
-        "customdate": "Sun - Apr 2, 2017",
-        "time": "21:50:00",
-        "customtime": "9:50:PM",
         "crime": "MURDER",
         "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Shooting"
@@ -3146,17 +3047,6 @@
         "modus": "Shooting"
     },
     {
-        "lng": "120.957",
-        "lat": "14.7177",
-        "date": "2017-04-20",
-        "customdate": "Thu - Apr 20, 2017",
-        "time": "17:05:00",
-        "customtime": "5:05:PM",
-        "crime": "MURDER",
-        "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "120.997",
         "lat": "14.6823",
         "date": "2017-04-21",
@@ -3166,17 +3056,6 @@
         "crime": "MURDER",
         "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "120.997",
-        "lat": "14.6823",
-        "date": "2017-04-21",
-        "customdate": "Fri - Apr 21, 2017",
-        "time": "03:45:00",
-        "customtime": "3:45:AM",
-        "crime": "MURDER",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Forcibly Taken"
     },
     {
         "lng": "120.949",
@@ -3652,17 +3531,6 @@
         "modus": "Shooting"
     },
     {
-        "lng": "120.952",
-        "lat": "14.6466",
-        "date": "2017-05-13",
-        "customdate": "Sat - May 13, 2017",
-        "time": "19:15:00",
-        "customtime": "7:15:PM",
-        "crime": "MURDER",
-        "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "120.967",
         "lat": "14.6632",
         "date": "2017-05-13",
@@ -3826,94 +3694,6 @@
         "crime": "MURDER",
         "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Shooting"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "With Violence Against or Intimidation of Persons"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "With Violence Against or Intimidation of Persons"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "With Violence Against or Intimidation of Persons"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Clubbing"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Clubbing"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Clubbing"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Clubbing"
-    },
-    {
-        "lng": "120.983",
-        "lat": "14.6736",
-        "date": "2017-05-24",
-        "customdate": "Wed - May 24, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Marulas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Clubbing"
     },
     {
         "lng": "120.983",
@@ -4331,17 +4111,6 @@
         "customtime": "4:00:PM",
         "crime": "MURDER",
         "location": "Longos, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
-        "lng": "120.978",
-        "lat": "14.6435",
-        "date": "2017-06-09",
-        "customdate": "Fri - Jun 9, 2017",
-        "time": "19:30:00",
-        "customtime": "7:30:PM",
-        "crime": "MURDER",
-        "location": "Barangay 51, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Shooting"
     },
     {
@@ -5335,17 +5104,6 @@
         "modus": "Shooting"
     },
     {
-        "lng": "121.051",
-        "lat": "14.7727",
-        "date": "2017-07-20",
-        "customdate": "Thu - Jul 20, 2017",
-        "time": "19:00:00",
-        "customtime": "7:00:PM",
-        "crime": "MURDER",
-        "location": "Barangay 176, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "121.057",
         "lat": "14.7747",
         "date": "2017-07-20",
@@ -5519,17 +5277,6 @@
         "customtime": "3:35:AM",
         "crime": "MURDER",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
-        "lng": "121.035",
-        "lat": "14.7446",
-        "date": "2017-07-25",
-        "customdate": "Tue - Jul 25, 2017",
-        "time": "20:10:00",
-        "customtime": "8:10:PM",
-        "crime": "MURDER",
-        "location": "Barangay 173, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Shooting"
     },
     {
@@ -5896,17 +5643,6 @@
         "modus": "Stabbing/Hacking"
     },
     {
-        "lng": "120.956",
-        "lat": "14.7143",
-        "date": "2017-08-09",
-        "customdate": "Wed - Aug 9, 2017",
-        "time": "02:00:00",
-        "customtime": "2:00:AM",
-        "crime": "MURDER",
-        "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Breaking and Entering"
-    },
-    {
         "lng": "121.058",
         "lat": "14.7534",
         "date": "2017-08-09",
@@ -6039,17 +5775,6 @@
         "modus": "Stabbing/Hacking"
     },
     {
-        "lng": "120.976",
-        "lat": "14.6575",
-        "date": "2017-08-11",
-        "customdate": "Fri - Aug 11, 2017",
-        "time": "21:30:00",
-        "customtime": "9:30:PM",
-        "crime": "MURDER",
-        "location": "Barangay 73, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
-    },
-    {
         "lng": "121.065",
         "lat": "14.7547",
         "date": "2017-08-13",
@@ -6070,17 +5795,6 @@
         "crime": "MURDER",
         "location": "Barangay 145, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Shooting"
-    },
-    {
-        "lng": "120.962",
-        "lat": "14.6749",
-        "date": "2017-08-15",
-        "customdate": "Tue - Aug 15, 2017",
-        "time": "07:30:00",
-        "customtime": "7:30:AM",
-        "crime": "MURDER",
-        "location": "Maysilo, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Hold Up"
     },
     {
         "lng": "120.962",
@@ -6114,17 +5828,6 @@
         "crime": "MURDER",
         "location": "San Jose (Pob.), Navotas, Ncr District 3 (Northern), NCR",
         "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "120.991",
-        "lat": "14.7067",
-        "date": "2017-08-16",
-        "customdate": "Wed - Aug 16, 2017",
-        "time": "16:50:00",
-        "customtime": "4:50:PM",
-        "crime": "MURDER",
-        "location": "Paso De Blas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
     },
     {
         "lng": "120.991",
@@ -7062,17 +6765,6 @@
         "modus": "Stabbing/Hacking"
     },
     {
-        "lng": "120.953",
-        "lat": "14.6461",
-        "date": "2017-09-27",
-        "customdate": "Wed - Sep 27, 2017",
-        "time": "05:30:00",
-        "customtime": "5:30:AM",
-        "crime": "MURDER",
-        "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
-    },
-    {
         "lng": "120.963",
         "lat": "14.6772",
         "date": "2017-09-27",
@@ -7236,17 +6928,6 @@
         "crime": "MURDER",
         "location": "Barangay 55, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "120.942",
-        "lat": "14.67",
-        "date": "2017-10-05",
-        "customdate": "Thu - Oct 5, 2017",
-        "time": "03:20:00",
-        "customtime": "3:20:AM",
-        "crime": "MURDER",
-        "location": "Daanghari, Navotas, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
     },
     {
         "lng": "120.942",
@@ -7546,17 +7227,6 @@
         "modus": "Stabbing/Hacking"
     },
     {
-        "lng": "121.014",
-        "lat": "14.6962",
-        "date": "2017-10-22",
-        "customdate": "Sun - Oct 22, 2017",
-        "time": "22:15:00",
-        "customtime": "10:15:PM",
-        "crime": "MURDER",
-        "location": "Ugong, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
-    },
-    {
         "lng": "121.011",
         "lat": "14.7056",
         "date": "2017-10-22",
@@ -7777,17 +7447,6 @@
         "modus": "Stabbing/Hacking"
     },
     {
-        "lng": "121.002",
-        "lat": "14.689",
-        "date": "2017-11-01",
-        "customdate": "Wed - Nov 1, 2017",
-        "time": "03:30:00",
-        "customtime": "3:30:AM",
-        "crime": "MURDER",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Stabbing/Hacking"
-    },
-    {
         "lng": "120.972",
         "lat": "14.6448",
         "date": "2017-11-01",
@@ -7841,17 +7500,6 @@
         "crime": "MURDER",
         "location": "North Bay Blvd., North, Navotas, Ncr District 3 (Northern), NCR",
         "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "121.079",
-        "lat": "14.7552",
-        "date": "2017-11-05",
-        "customdate": "Sun - Nov 5, 2017",
-        "time": "02:30:00",
-        "customtime": "2:30:AM",
-        "crime": "MURDER",
-        "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
     },
     {
         "lng": "121.079",
@@ -7929,17 +7577,6 @@
         "crime": "MURDER",
         "location": "Potrero, Malabon City, Ncr District 3 (Northern), NCR",
         "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "121.069",
-        "lat": "14.7671",
-        "date": "2017-11-10",
-        "customdate": "Fri - Nov 10, 2017",
-        "time": "14:30:00",
-        "customtime": "2:30:PM",
-        "crime": "MURDER",
-        "location": "Barangay 187, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
     },
     {
         "lng": "121.069",
@@ -8184,17 +7821,6 @@
         "modus": "Shooting"
     },
     {
-        "lng": "120.958",
-        "lat": "14.6433",
-        "date": "2017-11-25",
-        "customdate": "Sat - Nov 25, 2017",
-        "time": "21:30:00",
-        "customtime": "9:30:PM",
-        "crime": "MURDER",
-        "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
         "lng": "121.072",
         "lat": "14.7688",
         "date": "2017-11-25",
@@ -8270,17 +7896,6 @@
         "crime": "MURDER",
         "location": "Barangay 120, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "120.982",
-        "lat": "14.7135",
-        "date": "2017-11-30",
-        "customdate": "Thu - Nov 30, 2017",
-        "time": "23:00:00",
-        "customtime": "11:00:PM",
-        "crime": "MURDER",
-        "location": "Paso De Blas, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
     },
     {
         "lng": "120.982",
@@ -8406,17 +8021,6 @@
     {
         "lng": "120.943",
         "lat": "14.6763",
-        "date": "2017-12-08",
-        "customdate": "Fri - Dec 8, 2017",
-        "time": "12:10:00",
-        "customtime": "12:10:PM",
-        "crime": "MURDER",
-        "location": "Flores, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
-    },
-    {
-        "lng": "120.943",
-        "lat": "14.6764",
         "date": "2017-12-08",
         "customdate": "Fri - Dec 8, 2017",
         "time": "12:10:00",
@@ -8589,17 +8193,6 @@
         "crime": "MURDER",
         "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Stabbing/Hacking"
-    },
-    {
-        "lng": "121.036",
-        "lat": "14.7743",
-        "date": "2017-12-17",
-        "customdate": "Sun - Dec 17, 2017",
-        "time": "21:00:00",
-        "customtime": "9:00:PM",
-        "crime": "MURDER",
-        "location": "Barangay 175, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Shooting"
     },
     {
         "lng": "121.036",

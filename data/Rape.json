@@ -11,6 +11,17 @@
         "modus": "Statutory Rape"
     },
     {
+        "lng": "120.958",
+        "lat": "14.7082",
+        "date": "2017-07-07",
+        "customdate": "Fri - Jul 7, 2017",
+        "time": "23:30:00",
+        "customtime": "11:30:PM",
+        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
+        "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
+        "modus": "Lewd and Lusty Desire"
+    },
+    {
         "lng": "121.021",
         "lat": "14.7525",
         "date": "2016-12-30",
@@ -1065,18 +1076,7 @@
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Statutory Rape"
-    },  
-    {
-        "lng": "121.001",
-        "lat": "14.7307",
-        "date": "2017-05-29",
-        "customdate": "Mon - May 29, 2017",
-        "time": "17:00:00",
-        "customtime": "5:00:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Lawang Bato, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
-    },  
+    },   
     {
         "lng": "120.958",
         "lat": "14.6492",
@@ -1243,7 +1243,7 @@
         "modus": "Lewd and Lusty Desire"
     },  
     {
-        "lng": "121.016",
+        "lng": "121.0161",
         "lat": "14.6979",
         "date": "2017-06-26",
         "customdate": "Mon - Jun 26, 2017",
@@ -1340,17 +1340,6 @@
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "North Bay Blvd., South, Navotas, Ncr District 3 (Northern), NCR",
         "modus": "Statutory Rape"
-    },  
-    {
-        "lng": "120.958",
-        "lat": "14.7082",
-        "date": "2017-07-07",
-        "customdate": "Fri - Jul 7, 2017",
-        "time": "23:30:00",
-        "customtime": "11:30:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Dalandanan, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Akyat Bahay"
     },  
     {
         "lng": "120.958",
@@ -1903,17 +1892,6 @@
         "modus": "Not Indicated"
     },  
     {
-        "lng": "120.973",
-        "lat": "14.6357",
-        "date": "2017-09-25",
-        "customdate": "Mon - Sep 25, 2017",
-        "time": "00:00:00",
-        "customtime": "12:00:AM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Barangay 178, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Not Indicated"
-    },  
-    {
         "lng": "120.956",
         "lat": "14.6395",
         "date": "2017-09-25",
@@ -2197,17 +2175,6 @@
         "customtime": "10:40:PM",
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Salisi (Akyat Bahay)"
-    },  
-    {
-        "lng": "121.005",
-        "lat": "14.7103",
-        "date": "2017-11-04",
-        "customdate": "Sat - Nov 4, 2017",
-        "time": "22:40:00",
-        "customtime": "10:40:PM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Bagbaguin, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Force, Threat and Intimidation"
     },  
     {
@@ -2321,17 +2288,6 @@
         "modus": "Force, Threat and Intimidation"
     },  
     {
-        "lng": "121.002",
-        "lat": "14.6849",
-        "date": "2017-11-14",
-        "customdate": "Tue - Nov 14, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Hen. T. De Leon, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Force, Threat and Intimidation"
-    },  
-    {
         "lng": "120.958",
         "lat": "14.7162",
         "date": "2017-11-15",
@@ -2341,17 +2297,6 @@
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
         "modus": "Force, Threat and Intimidation"
-    },  
-    {
-        "lng": "120.958",
-        "lat": "14.7162",
-        "date": "2017-11-15",
-        "customdate": "Wed - Nov 15, 2017",
-        "time": "00:01:00",
-        "customtime": "12:01:AM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Malanday, Valenzuela City, Ncr District 3 (Northern), NCR",
-        "modus": "Mauling"
     },  
     {
         "lng": "120.986",
@@ -2563,7 +2508,7 @@
         "modus": "Fetishism/Object Rape"
     },  
     {
-        "lng": "121.016",
+        "lng": "121.0162",
         "lat": "14.6979",
         "date": "2017-12-05",
         "customdate": "Tue - Dec 5, 2017",
@@ -2638,18 +2583,7 @@
         "crime": "RAPE (Art. 266-A RC & R.A.8353)",
         "location": "Tonsuya, Malabon City, Ncr District 3 (Northern), NCR",
         "modus": "Force, Threat and Intimidation"
-    },  
-    {
-        "lng": "121.774",
-        "lat": "12.8797",
-        "date": "2017-12-13",
-        "customdate": "Wed - Dec 13, 2017",
-        "time": "01:00:00",
-        "customtime": "1:00:AM",
-        "crime": "RAPE (Art. 266-A RC & R.A.8353)",
-        "location": "Dampalit, Malabon City, Ncr District 3 (Northern), NCR",
-        "modus": "Force, Threat and Intimidation"
-    },  
+    },   
     {
         "lng": "120.978",
         "lat": "14.699",

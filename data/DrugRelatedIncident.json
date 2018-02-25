@@ -9141,17 +9141,6 @@
         "modus": "Not Indicated"
     },
     {
-        "lng": "121.071",
-        "lat": "14.7507",
-        "date": "2017-07-01",
-        "customdate": "Sat - Jul 1, 2017",
-        "time": "18:30:00",
-        "customtime": "6:30:PM",
-        "crime": "DRUG RELATED INCIDENT (RA 9165)",
-        "location": "Barangay 179, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Not Indicated"
-    },
-    {
         "lng": "121.041",
         "lat": "14.7758",
         "date": "2017-07-01",
@@ -10845,18 +10834,7 @@
         "location": "Barangay 73, Kalookan City, Ncr District 3 (Northern), NCR",
         "modus": "Not Indicated"
     },
-        {
-        "lng": "120.974",
-        "lat": "14.6572",
-        "date": "2017-07-20",
-        "customdate": "Thu - Jul 20, 2017",
-        "time": "02:15:00",
-        "customtime": "2:15:AM",
-        "crime": "DRUG RELATED INCIDENT (RA 9165)",
-        "location": "Barangay 73, Kalookan City, Ncr District 3 (Northern), NCR",
-        "modus": "Not Indicated"
-    },
-        {
+    {
         "lng": "121.015",
         "lat": "14.6827",
         "date": "2017-07-20",
