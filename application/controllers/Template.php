@@ -62,7 +62,9 @@ class Template extends CI_Controller {
         $time1          =   $this->input->post('time1');
         $time2          =   $this->input->post('time2');
         $object         =   $this->input->post('new_data_process');
-
+        $all_markers    =   $this->input->post('all_markers');
+        $value1         =   $this->input->post('value1');
+        $value2         =   $this->input->post('value2');
         $template   =   '
                             <center style="font-size: 20px; font-weight: 700;">
                                 <div>CAMANAVA CRIME HOTSPOTS</div>
@@ -81,8 +83,8 @@ class Template extends CI_Controller {
 
                             <div style="padding-top: 20px;">Results</div>
                             <div style="padding: 0 0 0 30px;">
-                                <div style="padding-top: 5px;">Total Crime Incidents: </div>
-                                <div style="padding-top: 5px;">Total Clusters: </div>
+                                <div style="padding-top: 5px;">Total Crime Incidents: <b>'. $value2 . '</b> </div>
+                                <div style="padding-top: 5px;">Total Clusters: <b>'. $value1 . '</b></div>
                             </div>
 
                             <div style="padding-top: 20px;">
@@ -96,25 +98,25 @@ class Template extends CI_Controller {
                                                 <td style="width: 25%;border-top: 1px solid black">Cluster #</td>
                                                 <td style="width: 25%;border-top: 1px solid black">' . ( $key+1 ) . '</td>
                                                 <td style="width: 25%;border-top: 1px solid black">Radius Size</td>
-                                                <td style="width: 25%;border-top: 1px solid black">' . $obj['radius_distance'] . '</td>
+                                                <td style="width: 25%;border-top: 1px solid black"></td>
                                             </tr>
                                             <tr>
                                                 <td style="width: 25%;border-top: 1px solid black; font-weight: 700;">Total Crimes</td>
                                                 <td style="width: 25%;border-top: 1px solid black">' . $obj['size'] . '</td>
-                                                <td style="width: 25%;border-top: 1px solid black"></td>
+                                                <td style="width: 25%;border-top: 1px solid black">' . $obj['radius_distance'] . ' KM </td>
                                                 <td style="width: 25%;border-top: 1px solid black"></td>
                                             </tr>
                                             <tr>
                                                 <td style="width: 25%;border-top: 1px solid black"></td>
                                                 <td style="width: 25%;border-top: 1px solid black; font-weight: 700;">Latitude</td>
-                                                <td style="width: 25%;border-top: 1px solid black; font-weight: 700;">Longhitude</td>
+                                                <td style="width: 25%;border-top: 1px solid black; font-weight: 700;">Longitude</td>
                                                 <td style="width: 25%;border-top: 1px solid black; font-weight: 700;">Actual Location</td>
                                             </tr>
                                             <tr>
                                                 <td style="width: 25%;border-top: 1px solid black; font-weight: 700;">Cluster Center</td>
                                                 <td style="width: 25%;border-top: 1px solid black">' . $obj['lat'] . '</td>
                                                 <td style="width: 25%;border-top: 1px solid black">' . $obj['lng'] . '</td>
-                                                <td style="width: 25%;border-top: 1px solid black">' . ( !empty($obj['address']) ? $obj['address'] : 'cannot get the address' ) . '</td>
+                                                <td style="width: 25%;border-top: 1px solid black">' . ( !empty($obj['address']) ? $obj['address'] : 'Geocoder not able to retrieve address due to API constraint' ) . '</td>
                                             </tr>
                         ';
                                         }      
@@ -124,6 +126,37 @@ class Template extends CI_Controller {
                             </div>
                         ';
         
+        $template       .=  '
+                                <div style="padding-top: 20px;">
+                                    <table cellpadding="5" cellspacing="0" style="width: 100%;">
+                                        <tbody>
+                                            <tr>
+                                                <th style="width: 10%;border-bottom: 1px solid black;">#</th>
+                                                <th style="width: 20%;border-bottom: 1px solid black;">Latitude</th>
+                                                <th style="width: 20%;border-bottom: 1px solid black;">Longitude</th>
+                                                <th style="width: 25%;border-bottom: 1px solid black;">Date</th>
+                                                <th style="width: 25%;border-bottom: 1px solid black;">Time</th>
+                                            </tr>
+               ';
+
+                                        foreach ( $all_markers as $key => $marker ) {
+        $template   .=  '
+                                            <tr>
+                                                <td style="width: 20%;border: 1px solid black;">' . ( $key+1 ) . '</td>
+                                                <td style="width: 20%;border: 1px solid black;">' . $marker['lat'] . '</td>
+                                                <td style="width: 20%;border: 1px solid black;">' . $marker['lng'] . '</td>
+                                                <td style="width: 20%;border: 1px solid black;">' . $marker['date'] . '</td>
+                                                <td style="width: 20%;border: 1px solid black;">' . $marker['time'] . '</td>
+                                            </tr>
+                        ';
+                                        }      
+        $template   .=  '
+                                        </tbody>
+                                    </table>
+                                </div>
+                            ';
+
         echo $template;
     }
+
 }

@@ -794,11 +794,21 @@
 
                 var fullmonth   =   MonthSelector(select_month);
                 var fullday     =   DaySelector(select_day);
+                var recom;
+
+                if ( select_crime == "CARNAPPING" ) { 
+                recom = 'AND ADDITIONAL CCTV FOR BRGY. USE';
+            } else if ( select_crime == "DRUG RELATED INCIDENT (RA 9165)") {
+                recom = 'AND POLICE PATROLLING';
+            } else {
+              recom = '';
+            }
 
                 content     +=  '<div style="width:100%;padding:10px;font-size:16px;color:white;font-weight:bold;background-color:#4695F0;">RECOMMENDATION</div>';
                 content     +=  '<div style="text-align:center;font-size:16px;">';
                 content     +=  '   <div style="padding-top:20px;">' +  ( cluster.getSize() >= 11 && cluster.getSize() <= 17 ? "<span style='color:orange'>HIGH </span>" : ( cluster.getSize() <= 10 ? "" : "<span style='color:red'>VERY HIGH </span>" ) )  + select_crime + ' PRONE AREA </div>';
-                content     +=  '   <div style="padding-top:20px;">INCREASE POLICE VISIBILITY IN THE ' + kilometers.toFixed(2) + 'KM RADIUS CENTERED AT </div>' ;
+                content     +=  '   <div style="padding-top:20px;">INCREASE POLICE VISIBILITY ' + recom + ' ';
+                content     +=  ' IN THE ' + kilometers.toFixed(2) + 'KM RADIUS CENTERED AT </div>' ;
                 content     +=  '   <div>' + address_from_latlng + '</div>';
                                     if ( time1 != '12:00 AM' || time2 != '11:59 PM' ) {
                 content     +=  '       DURING ' + time1 + ' - ' + time2; 
@@ -993,8 +1003,8 @@
                     mc_cluster_len.push(data);
                 } 
             });
-            console.log("Number of clusters: " + mc_cluster_len.length);
-            console.log(markerCluster);
+            // console.log("Number of clusters: " + mc_cluster_len.length);
+            // console.log(markerCluster);
         }, 1500);
     });
 
@@ -1006,13 +1016,15 @@
         let select_year         =   $('#select-year').val();
         let time1               =   $('.slider-time').html();
         let time2               =   $('.slider-time2').html();
+        let value1              =   [];
+        let value2              =   [];
         let mc_cluster_len      =   [];
         let mc_cluster_object   =   markerCluster.clusters_;
         let new_data_process    =   [];
+        let all_markers         =   [];
         LoadingOverlay('show');
 
         $.each(mc_cluster_object, function(key, data) {
-
             let currentDistance =   0;
             let centerCluster   =   data.center_;
             let kilometers      =   0;
@@ -1027,25 +1039,33 @@
                 }
 
                 kilometers =  (currentDistance * 0.001);
+
+                let push_all_markers    =  {
+                    lat             :   datas.data_custom.lat,
+                    lng             :   datas.data_custom.lng,
+                    date            :   datas.data_custom.customdate,
+                    time            :   datas.data_custom.customtime
+                } 
+                all_markers.push(push_all_markers);
             });
 
-            geocoder    = new google.maps.Geocoder();
+            geocoder    = new google.maps.Geocoder;
             var latlng  = centerCluster;
             geocoder.geocode({
-                'latLng': latlng
+                'location': latlng
             }, function(results, status) {
                 if ( status == "OK" ) {
                     if (results[0]) {
                         address_from_latlng     =   results[0].formatted_address;
                     } else {
-                        address_from_latlng     =   'address not found';
+                        address_from_latlng     =   'Address not found';
                     }
                 }
                 let process_object  =   {
-                    lat             :   parseFloat(data.center_.lat()),
-                    lng             :   parseFloat(data.center_.lng()),
+                    lat             :   parseFloat(data.center_.lat().toFixed(4)),
+                    lng             :   parseFloat(data.center_.lng().toFixed(4)),
                     size            :   data.markers_.length,
-                    radius_distance :   kilometers,
+                    radius_distance :   kilometers.toFixed(2),
                     address         :   address_from_latlng
                 }
                 new_data_process.push(process_object);
@@ -1059,16 +1079,20 @@
                             method: "POST",
                             data: {
                                 new_data_process    :   new_data_process,
+                                all_markers         :   all_markers,
                                 select_city         :   select_city,
                                 select_crime        :   select_crime,
                                 select_month        :   select_month,
                                 select_day          :   select_day,
                                 select_year         :   select_year,
                                 time1               :   time1,
-                                time2               :   time2
+                                time2               :   time2,
+                                value1              :   markerCluster.clusters_.length,
+                                value2              :   markerCluster.markers_.length
                             },success:function(data){
                                 $('#report_body').html(data);
                                 $('#report_modal').modal('toggle');
+                                // console.log(data);
                             },error:function(){
                             },complete:function(){
                             }
@@ -1079,24 +1103,18 @@
                 }
 
             });
-
-            
-
         });
 
-
-        
-        
-
-        // 
+        console.log();
     });
 
-    $(document).on('click', '#btn_print', function(){
+    $(document).on('click', '#btn_print_all_cluster', function(){
         var divToPrint=document.getElementById("report_body");
-       newWin= window.open("");
-       newWin.document.write(divToPrint.outerHTML);
-       newWin.print();
-       newWin.close();
+        newWin= window.open("");
+        newWin.document.write(divToPrint.outerHTML);
+        newWin.print();
+        newWin.close();
     });
+
 
 </script>

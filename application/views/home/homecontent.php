@@ -93,7 +93,7 @@
             </div>
             
             <div class="padding-top-small">
-                <button type="button" id="btn_report" class="btn btn-default-2">Report</button>
+                <button type="button" id="btn_report" class="btn btn-default-2">Generate Report</button>
             </div>
 			
 			<div class="padding-top-small">
@@ -135,10 +135,12 @@
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header align-center">
-                <div class="w-100 align-center">REPORT</div>
+                <div class="w-100 align-center">CRIME REPORT</div>
             </div>
             <div class="modal-body">
-                <button class="btn btn-default margin-bottom-normal" id="btn_print">Print This</button>
+               
+                <button class="btn btn-default margin-bottom-normal" id="btn_print_all_cluster">PRINT ALL REPORT</button>
+                
                 <div id="report_body">
                 </div>
             </div>
