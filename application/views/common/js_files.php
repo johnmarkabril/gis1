@@ -1049,64 +1049,75 @@
                 all_markers.push(push_all_markers);
             });
 
-            geocoder    = new google.maps.Geocoder;
-            var latlng  = centerCluster;
-            geocoder.geocode({
-                'location': latlng
-            }, function(results, status) {
-                if ( status == "OK" ) {
-                    if (results[0]) {
-                        address_from_latlng     =   results[0].formatted_address;
-                    } else {
-                        address_from_latlng     =   'Address not found';
+            setTimeout( function(){
+                geocoder    = new google.maps.Geocoder;
+                var latlng  = centerCluster;
+                geocoder.geocode({
+                    'location': latlng
+                }, function(results, status) {
+                    if ( status == "OK" ) {
+                        if (results[0]) {
+                            address_from_latlng     =   results[0].formatted_address;
+                        } else {
+                            address_from_latlng     =   'Address not found';
+                        }
                     }
-                }
-                let process_object  =   {
-                    lat             :   parseFloat(data.center_.lat().toFixed(4)),
-                    lng             :   parseFloat(data.center_.lng().toFixed(4)),
-                    size            :   data.markers_.length,
-                    radius_distance :   kilometers.toFixed(2),
-                    address         :   address_from_latlng
-                }
-                new_data_process.push(process_object);
+                    let process_object  =   {
+                        lat             :   parseFloat(data.center_.lat().toFixed(4)),
+                        lng             :   parseFloat(data.center_.lng().toFixed(4)),
+                        size            :   data.markers_.length,
+                        radius_distance :   kilometers.toFixed(2),
+                        address         :   address_from_latlng
+                    }
+                    new_data_process.push(process_object);
 
-                if ( (key+1) == mc_cluster_object.length ) {
-                    setTimeout(function() { 
-                        LoadingOverlay('hide');
+                    if ( (key+1) == mc_cluster_object.length ) {
+                        setTimeout(function() { 
+                            LoadingOverlay('hide');
 
-                        $.ajax({
-                            url: '<?php echo base_url(); ?>template/generate_report',
-                            method: "POST",
-                            data: {
-                                new_data_process    :   new_data_process,
-                                all_markers         :   all_markers,
-                                select_city         :   select_city,
-                                select_crime        :   select_crime,
-                                select_month        :   select_month,
-                                select_day          :   select_day,
-                                select_year         :   select_year,
-                                time1               :   time1,
-                                time2               :   time2,
-                                value1              :   markerCluster.clusters_.length,
-                                value2              :   markerCluster.markers_.length
-                            },success:function(data){
-                                $('#report_body').html(data);
-                                $('#report_modal').modal('toggle');
-                                // console.log(data);
-                            },error:function(){
-                            },complete:function(){
-                            }
-                        });
+                            $.ajax({
+                                url: '<?php echo base_url(); ?>template/generate_report',
+                                method: "POST",
+                                data: {
+                                    new_data_process    :   new_data_process,
+                                    all_markers         :   all_markers,
+                                    select_city         :   select_city,
+                                    select_crime        :   select_crime,
+                                    select_month        :   select_month,
+                                    select_day          :   select_day,
+                                    select_year         :   select_year,
+                                    time1               :   time1,
+                                    time2               :   time2,
+                                    value1              :   markerCluster.clusters_.length,
+                                    value2              :   markerCluster.markers_.length
+                                },success:function(data){
+                                    $('#report_body').html(data);
+                                    $('#report_modal').modal('toggle');
+                                    // console.log(data);
+                                },error:function(){
+                                },complete:function(){
+                                }
+                            });
 
-                        console.log(new_data_process);
-                    }, 1000);
-                }
-
-            });
+                            console.log(new_data_process);
+                        }, 1000);
+                    }
+                });
+                console.log( 'Loading the cluster: ' + (key+1) + '/' + mc_cluster_object.length  );
+            }, key * 1500 );
         });
 
-        console.log();
     });
+
+    async function put_sleep() {
+      await sleep(1000);
+    }
+
+
+    function sleep(ms) {
+      return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
 
     $(document).on('click', '#btn_print_all_cluster', function(){
         var divToPrint=document.getElementById("report_body");
