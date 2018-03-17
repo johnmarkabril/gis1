@@ -67,14 +67,16 @@
 
 	});
 
-    let markers         =   [];
-    let locations       =   [];
-    let infoWindows     =   [];
-    let infoWindows2    =   [];
-    let infoWindows3    =   [];
-    let markerLatLong   =   [];
+    let markers                     =   [];
+    let locations                   =   [];
+    let infoWindows                 =   [];
+    let infoWindows2                =   [];
+    let infoWindows3                =   [];
+    let markerLatLong               =   [];
+    let report_marker_inside        =   [];
+    let report_maker_cluster_click  =   [];
 
-    let global_crime_data_object, map, markerCluster, labels, mcOptions, globalObject, geocoder, address_from_latlng, heatmap, map_modal_heatmap, styledMapType;
+    let global_crime_data_object, map, markerCluster, labels, mcOptions, globalObject, geocoder, address_from_latlng, heatmap, map_modal_heatmap, styledMapType, clickedClusterRadius;
 
 	function initMap() {
         $.ajax({
@@ -831,13 +833,33 @@
 
         google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
 
+            $('#div-generate-report').hide();
+            $('#div-generate-report-inside').show();
+
+            clickedClusterRadius    =   0;
             // console.log('CLUSTER CENTER: ' + cluster.getCenter().lat() + ', ' + cluster.getCenter().lng());
+            report_maker_cluster_click  =   [];
+
+            let report_maker_cluster_click_inside   =   {
+                lat             :   cluster.getCenter().lat(),
+                lng             :   cluster.getCenter().lng(),
+                date            :   '',
+                time            :   ''
+            } 
+            report_maker_cluster_click.push(report_maker_cluster_click_inside);
+
             $('#btn-back-map').show();
-            $('#modal_heatmap_link').hide();
+            $('#div-heatmap').hide();
             let clusterMarker   =   cluster.getMarkers();
 
             for ( var x = 0; x < clusterMarker.length; x++ ) {
-                console.log( (x+1) + ". " + clusterMarker[x].data_custom.crime + " " + clusterMarker[x].data_custom.lat + " - " + clusterMarker[x].data_custom.lng + " " + clusterMarker[x].data_custom.customdate + " " + clusterMarker[x].data_custom.customtime + " " + clusterMarker[x].data_custom.modus);
+                let report_maker_cluster_click_inside   =   {
+                    lat             :   parseFloat(clusterMarker[x].data_custom.lat),
+                    lng             :   parseFloat(clusterMarker[x].data_custom.lng),
+                    date            :   clusterMarker[x].data_custom.customdate,
+                    time            :   clusterMarker[x].data_custom.customtime
+                } 
+                report_maker_cluster_click.push(report_maker_cluster_click_inside);
             }
 
             map = new google.maps.Map(document.getElementById('map'), {
@@ -928,6 +950,7 @@
 
             var kilometers  =  (currentDistance * 0.001);
             //console.log('Kilometer: ' + kilometers.toFixed(2) + " - " + currentDistance );
+            clickedClusterRadius    =   kilometers.toFixed(2);
             var cityCircle = new google.maps.Circle({
                 strokeColor: '#FF0000',
                 strokeOpacity: 0.8,
@@ -987,8 +1010,10 @@
     $(document).on('click', '#btn-filter, #btn-back-map', function(){
         LoadingOverlay('show');
         toggleStatusHeatmap =  "off";
-        $('#modal_heatmap_link').show();
-        $('#btn_report').show();
+        $('#div-heatmap').show();
+        $('#div-generate-report-inside').hide();
+        $('#div-generate-report').show();
+
         $('#modal_heatmap_link').text("Show Heatmap");
         // LoadAllPoliceStation();
         FilterCrimeAll();
@@ -1003,8 +1028,6 @@
                     mc_cluster_len.push(data);
                 } 
             });
-            // console.log("Number of clusters: " + mc_cluster_len.length);
-            // console.log(markerCluster);
         }, 1500);
     });
 
@@ -1105,6 +1128,91 @@
                 });
                 console.log( 'Loading the cluster: ' + (key+1) + '/' + mc_cluster_object.length  );
             }, key * 1500 );
+        });
+    });
+
+    $(document).on('click', '#btn_report_inside', function(){
+
+        let select_city         =   $('#select-city').val();
+        let select_crime        =   $('#select-crime').val();
+        let select_month        =   $('#select-month').val();
+        let select_day          =   $('#select-day').val();
+        let select_year         =   $('#select-year').val();
+        let time1               =   $('.slider-time').html();
+        let time2               =   $('.slider-time2').html();
+        let total_cluster       =   markerCluster.clusters_;
+        let new_data_process    =   report_maker_cluster_click;
+        let total_marker        =   0;
+
+        LoadingOverlay('show');
+
+        // GET THE TOTAL MARKER
+        $.each(total_cluster, function(key, data) {
+            $.each(data.markers_, function(key, datas) {    
+                total_marker++;
+            });
+        });
+
+        // GET THE NUMBER OF CLUSTER MARKER
+        let total_cluster_length =   total_cluster.length;
+
+        $.each(new_data_process, function(key, data) {
+            let centerCluster           =   new google.maps.LatLng(data.lat, data.lng);
+            let currentDistance         =   0;
+            let kilometers              =   0;
+            let address_from_latlng     =   '';
+
+
+            setTimeout( function(){
+                geocoder    = new google.maps.Geocoder;
+                var latlng  = centerCluster;
+                geocoder.geocode({
+                    'location': latlng
+                }, function(results, status) {
+                    if ( status == "OK" ) {
+                        if (results[0]) {
+                            address_from_latlng     =   results[0].formatted_address;
+                        } else {
+                            address_from_latlng     =   'Address not found';
+                        }
+                    }
+                    new_data_process[key].address   =   address_from_latlng;
+
+
+
+                    if ( (key+1) == new_data_process.length ) {
+                        setTimeout(function() { 
+                            $.ajax({
+                                url: '<?php echo base_url(); ?>template/generate_report_inside',
+                                method: "POST",
+                                data: {
+                                    new_data_process        :   new_data_process,
+                                    select_city             :   select_city,
+                                    select_crime            :   select_crime,
+                                    select_month            :   select_month,
+                                    select_day              :   select_day,
+                                    select_year             :   select_year,
+                                    time1                   :   time1,
+                                    time2                   :   time2,
+                                    total_marker            :   total_marker,
+                                    total_cluster_length    :   total_cluster_length,
+                                    clickedClusterRadius    :   clickedClusterRadius
+                                },success:function(data){
+                                    $('#report_body').html(data);
+                                    $('#report_modal').modal('toggle');
+                                },error:function(){
+                                },complete:function(){
+                                    LoadingOverlay('hide');
+                                }
+                            });
+
+                        }, 1000);
+                        LoadingOverlay('hide');
+                    }
+                });
+                console.log( 'Loading the cluster: ' + (key+1) + '/' + new_data_process.length  );
+            }, key * 1500 );
+
         });
 
     });

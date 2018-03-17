@@ -24,7 +24,7 @@ h1,h2,h3,h4,h5,h6 {
     width: 35px;
 }*/
 
-#btn_report {
+#div-generate-report, #div-generate-report-inside {
     display: none;
 }
 

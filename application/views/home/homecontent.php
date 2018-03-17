@@ -92,11 +92,15 @@
                 <input type="button" id="btn-filter" class="btn btn-default" value="Search" />
             </div>
             
-            <div class="padding-top-small">
+            <div class="padding-top-small" id="div-generate-report">
                 <button type="button" id="btn_report" class="btn btn-default-2">Generate Report</button>
             </div>
+            
+            <div class="padding-top-small" id="div-generate-report-inside">
+                <button type="button" id="btn_report_inside" class="btn btn-default-2">Generate Report</button>
+            </div>
 			
-			<div class="padding-top-small">
+			<div class="padding-top-small" id="div-heatmap">
                 <button type="button" id="modal_heatmap_link" class="btn btn-default-2">Show Heatmap</button>
 			</div>
 
@@ -139,7 +143,7 @@
             </div>
             <div class="modal-body">
                
-                <button class="btn btn-default margin-bottom-normal" id="btn_print_all_cluster">PRINT ALL REPORT</button>
+                <button class="btn btn-default margin-bottom-normal" id="btn_print_all_cluster">PRINT REPORT</button>
                 
                 <div id="report_body">
                 </div>
