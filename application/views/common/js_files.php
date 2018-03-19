@@ -76,9 +76,11 @@
     let report_marker_inside        =   [];
     let report_maker_cluster_click  =   [];
 
-    let global_crime_data_object, map, markerCluster, labels, mcOptions, globalObject, geocoder, address_from_latlng, heatmap, map_modal_heatmap, styledMapType, clickedClusterRadius;
+    let global_crime_data_object, map, markerCluster, labels, mcOptions, globalObject, geocoder, address_from_latlng, heatmap, map_modal_heatmap, styledMapType, clickedClusterRadius, recom;
 
 	function initMap() {
+        $('#div-generate-report-inside').hide();
+        $('#div-generate-report-outside').show();
         $.ajax({
             url: '<?php echo base_url(); ?>template/get_all_json_file',
             method: "POST",
@@ -96,7 +98,6 @@
                         create_object.push(process_object);
                     });
                 }
-                
                 locations       =   create_object;
                 // MAKE THE OBJECT GLOBAL
                 globalObject    =   crime_data_object;
@@ -505,7 +506,6 @@
     //  FUNCTION FOR FILTERING CRIME NAME
     let FilterCrimeName = function(objectValues, category) {
         return objectValues.filter(
-            // function(data){ return data.crime == category }
             function(data) {
                 return data.crime.indexOf(category) > -1;
             }
@@ -587,9 +587,7 @@
             scaleControl: true,
             center: {lat: 14.6756139, lng: 120.9953632},
             mapTypeControlOptions: {
-                mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
-                        'styled_map']
-            }
+                mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain', 'styled_map']}
         });
 
         map.mapTypes.set('styled_map', styledMapType);
@@ -609,7 +607,9 @@
         let create_object       =   [];
 
         if ( !IsEmpty(select_city) && crime_data_object.length > 0 ) {
+          if(select_city != 'CAMANAVA') {
             crime_data_object   =   FilterCrimeCityLocation(crime_data_object, select_city);
+            }            
         }
 
         if ( !IsEmpty(select_crime) && crime_data_object.length > 0 ) {
@@ -643,8 +643,6 @@
         $('#result-body').html(crime_data_object.length + ' incidents');
         marker          =   [];
         markerLatLong   =   [];
-
-
 
         let infowindow  =   new google.maps.InfoWindow({maxWidth: 350});
         let infowindow2 =   new google.maps.InfoWindow({maxWidth: 350});
@@ -683,59 +681,63 @@
                 data_custom: crime_object
             });
             marker.push(nMarker);
-
-                var content     =   'CRIME: '   +   crime_object.crime   +   '</br>';
+            
+            var content     =   'CRIME: '   +   crime_object.crime   +   '</br>';
                 content         +=  'DATE: ' +   crime_object.customdate   +   '</br>';
                 content         +=  'TIME: ' +   crime_object.customtime   +   '</br>';
                 content         +=  'LATITUDE, LONGITUDE: '    +   crime_object.lat + ", " + crime_object.lng +  '</br>';
                 content         +=  'LOCATION: '    +   crime_object.location   +   '</br>';
                 content         +=  'MODUS: '   +   crime_object.modus   +   '</br>';
 
-                google.maps.event.addListener(nMarker,'mouseover', (function(marker,content,infowindow){
-                    CloseAllInfoWindows();
-                    return function() {
-                        infowindow.setContent(content); //set infowindow content to titles
-                        infowindow.open(map, nMarker);
-                        infoWindows.push(infowindow);
-                    };
-
-                })(nMarker,content,infowindow));
-
+            google.maps.event.addListener(nMarker,'mouseover', (function(marker,content,infowindow){
+              CloseAllInfoWindows();
+              return function() {
+                infowindow.setContent(content); //set infowindow content to titles
+                infowindow.open(map, nMarker);
+                infoWindows.push(infowindow);
+              };
+            })(nMarker,content,infowindow));
             markerLatLong.push(nMarker.position);
         });
 
         if ( !IsEmpty(select_city) ) {
-            if ( select_city == 'Malabon' ) {
-                var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://teko.ph/public/css/Malabon.kml',
-                    map: map,
-                    zoom: 12
-                });
-            } else if ( select_city == 'Valenzuela' ) {
-                var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://teko.ph/public/css/Valenzuela.kml',
-                    map: map,
-                    zoom: 12
-                });
-            } else if ( select_city == 'Navotas' ) {
-                var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://teko.ph/public/css/Navotassdfg.kml',
-                    map: map,
-                    zoom: 12
-                });
-            } else if ( select_city == 'Kalookan City' ) {
-                var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://teko.ph/public/css/Caloocan.kml',
-                    map: map,
-                    zoom: 12
-                });
-            }   
-        } else {
-                var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://teko.ph/public/css/All.kml',
-                    map: map
-                });
-
+          if ( select_city == 'Malabon' ) {
+            var ctaLayer = new google.maps.KmlLayer({
+              url: 'https://teko.ph/public/css/Malabon.kml',
+              map: map,
+              zoom: 12
+            });
+          } else if ( select_city == 'Valenzuela' ) {
+            var ctaLayer = new google.maps.KmlLayer({
+              url: 'https://teko.ph/public/css/Valenzuela.kml',
+              map: map,
+              zoom: 12
+            });
+          } else if ( select_city == 'Navotas' ) {
+            var ctaLayer = new google.maps.KmlLayer({
+              url: 'https://teko.ph/public/css/Navotassdfg.kml',
+              map: map,
+              zoom: 12
+            });
+          } else if ( select_city == 'Kalookan City' ) {
+            var ctaLayer = new google.maps.KmlLayer({
+              url: 'https://teko.ph/public/css/Caloocan.kml',
+              map: map,
+              zoom: 12
+            });
+          } else if ( select_city == 'CAMANAVA' ) {
+            var ctaLayer = new google.maps.KmlLayer({
+              url: 'https://teko.ph/public/css/All.kml',
+              map: map,
+              zoom: 12
+            });
+          }    
+        } 
+        else {
+            var ctaLayer = new google.maps.KmlLayer({
+              url: 'https://teko.ph/public/css/All.kml',
+              map: map
+            });
         }
 
         markers.push(marker);
@@ -749,7 +751,6 @@
             ignoreHidden: true 
         };
         markerCluster = new MarkerClusterer(map, marker, mcOptions);
-
 
         google.maps.event.addListener(markerCluster, "mouseover", function (cluster) {
           let clusterMarker   =   cluster.getMarkers();
@@ -795,21 +796,14 @@
                 });
 
                 var fullmonth   =   MonthSelector(select_month);
-                var fullday     =   DaySelector(select_day);
-                var recom;
+                var fullday     =   DaySelector(select_day);               
+                recommend_action(select_crime);
 
-                if ( select_crime == "CARNAPPING" ) { 
-                recom = 'AND ADDITIONAL CCTV FOR BRGY. USE';
-            } else if ( select_crime == "DRUG RELATED INCIDENT (RA 9165)") {
-                recom = 'AND POLICE PATROLLING';
-            } else {
-              recom = '';
-            }
 
                 content     +=  '<div style="width:100%;padding:10px;font-size:16px;color:white;font-weight:bold;background-color:#4695F0;">RECOMMENDATION</div>';
                 content     +=  '<div style="text-align:center;font-size:16px;">';
                 content     +=  '   <div style="padding-top:20px;">' +  ( cluster.getSize() >= 11 && cluster.getSize() <= 17 ? "<span style='color:orange'>HIGH </span>" : ( cluster.getSize() <= 10 ? "" : "<span style='color:red'>VERY HIGH </span>" ) )  + select_crime + ' PRONE AREA </div>';
-                content     +=  '   <div style="padding-top:20px;">INCREASE POLICE VISIBILITY ' + recom + ' ';
+                content     +=  '   <div style="padding-top:20px;"> ' + recom + ' ';
                 content     +=  ' IN THE ' + kilometers.toFixed(2) + 'KM RADIUS CENTERED AT </div>' ;
                 content     +=  '   <div>' + address_from_latlng + '</div>';
                                     if ( time1 != '12:00 AM' || time2 != '11:59 PM' ) {
@@ -833,8 +827,8 @@
 
         google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
 
-            $('#div-generate-report').hide();
             $('#div-generate-report-inside').show();
+            $('#div-generate-report-outside').hide();
 
             clickedClusterRadius    =   0;
             // console.log('CLUSTER CENTER: ' + cluster.getCenter().lat() + ', ' + cluster.getCenter().lng());
@@ -1010,9 +1004,9 @@
     $(document).on('click', '#btn-filter, #btn-back-map', function(){
         LoadingOverlay('show');
         toggleStatusHeatmap =  "off";
-        $('#div-heatmap').show();
+        $('#div-heatmap').show();        
         $('#div-generate-report-inside').hide();
-        $('#div-generate-report').show();
+        $('#div-generate-report-outside').show();
 
         $('#modal_heatmap_link').text("Show Heatmap");
         // LoadAllPoliceStation();
@@ -1030,8 +1024,9 @@
             });
         }, 1500);
     });
-
-    $(document).on('click', '#btn_report', function(){
+    
+    let count = 0;
+    $(document).on('click', '#btn_report_outside', function(){        
         let select_city         =   $('#select-city').val();
         let select_crime        =   $('#select-crime').val();
         let select_month        =   $('#select-month').val();
@@ -1045,6 +1040,7 @@
         let mc_cluster_object   =   markerCluster.clusters_;
         let new_data_process    =   [];
         let all_markers         =   [];
+        recommend_action(select_crime);
         LoadingOverlay('show');
 
         $.each(mc_cluster_object, function(key, data) {
@@ -1052,6 +1048,7 @@
             let centerCluster   =   data.center_;
             let kilometers      =   0;
             let address_from_latlng     =   '';
+            
 
             $.each(data.markers_, function(key, datas) {     
                 let markerPosition  =   datas.getPosition();
@@ -1092,7 +1089,11 @@
                         radius_distance :   kilometers.toFixed(2),
                         address         :   address_from_latlng
                     }
-                    new_data_process.push(process_object);
+                    //count only clusters
+                    if (kilometers != 0.00) {
+                      new_data_process.push(process_object);
+                      count++;
+                    }
 
                     if ( (key+1) == mc_cluster_object.length ) {
                         setTimeout(function() { 
@@ -1111,12 +1112,12 @@
                                     select_year         :   select_year,
                                     time1               :   time1,
                                     time2               :   time2,
-                                    value1              :   markerCluster.clusters_.length,
-                                    value2              :   markerCluster.markers_.length
+                                    value1              :   count,
+                                    value2              :   markerCluster.markers_.length,
+                                    recommend           :   recom
                                 },success:function(data){
                                     $('#report_body').html(data);
                                     $('#report_modal').modal('toggle');
-                                    // console.log(data);
                                 },error:function(){
                                 },complete:function(){
                                 }
@@ -1143,6 +1144,7 @@
         let total_cluster       =   markerCluster.clusters_;
         let new_data_process    =   report_maker_cluster_click;
         let total_marker        =   0;
+        recommend_action(select_crime);
 
         LoadingOverlay('show');
 
@@ -1177,9 +1179,6 @@
                         }
                     }
                     new_data_process[key].address   =   address_from_latlng;
-
-
-
                     if ( (key+1) == new_data_process.length ) {
                         setTimeout(function() { 
                             $.ajax({
@@ -1195,8 +1194,9 @@
                                     time1                   :   time1,
                                     time2                   :   time2,
                                     total_marker            :   total_marker,
-                                    total_cluster_length    :   total_cluster_length,
-                                    clickedClusterRadius    :   clickedClusterRadius
+                                    total_cluster_length    :   count,
+                                    clickedClusterRadius    :   clickedClusterRadius,
+                                    recommend               :   recom
                                 },success:function(data){
                                     $('#report_body').html(data);
                                     $('#report_modal').modal('toggle');
@@ -1221,11 +1221,32 @@
       await sleep(1000);
     }
 
-
     function sleep(ms) {
       return new Promise(resolve => setTimeout(resolve, ms));
     }
 
+    function recommend_action(crime_name) {
+      if ( crime_name == "CARNAPPING" ) { 
+        recom = 'INCREASE POLICE VISIBILITY, CCTV SURVEILLANCE OF ENTRY/EXIT POINTS AND POLICE CHECKPOINTS';
+      } else if ( crime_name == "DRUG RELATED INCIDENT (RA 9165)") {
+        recom = 'INCREASE POLICE VISIBILITY AND FOOT PATROLLING';
+      } else if ( crime_name == 'HOMICIDE') {
+        recom = 'INCREASE POLICE VISIBILITY AND MOBILE PATROLLING';
+      } else if ( crime_name == 'MURDER') {
+        recom = 'INCREASE POLICE VISIBILITY AND MOBILE PATROLLING';
+      } else if ( crime_name == 'PHYSICAL INJURIES') {
+        recom = 'INCREASE POLICE VISIBILITY AND RANDOM BREATH TESTING FOR SUSPECTED DRUNK PERSONS';
+      } else if ( crime_name == 'RAPE') {
+        recom = 'INCREASE POLICE VISIBILITY AND FOOT PATROLLING';
+      } else if ( crime_name == 'ROBBERY') {
+        recom = 'INCREASE POLICE VISIBILITY, IMPROVED LIGHTING AND POLICE CHECKPOINTS';
+      } else if ( crime_name == 'THEFT') {
+        recom = 'INCREASE POLICE VISIBILITY AND CCTV SURVEILLANCE';
+      } else if (crime_name == 'CRIME') {
+        recom = 'INCREASE POLICE VISIBILITY, IMPROVED LIGHTING, MOBILE AND FOOT PATROLLING';
+      }
+    return recom;              
+    }
 
     $(document).on('click', '#btn_print_all_cluster', function(){
         var divToPrint=document.getElementById("report_body");
@@ -1234,6 +1255,4 @@
         newWin.print();
         newWin.close();
     });
-
-
 </script>

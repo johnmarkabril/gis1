@@ -1,6 +1,7 @@
 <div class="row h-100 no-gutters">
     <div class="col-md-9 order-12">
         <a id="btn-back-map">Back</a>
+        <img src="<?php echo base_url(); ?>public/img/legend.png" style="position: absolute;bottom: 0px;z-index: 9;height: 250px;width: 200px;image-rendering:-webkit-optimize-contrast;" />
         <div class="map" id="map"></div>
     </div>
     <div class="col order-1">
@@ -8,26 +9,28 @@
         <div class="padding-large h-100">
             <label>SELECT LOCATION:</label>
             <select class="form-control" id="select-city">
-                <option value="">CAMANAVA</option>
+                <option value="CAMANAVA">CAMANAVA</option>
                 <option value="Kalookan City">Caloocan</option>
                 <option value="Malabon">Malabon</option>
                 <option value="Navotas">Navotas</option>
                 <option value="Valenzuela">Valenzuela</option>
             </select>
 
+            <div class="padding-top-small">
             <label>SELECT CRIME:</label>
-            <select class="form-control" id="select-crime">
-                <option value="CRIME">ALL</option>
-                <option value="CARNAPPING">Carnapping</option>
-                <option value="DRUG RELATED INCIDENT (RA 9165)">Drug Related Incident</option>
-                <option value="HOMICIDE">Homicide</option>
-                <option value="MURDER">Murder</option>
-                <option value="PHYSICAL INJURIES">Physical Injuries</option>
-                <option value="RAPE (Art. 266-A RC & R.A.8353)">Rape</option>
-                <option value="ROBBERY">Robbery</option>
-                <option value="THEFT">Theft</option>
-                <option value="VEHICULAR TRAFFIC ACCIDENT">Vehicular Traffic</option>
-            </select>
+                <select class="form-control" id="select-crime">
+                    <option value="CRIME">ALL</option>
+                    <option value="CARNAPPING">Carnapping</option>
+                    <option value="DRUG RELATED INCIDENT (RA 9165)">Drug Related Incident</option>
+                    <option value="HOMICIDE">Homicide</option>
+                    <option value="MURDER">Murder</option>
+                    <option value="PHYSICAL INJURIES">Physical Injuries</option>
+                    <option value="RAPE (Art. 266-A RC & R.A.8353)">Rape</option>
+                    <option value="ROBBERY">Robbery</option>
+                    <option value="THEFT">Theft</option>
+                    <option value="VEHICULAR TRAFFIC ACCIDENT">Vehicular Traffic</option>
+                </select>
+            </div>
 
 
             <div class="padding-top-small">
@@ -92,12 +95,12 @@
                 <input type="button" id="btn-filter" class="btn btn-default" value="Search" />
             </div>
             
-            <div class="padding-top-small" id="div-generate-report">
-                <button type="button" id="btn_report" class="btn btn-default-2">Generate Report</button>
+            <div class="padding-top-small" id="div-generate-report-outside">
+                <button type="button" id="btn_report_outside" class="btn btn-default-2">Generate Report !</button>
             </div>
             
             <div class="padding-top-small" id="div-generate-report-inside">
-                <button type="button" id="btn_report_inside" class="btn btn-default-2">Generate Report</button>
+                <button type="button" id="btn_report_inside" class="btn btn-default-2">Generate Report !!</button>
             </div>
 			
 			<div class="padding-top-small" id="div-heatmap">

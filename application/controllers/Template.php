@@ -65,6 +65,7 @@ class Template extends CI_Controller {
         $all_markers    =   $this->input->post('all_markers');
         $value1         =   $this->input->post('value1');
         $value2         =   $this->input->post('value2');
+        $recommend      =   $this->input->post('recommend');
 
         $template   =   '
                             <center style="font-size: 20px; font-weight: 700;">
@@ -86,6 +87,7 @@ class Template extends CI_Controller {
                             <div style="padding: 0 0 0 30px;">
                                 <div style="padding-top: 5px;">Total Crime Incidents: <b>'. $value2 . '</b> </div>
                                 <div style="padding-top: 5px;">Total Clusters: <b>'. $value1 . '</b></div>
+                                <div style="padding-top: 5px;">Recommendatory Action: <b>'. $recommend . '</b></div>
                             </div>
 
                             <div style="padding-top: 20px;">
@@ -127,7 +129,7 @@ class Template extends CI_Controller {
                             </div>
                         ';
         
-        $template       .=  '
+        $template       .=  'CRIME OCCURENCES:
                                 <div style="padding-top: 20px;">
                                     <table cellpadding="5" cellspacing="0" style="width: 100%;">
                                         <tbody>
@@ -174,6 +176,7 @@ class Template extends CI_Controller {
         $total_marker           =   $this->input->post('total_marker');
         $total_cluster_length   =   $this->input->post('total_cluster_length');
         $clickedClusterRadius   =   $this->input->post('clickedClusterRadius');
+        $recommend      =   $this->input->post('recommend');
 
         $template   =   '
                             <center style="font-size: 20px; font-weight: 700;">
@@ -193,8 +196,9 @@ class Template extends CI_Controller {
 
                             <div style="padding-top: 20px;">Results</div>
                             <div style="padding: 0 0 0 30px;">
-                                <div style="padding-top: 5px;">Total Crime Incidents: <b>'. $total_marker . '</b> </div>
-                                <div style="padding-top: 5px;">Total Clusters: <b>'. $total_cluster_length . '</b></div>
+                                <div style="padding-top: 5px;">Total Crime Incidents: <b>'. (sizeof($object) - 1) . '</b> </div>
+                                <div style="padding-top: 5px;">Total Clusters: <b>1</b></div>
+                                <div style="padding-top: 5px;">Recommendatory Action: <b>'. $recommend . '</b></div>
                             </div>
 
                             <div style="padding-top: 20px;">
@@ -255,7 +259,7 @@ class Template extends CI_Controller {
                                             <td style="width: 20%;border: 1px solid black;">' . $key . '</td>
                                             <td style="width: 20%;border: 1px solid black;">' . $obj['lat'] . '</td>
                                             <td style="width: 20%;border: 1px solid black;">' . $obj['lng'] . '</td>
-                                            <td style="width: 20%;border: 1px solid black;">' . $obj['address'] . '</td>
+                                            <td style="width: 20%;border: 1px solid black;">' . ( !empty($obj['address']) ? $obj['address'] : 'Geocoder not able to retrieve address due to API constraint' ) . '</td>
                                             <td style="width: 20%;border: 1px solid black;">' . $obj['date'] . '</td>
                                             <td style="width: 20%;border: 1px solid black;">' . $obj['time'] . '</td>
                                         </tr>
